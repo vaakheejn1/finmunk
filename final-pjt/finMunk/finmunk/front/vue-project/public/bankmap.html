@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>은행 찾기</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    /* 전체 페이지 스타일 */
+    body {
+      font-family: 'Noto Sans KR', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+    }
+
+    h2 {
+      color: #1a73e8;
+      margin-bottom: 20px;
+      text-align: center;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #eaeaea;
+    }
+
+    /* 선택 UI 스타일 */
+    .selection-area {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 20px;
+      justify-content: center;
+    }
+
+    select, button {
+      padding: 12px;
+      border-radius: 5px;
+      border: 1px solid #ddd;
+      font-size: 14px;
+      flex-grow: 1;
+      max-width: 200px;
+      background-color: white;
+    }
+
+    select:focus {
+      outline: none;
+      border-color: #1a73e8;
+      box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+    }
+
+    select:disabled {
+      background-color: #f1f1f1;
+      cursor: not-allowed;
+    }
+
+    button {
+      background-color: #1a73e8;
+      color: white;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background-color: #1557b0;
+    }
+
+    /* 메인 컨텐츠 영역 */
+    .main-content {
+      display: flex;
+      gap: 20px;
+      height: 500px;
+    }
+
+    /* 지도 영역 스타일 */
+    .map-container {
+      flex: 2;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* 사이드바 스타일 */
+    .sidebar {
+      flex: 1;
+      background-color: #f8f9fa;
+      border-radius: 10px;
+      padding: 0;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* 탭 네비게이션 */
+    .tab-nav {
+      display: flex;
+      background-color: white;
+      border-bottom: 1px solid #dee2e6;
+    }
+
+    .tab-button {
+      flex: 1;
+      padding: 15px 10px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-weight: 500;
+      color: #666;
+      transition: all 0.3s ease;
+      border-bottom: 3px solid transparent;
+    }
+
+    .tab-button.active {
+      color: #1a73e8;
+      border-bottom-color: #1a73e8;
+      background-color: #f8f9fa;
+    }
+
+    .tab-button:hover:not(.active) {
+      background-color: #f1f3f4;
+    }
+
+    /* 탭 컨텐츠 */
+    .tab-content {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .tab-pane {
+      display: none;
+    }
+
+    .tab-pane.active {
+      display: block;
+    }
+
+    .tab-pane h3 {
+      color: #1a73e8;
+      margin-top: 0;
+      margin-bottom: 15px;
+      font-size: 18px;
+      border-bottom: 2px solid #1a73e8;
+      padding-bottom: 8px;
+    }
+
+    .search-info {
+      background-color: white;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .search-info p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+
+    .bank-list {
+      display: none;
+    }
+
+    .bank-item {
+      background-color: white;
+      margin-bottom: 12px;
+      padding: 15px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border-left: 4px solid #1a73e8;
+    }
+
+    .bank-item:hover {
+      background-color: #e3f2fd;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+
+    .bank-item.active {
+      background-color: #1a73e8;
+      color: white;
+    }
+
+    .bank-name {
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 5px;
+      color: #1a73e8;
+    }
+
+    .bank-item.active .bank-name {
+      color: white;
+    }
+
+    .bank-address {
+      font-size: 13px;
+      color: #666;
+      margin-bottom: 3px;
+    }
+
+    .bank-item.active .bank-address {
+      color: #e3f2fd;
+    }
+
+    .bank-phone {
+      font-size: 13px;
+      color: #1a73e8;
+      font-weight: 500;
+    }
+
+    .bank-item.active .bank-phone {
+      color: white;
+    }
+
+    .no-results {
+      text-align: center;
+      color: #666;
+      padding: 40px 20px;
+      font-style: italic;
+    }
+
+    /* 상세정보 스타일 */
+    .detail-view {
+      background-color: white;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .detail-header {
+      text-align: center;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .detail-header h4 {
+      color: #1a73e8;
+      margin: 0;
+      font-size: 20px;
+    }
+
+    .detail-header p {
+      color: #666;
+      margin: 5px 0 0 0;
+      font-size: 14px;
+    }
+
+    .detail-info {
+      margin-bottom: 20px;
+    }
+
+    .info-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .info-row:last-child {
+      border-bottom: none;
+    }
+
+    .info-label {
+      font-weight: 500;
+      color: #333;
+      min-width: 80px;
+    }
+
+    .info-value {
+      color: #666;
+      text-align: right;
+      flex: 1;
+      margin-left: 10px;
+    }
+
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .action-btn {
+      flex: 1;
+      padding: 12px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.3s ease;
+    }
+
+    .btn-primary {
+      background-color: #1a73e8;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background-color: #1557b0;
+    }
+
+    .btn-secondary {
+      background-color: #f8f9fa;
+      color: #1a73e8;
+      border: 1px solid #1a73e8;
+    }
+
+    .btn-secondary:hover {
+      background-color: #e3f2fd;
+    }
+
+    .no-selection {
+      text-align: center;
+      color: #999;
+      padding: 40px 20px;
+      font-style: italic;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #1a73e8;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .info-section {
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .info-section:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+
+    .info-section h5 {
+      color: #1a73e8;
+      margin: 0 0 12px 0;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    /* 반응형 스타일 */
+    @media (max-width: 768px) {
+      .selection-area {
+        flex-direction: column;
+      }
+      
+      select, button {
+        max-width: 100%;
+      }
+      
+      .main-content {
+        flex-direction: column;
+        height: auto;
+      }
+      
+      .map-container {
+        height: 400px;
+        order: 2;
+      }
+      
+      .sidebar {
+        order: 1;
+        height: 300px;
+        margin-bottom: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2>은행 찾기</h2>
+
+  <!-- 선택 UI -->
+  <div class="selection-area">
+    <select id="sido">
+      <option value="">광역시/도 선택</option>
+      <option value="서울특별시">서울특별시</option>
+      <option value="부산광역시">부산광역시</option>
+      <option value="대구광역시">대구광역시</option>
+      <option value="인천광역시">인천광역시</option>
+      <option value="광주광역시">광주광역시</option>
+      <option value="대전광역시">대전광역시</option>
+      <option value="울산광역시">울산광역시</option>
+      <option value="세종특별자치시">세종특별자치시</option>
+      <option value="경기도">경기도</option>
+      <option value="강원특별자치도">강원특별자치도</option>
+      <option value="충청북도">충청북도</option>
+      <option value="충청남도">충청남도</option>
+      <option value="전라북도">전라북도</option>
+      <option value="전라남도">전라남도</option>
+      <option value="경상북도">경상북도</option>
+      <option value="경상남도">경상남도</option>
+      <option value="제주특별자치도">제주특별자치도</option>
+    </select>
+
+    <select id="sigungu" disabled>
+      <option value="">시/군/구 선택</option>
+    </select>
+
+    <select id="bank">
+      <option value="">은행 선택</option>
+      <option value="KB국민은행">KB국민은행</option>
+      <option value="신한은행">신한은행</option>
+      <option value="우리은행">우리은행</option>
+      <option value="하나은행">하나은행</option>
+      <option value="NH농협은행">NH농협은행</option>
+      <option value="IBK기업은행">IBK기업은행</option>
+      <option value="SC제일은행">SC제일은행</option>
+      <option value="씨티은행">씨티은행</option>
+      <option value="카카오뱅크">카카오뱅크</option>
+      <option value="케이뱅크">케이뱅크</option>
+      <option value="토스뱅크">토스뱅크</option>
+      <option value="대구은행">대구은행</option>
+      <option value="부산은행">부산은행</option>
+      <option value="광주은행">광주은행</option>
+      <option value="전북은행">전북은행</option>
+      <option value="제주은행">제주은행</option>
+      <option value="경남은행">경남은행</option>
+      <option value="수협은행">수협은행</option>
+      <option value="새마을금고">새마을금고</option>
+      <option value="신협">신협</option>
+    </select>
+
+    <button onclick="searchBanks()">지도에서 찾기</button>
+  </div>
+
+  <div class="main-content">
+    <div class="map-container">
+      <div id="map"></div>
+    </div>
+    
+    <div class="sidebar">
+      <div class="tab-nav">
+        <button class="tab-button active" onclick="switchTab('list')">검색 결과</button>
+        <button class="tab-button" onclick="switchTab('detail')">상세 정보</button>
+      </div>
+      
+      <div class="tab-content">
+        <!-- 검색 결과 탭 -->
+        <div class="tab-pane active" id="listTab">
+          <h3>검색 결과</h3>
+          <div class="search-info" id="searchInfo">
+            <p><strong>검색 조건을 선택하고 '지도에서 찾기' 버튼을 클릭하세요.</strong></p>
+          </div>
+          <div class="bank-list" id="bankList"></div>
+        </div>
+        
+        <!-- 상세 정보 탭 -->
+        <div class="tab-pane" id="detailTab">
+          <h3>상세 정보</h3>
+          <div id="detailContent">
+            <div class="no-selection">
+              은행을 선택하시면 상세 정보를 확인할 수 있습니다.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 카카오 지도 API -->
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=2ee82fff4768ac3148a6cb93cca23971&libraries=services,clusterer"></script>
+
+<script>
+const sigunguData = {
+  "서울특별시": ["강남구", "강동구", "강북구", "강서구", "관악구", "광진구", "구로구", "금천구", "노원구", "도봉구", "동대문구", "동작구", "마포구", "서대문구", "서초구", "성동구", "성북구", "송파구", "양천구", "영등포구", "용산구", "은평구", "종로구", "중구", "중랑구"],
+  "부산광역시": ["강서구", "금정구", "기장군", "남구", "동구", "동래구", "부산진구", "북구", "사상구", "사하구", "서구", "수영구", "연제구", "영도구", "중구", "해운대구"],
+  "대구광역시": ["남구", "달서구", "달성군", "동구", "북구", "서구", "수성구", "중구"],
+  "인천광역시": ["강화군", "계양구", "남동구", "동구", "미추홀구", "부평구", "서구", "연수구", "옹진군", "중구"],
+  "광주광역시": ["광산구", "남구", "동구", "북구", "서구"],
+  "대전광역시": ["대덕구", "동구", "서구", "유성구", "중구"],
+  "울산광역시": ["남구", "동구", "북구", "중구", "울주군"],
+  "세종특별자치시": ["세종시"],
+  "경기도": ["고양시", "수원시", "성남시", "용인시", "부천시", "안산시", "안양시", "남양주시", "화성시", "평택시", "의정부시", "시흥시", "파주시", "김포시", "광명시", "광주시", "군포시", "오산시", "이천시", "안성시", "의왕시", "하남시", "여주시", "양평군", "동두천시", "과천시", "가평군", "연천군"],
+  "강원특별자치도": ["강릉시", "고성군", "동해시", "삼척시", "속초시", "양구군", "양양군", "영월군", "원주시", "인제군", "정선군", "철원군", "춘천시", "태백시", "평창군", "홍천군", "화천군", "횡성군"],
+  "충청북도": ["괴산군", "단양군", "보은군", "영동군", "옥천군", "음성군", "제천시", "진천군", "청주시", "충주시"],
+  "충청남도": ["계룡시", "공주시", "금산군", "논산시", "당진시", "보령시", "부여군", "서산시", "서천군", "아산시", "예산군", "천안시", "청양군", "태안군", "홍성군"],
+  "전라북도": ["고창군", "군산시", "김제시", "남원시", "무주군", "부안군", "순창군", "완주군", "익산시", "임실군", "장수군", "전주시", "정읍시", "진안군"],
+  "전라남도": ["강진군", "고흥군", "곡성군", "광양시", "구례군", "나주시", "담양군", "목포시", "무안군", "보성군", "순천시", "신안군", "여수시", "영광군", "영암군", "완도군", "장성군", "장흥군", "진도군", "함평군", "해남군", "화순군"],
+  "경상북도": ["경산시", "경주시", "고령군", "구미시", "군위군", "김천시", "문경시", "봉화군", "상주시", "성주군", "안동시", "영덕군", "영양군", "영주시", "영천시", "예천군", "울릉군", "울진군", "의성군", "청도군", "청송군", "칠곡군", "포항시"],
+  "경상남도": ["거제시", "거창군", "고성군", "김해시", "남해군", "밀양시", "사천시", "산청군", "양산시", "의령군", "진주시", "창녕군", "창원시", "통영시", "하동군", "함안군", "함양군", "합천군"],
+  "제주특별자치도": ["서귀포시", "제주시"]
+};
+
+const sidoSelect = document.getElementById('sido');
+const sigunguSelect = document.getElementById('sigungu');
+let currentBankData = [];
+let activeMarkerIndex = -1;
+let selectedBank = null;
+
+// 시/도 변경 시 구/군 드롭다운 동기화
+sidoSelect.addEventListener('change', function () {
+  const selectedSido = this.value;
+  sigunguSelect.innerHTML = '<option value="">시/군/구 선택</option>';
+
+  if (selectedSido && sigunguData[selectedSido]) {
+    sigunguData[selectedSido].forEach(sigungu => {
+      const option = document.createElement('option');
+      option.value = sigungu;
+      option.textContent = sigungu;
+      sigunguSelect.appendChild(option);
+    });
+    sigunguSelect.disabled = false;
+  } else {
+    sigunguSelect.disabled = true;
+  }
+});
+
+// 지도 초기화
+const mapContainer = document.getElementById('map');
+const mapOption = {
+  center: new kakao.maps.LatLng(37.5665, 126.9780),
+  level: 5
+};
+const map = new kakao.maps.Map(mapContainer, mapOption);
+const ps = new kakao.maps.services.Places();
+const geocoder = new kakao.maps.services.Geocoder();
+const infowindow = new kakao.maps.InfoWindow({ zIndex: 1 });
+let markers = [];
+
+// 탭 전환 함수
+function switchTab(tabName) {
+  // 탭 버튼 활성화
+  document.querySelectorAll('.tab-button').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  document.querySelector(`[onclick="switchTab('${tabName}')"]`).classList.add('active');
+  
+  // 탭 컨텐츠 표시
+  document.querySelectorAll('.tab-pane').forEach(pane => {
+    pane.classList.remove('active');
+  });
+  
+  if (tabName === 'list') {
+    document.getElementById('listTab').classList.add('active');
+  } else if (tabName === 'detail') {
+    document.getElementById('detailTab').classList.add('active');
+  }
+}
+
+// 카카오맵 API를 활용한 상세정보 조회 함수 (수정된 버전)
+async function fetchDetailedPlaceInfo(place) {
+  return new Promise((resolve) => {
+    // 카카오맵 API의 실제 기능만 사용
+    const searchKeyword = place.place_name;
+    
+    ps.keywordSearch(searchKeyword, (data, status) => {
+      if (status === kakao.maps.services.Status.OK && data.length > 0) {
+        // 가장 일치하는 결과 찾기
+        const matchedPlace = data.find(item => 
+          item.place_name === place.place_name && 
+          Math.abs(item.x - place.x) < 0.001 && 
+          Math.abs(item.y - place.y) < 0.001
+        ) || data[0];
+        
+        // 기존 정보와 새로운 정보 병합
+        resolve({
+          ...place,
+          ...matchedPlace,
+          detailsLoaded: true
+        });
+      } else {
+        // 검색 실패 시 기존 정보 반환
+        resolve({
+          ...place,
+          detailsLoaded: false
+        });
+      }
+    }, {
+      location: new kakao.maps.LatLng(place.y, place.x),
+      radius: 100,
+      size: 5
+    });
+  });
+}
+
+// 주변 정보 조회 함수 (실제 카카오맵 카테고리 코드 사용)
+async function getNearbyInfo(place) {
+  return new Promise((resolve) => {
+    const position = new kakao.maps.LatLng(place.y, place.x);
+    const nearbyFacilities = [];
+    let searchCount = 0;
+    let completedCount = 0;
+    
+    const categories = [
+      { code: 'MT1', name: '대형마트', maxResults: 2 },
+      { code: 'SW8', name: '지하철역', maxResults: 2 },
+      { code: 'PK6', name: '주차장', maxResults: 3 },
+      { code: 'BK9', name: '은행', maxResults: 3 }
+    ];
+    
+    searchCount = categories.length;
+    
+    categories.forEach(category => {
+      ps.categorySearch(category.code, (data, status) => {
+        if (status === kakao.maps.services.Status.OK) {
+          const facilities = data.slice(0, category.maxResults).map(item => ({
+            name: item.place_name,
+            category: category.name,
+            distance: item.distance || calculateDistance(place, item)
+          }));
+          nearbyFacilities.push(...facilities);
+        }
+        
+        completedCount++;
+        if (completedCount === searchCount) {
+          // 거리순으로 정렬
+          nearbyFacilities.sort((a, b) => a.distance - b.distance);
+          resolve(nearbyFacilities.slice(0, 5)); // 최대 5개만 표시
+        }
+      }, {
+        location: position,
+        radius: 1000
+      });
+    });
+    
+    // 타임아웃 설정 (3초)
+    setTimeout(() => {
+      if (completedCount < searchCount) {
+        resolve(nearbyFacilities);
+      }
+    }, 3000);
+  });
+}
+
+// 두 장소 간 거리 계산 함수
+function calculateDistance(place1, place2) {
+  const R = 6371000; // 지구 반지름 (미터)
+  const lat1 = place1.y * Math.PI / 180;
+  const lat2 = place2.y * Math.PI / 180;
+  const deltaLat = (place2.y - place1.y) * Math.PI / 180;
+  const deltaLng = (place2.x - place1.x) * Math.PI / 180;
+  
+  const a = Math.sin(deltaLat/2) * Math.sin(deltaLat/2) +
+    Math.cos(lat1) * Math.cos(lat2) *
+    Math.sin(deltaLng/2) * Math.sin(deltaLng/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  
+  return Math.round(R * c); // 미터 단위로 반환
+}
+
+// 두 좌표 간 거리 계산 (km)
+function getDistanceFromCoords(lat1, lng1, lat2, lng2) {
+  const R = 6371; // 지구 반지름 (km)
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLng/2) * Math.sin(dLng/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
+}
+
+// 상세 정보 업데이트 함수
+async function updateDetailView(place) {
+  selectedBank = place;
+  const detailContent = document.getElementById('detailContent');
+  
+  if (!place) {
+    detailContent.innerHTML = `
+      <div class="no-selection">
+        은행을 선택하시면 상세 정보를 확인할 수 있습니다.
+      </div>
+    `;
+    return;
+  }
+  
+  // 로딩 표시
+  detailContent.innerHTML = `
+    <div class="detail-view">
+      <div class="detail-header">
+        <h4>${place.place_name}</h4>
+        <p>상세 정보를 불러오는 중...</p>
+      </div>
+      <div style="text-align: center; padding: 40px;">
+        <div class="spinner" style="margin: 0 auto;"></div>
+      </div>
+    </div>
+  `;
+  
+  try {
+    // 카카오맵 API로 추가 정보 조회
+    const [detailedPlace, nearbyInfo] = await Promise.all([
+      fetchDetailedPlaceInfo(place),
+      getNearbyInfo(place)
+    ]);
+    
+    // 은행별 기본 정보
+    const bankInfo = getBankInfo(detailedPlace.place_name);
+    
+    // 현재 지도 중심에서의 거리 계산
+    const currentCenter = map.getCenter();
+    const distance = getDistanceFromCoords(
+      currentCenter.getLat(), 
+      currentCenter.getLng(), 
+      detailedPlace.y, 
+      detailedPlace.x
+    );
+    
+    // 상세정보 렌더링
+    detailContent.innerHTML = `
+      <div class="detail-view">
+        <div class="detail-header">
+          <h4>${detailedPlace.place_name}</h4>
+          <p>${detailedPlace.category_name || '은행/금융'}</p>
+          ${detailedPlace.category_group_name ? `<small style="color: #666;">${detailedPlace.category_group_name}</small>` : ''}
+        </div>
+        
+        <div class="detail-info">
+          <!-- 기본 정보 -->
+          <div class="info-section">
+            <h5>📍 위치 정보</h5>
+            <div class="info-row">
+              <span class="info-label">주소</span>
+              <span class="info-value">${detailedPlace.address_name}</span>
+            </div>
+            
+            ${detailedPlace.road_address_name ? `
+            <div class="info-row">
+              <span class="info-label">도로명</span>
+              <span class="info-value">${detailedPlace.road_address_name}</span>
+            </div>
+            ` : ''}
+            
+            <div class="info-row">
+              <span class="info-label">지도중심거리</span>
+              <span class="info-value">${distance < 1 ? Math.round(distance * 1000) + 'm' : distance.toFixed(1) + 'km'}</span>
+            </div>
+            
+            <div class="info-row">
+              <span class="info-label">좌표</span>
+              <span class="info-value">${parseFloat(detailedPlace.y).toFixed(6)}, ${parseFloat(detailedPlace.x).toFixed(6)}</span>
+            </div>
+          </div>
+          
+          <!-- 연락처 정보 -->
+          ${detailedPlace.phone ? `
+          <div class="info-section">
+            <h5>📞 연락처</h5>
+            <div class="info-row">
+              <span class="info-label">전화번호</span>
+              <span class="info-value">${detailedPlace.phone}</span>
+            </div>
+          </div>
+          ` : ''}
+          
+          <!-- 영업 정보 -->
+          <div class="info-section">
+            <h5>🕒 영업 시간</h5>
+            <div class="info-row">
+              <span class="info-label">평일</span>
+              <span class="info-value">${bankInfo.businessHours}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">토요일</span>
+              <span class="info-value">${bankInfo.saturdayHours}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">일요일</span>
+              <span class="info-value">${bankInfo.sundayHours}</span>
+            </div>
+          </div>
+          
+          <!-- 서비스 정보 -->
+          <div class="info-section">
+            <h5>🏦 서비스</h5>
+            <div class="info-row">
+              <span class="info-label">제공 서비스</span>
+              <span class="info-value">${bankInfo.services}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">주차</span>
+              <span class="info-value">${bankInfo.parking}</span>
+            </div>
+          </div>
+          
+          <!-- 주변 정보 -->
+          ${nearbyInfo.length > 0 ? `
+          <div class="info-section">
+            <h5>📍 주변 시설 (1km 내)</h5>
+            ${nearbyInfo.slice(0, 5).map(facility => `
+              <div class="info-row">
+                <span class="info-label">${facility.category}</span>
+                <span class="info-value">${facility.name} (${facility.distance}m)</span>
+              </div>
+            `).join('')}
+          </div>
+          ` : ''}
+          
+          <!-- 추가 정보 -->
+          ${detailedPlace.place_url ? `
+          <div class="info-section">
+            <h5>🔗 추가 정보</h5>
+            <div class="info-row">
+              <span class="info-label">카카오맵</span>
+              <span class="info-value">
+                <a href="${detailedPlace.place_url}" target="_blank" style="color: #1a73e8; text-decoration: none;">상세보기 →</a>
+              </span>
+            </div>
+          </div>
+          ` : ''}
+        </div>
+        
+        <div class="action-buttons">
+          <button class="action-btn btn-primary" onclick="focusOnMap()">
+            📍 지도에서 보기
+          </button>
+          ${detailedPlace.phone ? `
+          <button class="action-btn btn-secondary" onclick="callBank()">
+            📞 전화걸기
+          </button>
+          ` : ''}
+        </div>
+        
+        <div class="action-buttons" style="margin-top: 10px;">
+          <button class="action-btn btn-secondary" onclick="openKakaoMap()">
+            🗺️ 카카오맵에서 보기
+          </button>
+          <button class="action-btn btn-secondary" onclick="getDirections()">
+            🚗 길찾기
+          </button>
+        </div>
+        
+        <div class="action-buttons" style="margin-top: 10px;">
+          <button class="action-btn btn-secondary" onclick="shareLocation()">
+            📤 위치 공유
+          </button>
+        </div>
+      </div>
+    `;
+    
+  } catch (error) {
+    console.error('상세정보 조회 실패:', error);
+    
+    // 에러 발생 시 기본 정보만 표시
+    const bankInfo = getBankInfo(place.place_name);
+    
+    detailContent.innerHTML = `
+      <div class="detail-view">
+        <div class="detail-header">
+          <h4>${place.place_name}</h4>
+          <p>${place.category_name || '은행/금융'}</p>
+          <small style="color: #e74c3c;">일부 정보를 불러올 수 없습니다</small>
+        </div>
+        
+        <div class="detail-info">
+          <div class="info-section">
+            <h5>📍 기본 정보</h5>
+            <div class="info-row">
+              <span class="info-label">주소</span>
+              <span class="info-value">${place.address_name}</span>
+            </div>
+            
+            ${place.phone ? `
+            <div class="info-row">
+              <span class="info-label">전화번호</span>
+              <span class="info-value">${place.phone}</span>
+            </div>
+            ` : ''}
+          </div>
+          
+          <div class="info-section">
+            <h5>🕒 영업 시간 (일반적)</h5>
+            <div class="info-row">
+              <span class="info-label">평일</span>
+              <span class="info-value">${bankInfo.businessHours}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">토요일</span>
+              <span class="info-value">${bankInfo.saturdayHours}</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="action-buttons">
+          <button class="action-btn btn-primary" onclick="focusOnMap()">
+            📍 지도에서 보기
+          </button>
+          ${place.phone ? `
+          <button class="action-btn btn-secondary" onclick="callBank()">
+            📞 전화걸기
+          </button>
+          ` : ''}
+        </div>
+      </div>
+    `;
+  }
+}
+
+// 은행별 기본 정보 제공 함수
+function getBankInfo(placeName) {
+  const bankName = placeName.toLowerCase();
+  
+  // ATM인지 확인
+  if (bankName.includes('atm') || bankName.includes('현금자동입출금기')) {
+    return {
+      businessHours: '24시간 운영',
+      saturdayHours: '24시간 운영',
+      sundayHours: '24시간 운영',
+      parking: 'ATM',
+      services: '현금입출금, 이체'
+    };
+  }
+  
+  // 일반적인 은행 정보
+  let defaultInfo = {
+    businessHours: '평일 09:00 - 16:00',
+    saturdayHours: '토요일 휴무',
+    sundayHours: '일요일 휴무',
+    parking: '주차 가능',
+    services: '예금, 대출, 환전, 상담'
+  };
+  
+  // 은행별 특화 정보
+  if (bankName.includes('kb') || bankName.includes('국민')) {
+    defaultInfo.saturdayHours = '토요일 09:00 - 13:00';
+    defaultInfo.services = '예금, 대출, 환전, 보험, 투자상품';
+  } else if (bankName.includes('신한')) {
+    defaultInfo.saturdayHours = '토요일 09:00 - 13:00';
+    defaultInfo.services = '예금, 대출, 환전, 보험, 카드발급';
+  } else if (bankName.includes('우리')) {
+    defaultInfo.services = '예금, 대출, 환전, 외환, 기업뱅킹';
+  } else if (bankName.includes('하나')) {
+    defaultInfo.services = '예금, 대출, 환전, 보험, 투자';
+  } else if (bankName.includes('카카오뱅크') || bankName.includes('케이뱅크') || bankName.includes('토스뱅크')) {
+    defaultInfo = {
+      businessHours: '온라인 전용 (24시간)',
+      saturdayHours: '온라인 전용 (24시간)',
+      sundayHours: '온라인 전용 (24시간)',
+      parking: '매장 없음',
+      services: '온라인 뱅킹 전용'
+    };
+  }
+  
+  return defaultInfo;
+}
+
+// 사이드바 업데이트 함수
+function updateSidebar(data, searchKeyword) {
+  const searchInfo = document.getElementById('searchInfo');
+  const bankList = document.getElementById('bankList');
+  
+  if (data && data.length > 0) {
+    searchInfo.innerHTML = `
+      <p><strong>검색어:</strong> ${searchKeyword}</p>
+      <p><strong>검색 결과:</strong> ${data.length}개</p>
+    `;
+    
+    bankList.innerHTML = '';
+    bankList.style.display = 'block';
+    
+    data.forEach((place, index) => {
+      const bankItem = document.createElement('div');
+      bankItem.className = 'bank-item';
+      bankItem.innerHTML = `
+        <div class="bank-name">${place.place_name}</div>
+        <div class="bank-address">${place.address_name}</div>
+        ${place.phone ? `<div class="bank-phone">${place.phone}</div>` : ''}
+      `;
+      
+      // 클릭 이벤트 추가
+      bankItem.addEventListener('click', () => {
+        // 이전 활성 상태 제거
+        document.querySelectorAll('.bank-item').forEach(item => {
+          item.classList.remove('active');
+        });
+        
+        // 현재 항목 활성화
+        bankItem.classList.add('active');
+        activeMarkerIndex = index;
+        
+        // 상세 정보 업데이트
+        updateDetailView(place);
+        
+        // 지도 중심을 해당 위치로 이동
+        const position = new kakao.maps.LatLng(place.y, place.x);
+        map.setCenter(position);
+        map.setLevel(3);
+        
+        // 정보창 표시
+        infowindow.setContent(`
+          <div style="padding:10px;font-size:14px;max-width:300px;line-height:1.5">
+            <strong>${place.place_name}</strong><br>
+            <span style="color:#777;font-size:12px">${place.address_name}</span><br>
+            ${place.phone ? `<span style="color:#1a73e8;font-size:13px">${place.phone}</span>` : ''}
+          </div>
+        `);
+        infowindow.open(map, markers[index]);
+      });
+      
+      bankList.appendChild(bankItem);
+    });
+  } else {
+    searchInfo.innerHTML = `
+      <p><strong>검색어:</strong> ${searchKeyword}</p>
+      <p><strong>검색 결과:</strong> 결과 없음</p>
+    `;
+    bankList.innerHTML = '<div class="no-results">검색 결과가 없습니다.</div>';
+    bankList.style.display = 'block';
+  }
+}
+
+// 검색 실행 함수
+function searchBanks() {
+  const sido = sidoSelect.value;
+  const sigungu = sigunguSelect.value;
+  const bank = document.getElementById('bank').value;
+
+  if (!sido || !sigungu || !bank) {
+    alert("모든 항목을 선택해주세요.");
+    return;
+  }
+
+  const keyword = `${sido} ${sigungu} ${bank}`;
+  console.log("🔍 검색 키워드:", keyword);
+
+  // 이전 마커 제거
+  markers.forEach(marker => marker.setMap(null));
+  markers = [];
+  activeMarkerIndex = -1;
+
+  ps.keywordSearch(keyword, function (data, status) {
+    if (status === kakao.maps.services.Status.OK) {
+      currentBankData = data;
+      const bounds = new kakao.maps.LatLngBounds();
+
+      data.forEach((place, index) => {
+        const position = new kakao.maps.LatLng(place.y, place.x);
+        const marker = new kakao.maps.Marker({
+          map: map,
+          position: position
+        });
+
+        kakao.maps.event.addListener(marker, 'click', function () {
+          // 사이드바에서 해당 항목 활성화
+          document.querySelectorAll('.bank-item').forEach(item => {
+            item.classList.remove('active');
+          });
+          
+          const bankItems = document.querySelectorAll('.bank-item');
+          if (bankItems[index]) {
+            bankItems[index].classList.add('active');
+            bankItems[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+          
+          activeMarkerIndex = index;
+          
+          // 상세 정보 업데이트
+          updateDetailView(place);
+          
+          infowindow.setContent(`
+            <div style="padding:10px;font-size:14px;max-width:300px;line-height:1.5">
+              <strong>${place.place_name}</strong><br>
+              <span style="color:#777;font-size:12px">${place.address_name}</span><br>
+              ${place.phone ? `<span style="color:#1a73e8;font-size:13px">${place.phone}</span>` : ''}
+            </div>
+          `);
+          infowindow.open(map, marker);
+        });
+
+        markers.push(marker);
+        bounds.extend(position);
+      });
+
+      map.setBounds(bounds);
+      updateSidebar(data, keyword);
+    } else {
+      alert("해당 지역의 은행 정보를 찾을 수 없습니다.");
+      console.log("검색 실패 상태:", status);
+      updateSidebar([], keyword);
+    }
+  });
+}
+
+// 지도에서 보기 함수
+function focusOnMap() {
+  if (selectedBank) {
+    const position = new kakao.maps.LatLng(selectedBank.y, selectedBank.x);
+    map.setCenter(position);
+    map.setLevel(2);
+    
+    // 정보창 표시
+    infowindow.setContent(`
+      <div style="padding:10px;font-size:14px;max-width:300px;line-height:1.5">
+        <strong>${selectedBank.place_name}</strong><br>
+        <span style="color:#777;font-size:12px">${selectedBank.address_name}</span><br>
+        ${selectedBank.phone ? `<span style="color:#1a73e8;font-size:13px">${selectedBank.phone}</span>` : ''}
+      </div>
+    `);
+    
+    if (markers[activeMarkerIndex]) {
+      infowindow.open(map, markers[activeMarkerIndex]);
+    }
+    
+    // 검색 결과 탭으로 전환
+    switchTab('list');
+  }
+}
+
+// 전화걸기 함수
+function callBank() {
+  if (selectedBank && selectedBank.phone) {
+    window.location.href = `tel:${selectedBank.phone}`;
+  }
+}
+
+// 카카오맵에서 보기 함수
+function openKakaoMap() {
+  if (selectedBank) {
+    const url = `https://map.kakao.com/link/map/${selectedBank.place_name},${selectedBank.y},${selectedBank.x}`;
+    window.open(url, '_blank');
+  }
+}
+
+// 길찾기 함수
+function getDirections() {
+  if (selectedBank) {
+    const url = `https://map.kakao.com/link/to/${selectedBank.place_name},${selectedBank.y},${selectedBank.x}`;
+    window.open(url, '_blank');
+  }
+}
+
+// 위치 공유 함수
+function shareLocation() {
+  if (selectedBank && navigator.share) {
+    navigator.share({
+      title: selectedBank.place_name,
+      text: `${selectedBank.place_name} - ${selectedBank.address_name}`,
+      url: window.location.href
+    }).catch(console.error);
+  } else if (selectedBank) {
+    // Web Share API를 지원하지 않는 경우 클립보드에 복사
+    const shareText = `${selectedBank.place_name}\n${selectedBank.address_name}\n${window.location.href}`;
+    
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(shareText).then(() => {
+        alert('위치 정보가 클립보드에 복사되었습니다.');
+      }).catch(() => {
+        fallbackCopyToClipboard(shareText);
+      });
+    } else {
+      fallbackCopyToClipboard(shareText);
+    }
+  }
+}
+
+// 클립보드 복사 대체 함수
+function fallbackCopyToClipboard(text) {
+  const textArea = document.createElement('textarea');
+  textArea.value = text;
+  textArea.style.position = 'fixed';
+  textArea.style.left = '-999999px';
+  textArea.style.top = '-999999px';
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+  
+  try {
+    document.execCommand('copy');
+    alert('위치 정보가 클립보드에 복사되었습니다.');
+  } catch (err) {
+    console.error('클립보드 복사 실패:', err);
+    prompt('다음 내용을 복사하세요:', text);
+  } finally {
+    document.body.removeChild(textArea);
+  }
+}
+
+// 페이지 로드 시 지도 렌더링
+window.onload = function() {
+  console.log('페이지 로드 완료');
+  
+  // 지도 크기 조정을 위한 이벤트
+  window.addEventListener('resize', function() {
+    map.relayout();
+  });
+  
+  // 카카오맵 API 로드 확인
+  setTimeout(() => {
+    if (window.kakao && window.kakao.maps) {
+      console.log('카카오맵 API 로드 확인됨');
+    } else {
+      console.error('카카오맵 API 로드 실패');
+    }
+  }, 1000);
+};
+</script>
+
+</body>
+</html>

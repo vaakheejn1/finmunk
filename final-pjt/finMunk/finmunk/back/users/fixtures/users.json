@@ -1,0 +1,77 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "username": "chiphoon",
+      "password": "pbkdf2_sha256$260000$dummy1pass", 
+      "age": 24,
+      "job": true,
+      "income": 2800,
+      "assets": 500,
+      "bio": "도토리를 모으는 직장인 다람쥐 🐿️",
+      "is_superuser": false,
+      "is_staff": false
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "username": "mintjun",
+      "password": "pbkdf2_sha256$260000$dummy2pass", 
+      "age": 31,
+      "job": true,
+      "income": 4200,
+      "assets": 1500,
+      "bio": "적금도 좋고 주식도 좋아요 📈",
+      "is_superuser": false,
+      "is_staff": false
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "username": "acornsaver",
+      "password": "pbkdf2_sha256$260000$dummy3pass", 
+      "age": 19,
+      "job": false,
+      "income": 0,
+      "assets": 200,
+      "bio": "알바비는 전부 저축 중 😎",
+      "is_superuser": false,
+      "is_staff": false
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 4,
+    "fields": {
+      "username": "forestking",
+      "password": "pbkdf2_sha256$260000$dummy4pass", 
+      "age": 38,
+      "job": true,
+      "income": 6000,
+      "assets": 7000,
+      "bio": "금리 비교하다 finMunk에 정착했어요",
+      "is_superuser": false,
+      "is_staff": false
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 5,
+    "fields": {
+      "username": "nutfin",
+      "password": "pbkdf2_sha256$260000$dummy5pass", 
+      "age": 27,
+      "job": true,
+      "income": 3400,
+      "assets": 1200,
+      "bio": "은행보다 금리가 높은 상품을 찾고 싶었어요!",
+      "is_superuser": false,
+      "is_staff": false
+    }
+  }
+]

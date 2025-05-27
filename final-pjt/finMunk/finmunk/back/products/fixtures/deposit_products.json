@@ -1,0 +1,2214 @@
+[
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.45,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "우리은행",
+      "product_name": "WON플러스예금",
+      "join_way": "인터넷,스마트폰,전화(텔레뱅킹)",
+      "maturity_type": "만기 후\n- 1개월이내 : 만기시점약정이율×50%\n- 1개월초과 6개월이내: 만기시점약정이율×30%\n- 6개월초과 : 만기시점약정이율×20%\n\n※ 만기시점 약정이율 : 일반정기예금 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국스탠다드차타드은행",
+      "product_name": "e-그린세이브예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월: 약정이율의 50%\n만기 후 1개월 초과 1년 이내: 약정이율의 30%\n만기 후 1년 초과: 약정이율의 10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "1",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국스탠다드차타드은행",
+      "product_name": "e-그린세이브예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월: 약정이율의 50%\n만기 후 1개월 초과 1년 이내: 약정이율의 30%\n만기 후 1년 초과: 약정이율의 10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.75,
+      "interest_rate2": 2.95
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국스탠다드차타드은행",
+      "product_name": "e-그린세이브예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월: 약정이율의 50%\n만기 후 1개월 초과 1년 이내: 약정이율의 30%\n만기 후 1년 초과: 약정이율의 10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.75,
+      "interest_rate2": 2.95
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국스탠다드차타드은행",
+      "product_name": "e-그린세이브예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월: 약정이율의 50%\n만기 후 1개월 초과 1년 이내: 약정이율의 30%\n만기 후 1년 초과: 약정이율의 10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.9
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM주거래우대예금(첫만남고객형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 1.67,
+      "interest_rate2": 2.32
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM주거래우대예금(첫만남고객형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.26,
+      "interest_rate2": 2.91
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM주거래우대예금(첫만남고객형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.13,
+      "interest_rate2": 2.78
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM주거래우대예금(첫만남고객형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.15,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM행복파트너예금(일반형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "3",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 1.47,
+      "interest_rate2": 1.92
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM행복파트너예금(일반형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "3",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 1.87,
+      "interest_rate2": 2.32
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM행복파트너예금(일반형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "3",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.46,
+      "interest_rate2": 2.91
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM행복파트너예금(일반형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "3",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.33,
+      "interest_rate2": 2.78
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM행복파트너예금(일반형)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "3",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.35,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM함께예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.85
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.6,
+      "interest_rate2": 1.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.18,
+      "interest_rate2": 2.43
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "아이엠뱅크",
+      "product_name": "iM스마트예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 미만 경과 : 약정이자율 x 50%\n만기 후 3개월 미만 경과 : 약정이자율 x 25% \n만기 후 3개월 이상 경과 : 약정이자율 x 10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.8,
+      "interest_rate2": 1.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.1,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 1.9,
+      "interest_rate2": 1.9
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "LIVE정기예금",
+      "join_way": "영업점,인터넷",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 1.9,
+      "interest_rate2": 1.9
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.4,
+      "interest_rate2": 2.1
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 1.75,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 1.9,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 1.55,
+      "interest_rate2": 2.25
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 특판 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 1.25,
+      "interest_rate2": 1.95
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 레벨업 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "부산은행",
+      "product_name": "더(The) 레벨업 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기후1년내: 가입기간별 일반정기예금이율 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 x 20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.45,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "미즈월복리정기예금",
+      "join_way": "영업점,인터넷,스마트폰,기타",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 50000000,
+      "save_term": "12",
+      "interest_rate": 2.31,
+      "interest_rate2": 2.51
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "미즈월복리정기예금",
+      "join_way": "영업점,인터넷,스마트폰,기타",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 50000000,
+      "save_term": "24",
+      "interest_rate": 2.32,
+      "interest_rate2": 2.52
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "미즈월복리정기예금",
+      "join_way": "영업점,인터넷,스마트폰,기타",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 50000000,
+      "save_term": "36",
+      "interest_rate": 2.26,
+      "interest_rate2": 2.46
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.24,
+      "interest_rate2": 2.34
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.23,
+      "interest_rate2": 2.33
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.21,
+      "interest_rate2": 2.31
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.21,
+      "interest_rate2": 2.41
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.22,
+      "interest_rate2": 2.42
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "스마트모아Dream정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.16,
+      "interest_rate2": 2.36
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "굿스타트예금",
+      "join_way": "스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 100000000,
+      "save_term": "12",
+      "interest_rate": 2.11,
+      "interest_rate2": 2.61
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "The플러스예금",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "The플러스예금",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "광주은행",
+      "product_name": "The플러스예금",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "*만기후 1개월 이내: 만기일 당시 최초 가입 기간별 일반정기예금 고시금리의 1/2 \n*만기후 1개월 초과: 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2,
+      "interest_rate2": 2.1
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.1,
+      "interest_rate2": 2.2
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.35
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.4
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.3
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.3
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.4,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 1.7,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 1.9,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 1.85,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "J정기예금\n(만기지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 1.85,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "스마일드림 \n정기예금\n(개인/선이자\n지급식)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 1.7,
+      "interest_rate2": 2.55
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "스마일드림 \n정기예금\n(개인/선이자\n지급식)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 1.8,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "제주은행",
+      "product_name": "스마일드림 \n정기예금\n(개인/선이자\n지급식)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "- 만기후 1개월 이내 : (일반)정기예금 기본이자율의 50%\n(단, 최저금리 0.1%)\n- 만기후 1개월 초과 3개월 이내 : (일반)정기예금 기본이자율의 25%\n(단, 최저금리 0.1%)\n- 만기후 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 1.9,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 다이렉트예금통장\n(만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.8,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 다이렉트예금통장\n(만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.8,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 다이렉트예금통장\n(만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2.77,
+      "interest_rate2": 2.77
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 123 정기예금\n (만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "12",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 123 정기예금\n (만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "24",
+      "interest_rate": 0.0,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "JB 123 정기예금\n (만기일시지급식)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "36",
+      "interest_rate": 0.0,
+      "interest_rate2": 2.85
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "내맘 쏙 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 999999999999,
+      "save_term": "1",
+      "interest_rate": 2.1,
+      "interest_rate2": 2.4
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "내맘 쏙 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 999999999999,
+      "save_term": "3",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.85
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "내맘 쏙 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 999999999999,
+      "save_term": "6",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.85
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "전북은행",
+      "product_name": "내맘 쏙 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기후 1개월 이하 : 만기일 현재 계약기간별 정기예금 실행이율 1/2\n만기후 1개월 초과 : 연 0.01%",
+      "join_deny": "1",
+      "max_limit": 999999999999,
+      "save_term": "12",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK더조은정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "3",
+      "interest_rate": 2.1,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK더조은정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "6",
+      "interest_rate": 2.15,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK더조은정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "12",
+      "interest_rate": 2.15,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK더조은정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "24",
+      "interest_rate": 2.15,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK주거래우대정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "6",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK주거래우대정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "12",
+      "interest_rate": 2.35,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "BNK주거래우대정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "24",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.55
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "The든든예금(시즌2)",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.05,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "The든든예금(시즌2)",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.05,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "경남은행",
+      "product_name": "The든든예금(시즌2)",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 1개월 이내: 일반정기예금 기본이율 Ⅹ50%\n만기 후 1개월 초과: 일반정기예금 기본이율 Ⅹ20%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK평생한가족통장(실세금리정기예금)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 100000000,
+      "save_term": "12",
+      "interest_rate": 2.45,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK평생한가족통장(실세금리정기예금)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 100000000,
+      "save_term": "24",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK평생한가족통장(실세금리정기예금)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 100000000,
+      "save_term": "36",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "1석7조통장(실세금리정기예금)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.24,
+      "interest_rate2": 2.24
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "1석7조통장(실세금리정기예금)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.3
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "1석7조통장(실세금리정기예금)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.23,
+      "interest_rate2": 2.23
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "1석7조통장(실세금리정기예금)",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.27,
+      "interest_rate2": 2.27
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK굴리기통장(정기예금)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 300000000,
+      "save_term": "1",
+      "interest_rate": 2.38,
+      "interest_rate2": 2.38
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK굴리기통장(정기예금)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 300000000,
+      "save_term": "3",
+      "interest_rate": 2.37,
+      "interest_rate2": 2.37
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK굴리기통장(정기예금)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 300000000,
+      "save_term": "6",
+      "interest_rate": 2.34,
+      "interest_rate2": 2.34
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "중소기업은행",
+      "product_name": "IBK굴리기통장(정기예금)",
+      "join_way": "영업점,스마트폰",
+      "maturity_type": "만기일 당시 정기예금 만기후 이자율 적용 -1개월 이내: 만기일 당시 계약기간별 고시금리×50% -1월 초과 6개월 이내: 만기일 당시 계약기간별 고시금리×30% -6개월 초과: 만기일 당시 계약기간별 고시금리×20%",
+      "join_deny": "1",
+      "max_limit": 300000000,
+      "save_term": "12",
+      "interest_rate": 2.37,
+      "interest_rate2": 2.37
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "한국산업은행",
+      "product_name": "KDB 정기예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 1년 이내 : 만기일 현재 고시된 일반 정기예금 해당기간 기본이율의 1/2\n* 만기후 1년 초과 : 만기일 현재 고시된 보통예금 이자율",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.8,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.63
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.58
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.58
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "국민은행",
+      "product_name": "KB Star 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "- 1개월 이내 : 기본이율 X 50%\n- 1개월 초과  ~ 3개월 이내 : 기본이율 X 30%\n- 3개월 초과 : 0.1%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.8,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2,
+      "interest_rate2": 2.55
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.05,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.15,
+      "interest_rate2": 2.55
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "신한은행",
+      "product_name": "쏠편한 정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "-1개월 이하: (일반) 정기예금 기본금리 1/2\n(단, 최저금리 0.10%)\n-1개월 초과~6개월 이하: (일반) 정기예금 기본금리의 1/4\n(단, 최저금리 0.10%)\n-6개월 초과:  0.10%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.25,
+      "interest_rate2": 2.45
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH왈츠회전예금 II",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후 6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH왈츠회전예금 II",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후 6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH왈츠회전예금 II",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후 6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH왈츠회전예금 II",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후 6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.55,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH내가Green초록세상예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH내가Green초록세상예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.35,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH내가Green초록세상예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 일반정기예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.3,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "1",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "24",
+      "interest_rate": 2.48,
+      "interest_rate2": 2.48
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH올원e예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "36",
+      "interest_rate": 2.48,
+      "interest_rate2": 2.48
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "농협은행주식회사",
+      "product_name": "NH고향사랑기부예금",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "만기 후 3개월 : 기본금리의 50%\n만기 후 6개월 : 기본금리의 20%\n만기 후  6개월 초과 : 기본금리의 10%\n\n* 기본금리 : 만기시점의 큰만족실세예금 계약기간별 금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.4,
+      "interest_rate2": 3.1
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 1.8,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.1,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "하나은행",
+      "product_name": "하나의정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "1개월이내 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/2\n1개월초과 : 지급당시 해당기간 일반정기예금 월이자지급식 기본금리 1/4",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.2,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.8,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 케이뱅크",
+      "product_name": "코드K 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "만기 후 \n- 1개월 이내 : 만기시점 기본금리 X 50%\n- 1개월 초과~6개월 이내 : 만기시점 기본금리 X 30%\n- 6개월 초과 : 연 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "Sh평생주거래우대예금\n(만기일시지급식)",
+      "join_way": "영업점",
+      "maturity_type": "* 만기후 1년 이내\n - 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n* 만기후 1년 초과\n - 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.4,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "Sh해양플라스틱Zero!예금\n(만기일시지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "6",
+      "interest_rate": 2.45,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "Sh해양플라스틱Zero!예금\n(만기일시지급식)",
+      "join_way": "영업점,인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 500000000,
+      "save_term": "12",
+      "interest_rate": 2.45,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "헤이(Hey)정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.75,
+      "interest_rate2": 2.75
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "헤이(Hey)정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.8,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "헤이(Hey)정기예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "12",
+      "interest_rate": 2.8,
+      "interest_rate2": 2.8
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "수협은행",
+      "product_name": "Sh첫만남우대예금",
+      "join_way": "인터넷,스마트폰",
+      "maturity_type": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
+      "join_deny": "1",
+      "max_limit": 10000000,
+      "save_term": "12",
+      "interest_rate": 2.05,
+      "interest_rate2": 3.1
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "1",
+      "interest_rate": 2.6,
+      "interest_rate2": 2.6
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "3",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "6",
+      "interest_rate": 2.65,
+      "interest_rate2": 2.65
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "12",
+      "interest_rate": 2.7,
+      "interest_rate2": 2.7
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "24",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "주식회사 카카오뱅크",
+      "product_name": "카카오뱅크 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "- 만기 후 1개월 이내 : 가입(또는 자동연장)시점 기본금리x50%\n- 만기 후 1개월초과 3개월 이내 : 가입(또는 자동연장)시점 기본금리x30%\n- 만기 후 3개월 초과 : 0.20%",
+      "join_deny": "1",
+      "max_limit": null,
+      "save_term": "36",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "토스뱅크 주식회사",
+      "product_name": "토스뱅크 먼저 이자 받는 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "3",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  },
+  {
+    "model": "products.depositproduct",
+    "fields": {
+      "bank_name": "토스뱅크 주식회사",
+      "product_name": "토스뱅크 먼저 이자 받는 정기예금",
+      "join_way": "스마트폰",
+      "maturity_type": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
+      "join_deny": "1",
+      "max_limit": 1000000000,
+      "save_term": "6",
+      "interest_rate": 2.5,
+      "interest_rate2": 2.5
+    }
+  }
+]

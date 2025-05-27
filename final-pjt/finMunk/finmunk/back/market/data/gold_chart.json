@@ -1,0 +1,6671 @@
+[
+  {
+    "type": "Au",
+    "date": "2023-01-02",
+    "bid": 1823.68,
+    "ask": 1827.2,
+    "internationalPrice": 1827.2,
+    "domesticPrice": 74253.0,
+    "domesticPriceDon": 278449.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-03",
+    "bid": 1829.72,
+    "ask": 1831.19,
+    "internationalPrice": 1831.19,
+    "domesticPrice": 74905.0,
+    "domesticPriceDon": 280894.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-04",
+    "bid": 1837.48,
+    "ask": 1838.9,
+    "internationalPrice": 1838.9,
+    "domesticPrice": 75741.0,
+    "domesticPriceDon": 284030.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-05",
+    "bid": 1854.71,
+    "ask": 1855.86,
+    "internationalPrice": 1855.86,
+    "domesticPrice": 75980.0,
+    "domesticPriceDon": 284926.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-06",
+    "bid": 1831.97,
+    "ask": 1833.11,
+    "internationalPrice": 1833.11,
+    "domesticPrice": 75037.0,
+    "domesticPriceDon": 281387.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-07",
+    "bid": 1865.63,
+    "ask": 1867.61,
+    "internationalPrice": 1867.61,
+    "domesticPrice": 76317.0,
+    "domesticPriceDon": 286190.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-09",
+    "bid": 1868.45,
+    "ask": 1869.14,
+    "internationalPrice": 1869.14,
+    "domesticPrice": 75313.0,
+    "domesticPriceDon": 282422.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-10",
+    "bid": 1869.68,
+    "ask": 1871.0,
+    "internationalPrice": 1871.0,
+    "domesticPrice": 74784.0,
+    "domesticPriceDon": 280438.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-11",
+    "bid": 1877.01,
+    "ask": 1878.13,
+    "internationalPrice": 1878.13,
+    "domesticPrice": 74960.0,
+    "domesticPriceDon": 281099.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-12",
+    "bid": 1877.03,
+    "ask": 1878.18,
+    "internationalPrice": 1878.18,
+    "domesticPrice": 74991.0,
+    "domesticPriceDon": 281218.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-13",
+    "bid": 1898.52,
+    "ask": 1899.67,
+    "internationalPrice": 1899.67,
+    "domesticPrice": 75614.0,
+    "domesticPriceDon": 283554.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-14",
+    "bid": 1920.2,
+    "ask": 1921.66,
+    "internationalPrice": 1921.66,
+    "domesticPrice": 76796.0,
+    "domesticPriceDon": 287985.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-16",
+    "bid": 1917.21,
+    "ask": 1919.19,
+    "internationalPrice": 1919.19,
+    "domesticPrice": 76499.0,
+    "domesticPriceDon": 286870.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-17",
+    "bid": 1917.97,
+    "ask": 1919.25,
+    "internationalPrice": 1919.25,
+    "domesticPrice": 76532.0,
+    "domesticPriceDon": 286997.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-18",
+    "bid": 1908.4,
+    "ask": 1909.54,
+    "internationalPrice": 1909.54,
+    "domesticPrice": 76021.0,
+    "domesticPriceDon": 285080.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-19",
+    "bid": 1907.39,
+    "ask": 1908.54,
+    "internationalPrice": 1908.54,
+    "domesticPrice": 75967.0,
+    "domesticPriceDon": 284878.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-20",
+    "bid": 1931.32,
+    "ask": 1932.48,
+    "internationalPrice": 1932.48,
+    "domesticPrice": 76637.0,
+    "domesticPriceDon": 287389.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-21",
+    "bid": 1926.72,
+    "ask": 1928.18,
+    "internationalPrice": 1928.18,
+    "domesticPrice": 76623.0,
+    "domesticPriceDon": 287335.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-25",
+    "bid": 1937.02,
+    "ask": 1937.82,
+    "internationalPrice": 1937.82,
+    "domesticPrice": 76976.0,
+    "domesticPriceDon": 288662.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-26",
+    "bid": 1948.08,
+    "ask": 1948.73,
+    "internationalPrice": 1948.73,
+    "domesticPrice": 77271.0,
+    "domesticPriceDon": 289768.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-27",
+    "bid": 1931.17,
+    "ask": 1931.81,
+    "internationalPrice": 1931.81,
+    "domesticPrice": 76400.0,
+    "domesticPriceDon": 286502.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-28",
+    "bid": 1927.32,
+    "ask": 1929.33,
+    "internationalPrice": 1929.33,
+    "domesticPrice": 76668.0,
+    "domesticPriceDon": 287506.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-30",
+    "bid": 1929.05,
+    "ask": 1929.73,
+    "internationalPrice": 1929.73,
+    "domesticPrice": 76306.0,
+    "domesticPriceDon": 286147.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-01-31",
+    "bid": 1921.58,
+    "ask": 1922.5,
+    "internationalPrice": 1922.5,
+    "domesticPrice": 76156.0,
+    "domesticPriceDon": 285585.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-01",
+    "bid": 1927.66,
+    "ask": 1928.78,
+    "internationalPrice": 1928.78,
+    "domesticPrice": 76444.0,
+    "domesticPriceDon": 286666.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-02",
+    "bid": 1954.41,
+    "ask": 1955.58,
+    "internationalPrice": 1955.58,
+    "domesticPrice": 76818.0,
+    "domesticPriceDon": 288068.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-03",
+    "bid": 1914.4,
+    "ask": 1915.78,
+    "internationalPrice": 1915.78,
+    "domesticPrice": 75680.0,
+    "domesticPriceDon": 283801.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-04",
+    "bid": 1865.52,
+    "ask": 1866.97,
+    "internationalPrice": 1866.97,
+    "domesticPrice": 75151.0,
+    "domesticPriceDon": 281815.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-06",
+    "bid": 1864.69,
+    "ask": 1865.88,
+    "internationalPrice": 1865.88,
+    "domesticPrice": 74897.0,
+    "domesticPriceDon": 280863.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-07",
+    "bid": 1868.79,
+    "ask": 1869.92,
+    "internationalPrice": 1869.92,
+    "domesticPrice": 75720.0,
+    "domesticPriceDon": 283950.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-08",
+    "bid": 1874.21,
+    "ask": 1875.38,
+    "internationalPrice": 1875.38,
+    "domesticPrice": 75566.0,
+    "domesticPriceDon": 283374.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-09",
+    "bid": 1874.6,
+    "ask": 1875.75,
+    "internationalPrice": 1875.75,
+    "domesticPrice": 76097.0,
+    "domesticPriceDon": 285364.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-10",
+    "bid": 1861.4,
+    "ask": 1862.54,
+    "internationalPrice": 1862.54,
+    "domesticPrice": 75871.0,
+    "domesticPriceDon": 284515.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-11",
+    "bid": 1864.48,
+    "ask": 1866.24,
+    "internationalPrice": 1866.24,
+    "domesticPrice": 76139.0,
+    "domesticPriceDon": 285523.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-13",
+    "bid": 1862.47,
+    "ask": 1863.62,
+    "internationalPrice": 1863.62,
+    "domesticPrice": 76033.0,
+    "domesticPriceDon": 285123.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-14",
+    "bid": 1855.33,
+    "ask": 1856.46,
+    "internationalPrice": 1856.46,
+    "domesticPrice": 75940.0,
+    "domesticPriceDon": 284774.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-15",
+    "bid": 1853.94,
+    "ask": 1855.08,
+    "internationalPrice": 1855.08,
+    "domesticPrice": 75962.0,
+    "domesticPriceDon": 284856.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-16",
+    "bid": 1837.52,
+    "ask": 1838.65,
+    "internationalPrice": 1838.65,
+    "domesticPrice": 75926.0,
+    "domesticPriceDon": 284722.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-17",
+    "bid": 1833.18,
+    "ask": 1834.0,
+    "internationalPrice": 1834.0,
+    "domesticPrice": 76281.0,
+    "domesticPriceDon": 286052.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-18",
+    "bid": 1841.15,
+    "ask": 1842.0,
+    "internationalPrice": 1842.0,
+    "domesticPrice": 76806.0,
+    "domesticPriceDon": 288022.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-20",
+    "bid": 1838.0,
+    "ask": 1838.66,
+    "internationalPrice": 1838.66,
+    "domesticPrice": 76831.0,
+    "domesticPriceDon": 288116.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-21",
+    "bid": 1841.03,
+    "ask": 1842.15,
+    "internationalPrice": 1842.15,
+    "domesticPrice": 76863.0,
+    "domesticPriceDon": 288235.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-22",
+    "bid": 1836.17,
+    "ask": 1837.3,
+    "internationalPrice": 1837.3,
+    "domesticPrice": 77155.0,
+    "domesticPriceDon": 289331.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-23",
+    "bid": 1824.59,
+    "ask": 1825.75,
+    "internationalPrice": 1825.75,
+    "domesticPrice": 76604.0,
+    "domesticPriceDon": 287265.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-24",
+    "bid": 1823.59,
+    "ask": 1824.73,
+    "internationalPrice": 1824.73,
+    "domesticPrice": 76167.0,
+    "domesticPriceDon": 285625.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-25",
+    "bid": 1810.96,
+    "ask": 1812.11,
+    "internationalPrice": 1812.11,
+    "domesticPrice": 76660.0,
+    "domesticPriceDon": 287476.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-27",
+    "bid": 1811.29,
+    "ask": 1812.6,
+    "internationalPrice": 1812.6,
+    "domesticPrice": 76680.0,
+    "domesticPriceDon": 287552.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-02-28",
+    "bid": 1817.2,
+    "ask": 1818.33,
+    "internationalPrice": 1818.33,
+    "domesticPrice": 76991.0,
+    "domesticPriceDon": 288716.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-01",
+    "bid": 1825.5,
+    "ask": 1826.62,
+    "internationalPrice": 1826.62,
+    "domesticPrice": 77723.0,
+    "domesticPriceDon": 291462.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-02",
+    "bid": 1835.91,
+    "ask": 1837.46,
+    "internationalPrice": 1837.46,
+    "domesticPrice": 77341.0,
+    "domesticPriceDon": 290030.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-03",
+    "bid": 1839.26,
+    "ask": 1840.4,
+    "internationalPrice": 1840.4,
+    "domesticPrice": 77657.0,
+    "domesticPriceDon": 291215.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-04",
+    "bid": 1854.98,
+    "ask": 1856.44,
+    "internationalPrice": 1856.44,
+    "domesticPrice": 77400.0,
+    "domesticPriceDon": 290248.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-06",
+    "bid": 1853.09,
+    "ask": 1854.24,
+    "internationalPrice": 1854.24,
+    "domesticPrice": 77308.0,
+    "domesticPriceDon": 289904.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-07",
+    "bid": 1845.42,
+    "ask": 1846.55,
+    "internationalPrice": 1846.55,
+    "domesticPrice": 77268.0,
+    "domesticPriceDon": 289755.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-08",
+    "bid": 1813.6,
+    "ask": 1814.74,
+    "internationalPrice": 1814.74,
+    "domesticPrice": 76916.0,
+    "domesticPriceDon": 288435.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-09",
+    "bid": 1815.33,
+    "ask": 1816.46,
+    "internationalPrice": 1816.46,
+    "domesticPrice": 76940.0,
+    "domesticPriceDon": 288524.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-10",
+    "bid": 1832.19,
+    "ask": 1833.35,
+    "internationalPrice": 1833.35,
+    "domesticPrice": 77930.0,
+    "domesticPriceDon": 292236.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-11",
+    "bid": 1868.02,
+    "ask": 1869.47,
+    "internationalPrice": 1869.47,
+    "domesticPrice": 79437.0,
+    "domesticPriceDon": 297888.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-13",
+    "bid": 1879.58,
+    "ask": 1880.84,
+    "internationalPrice": 1880.84,
+    "domesticPrice": 79325.0,
+    "domesticPriceDon": 297469.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-14",
+    "bid": 1910.6,
+    "ask": 1911.76,
+    "internationalPrice": 1911.76,
+    "domesticPrice": 79805.0,
+    "domesticPriceDon": 299267.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-15",
+    "bid": 1901.33,
+    "ask": 1902.48,
+    "internationalPrice": 1902.48,
+    "domesticPrice": 79875.0,
+    "domesticPriceDon": 299530.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-16",
+    "bid": 1922.6,
+    "ask": 1923.78,
+    "internationalPrice": 1923.78,
+    "domesticPrice": 81307.0,
+    "domesticPriceDon": 304901.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-17",
+    "bid": 1921.64,
+    "ask": 1922.79,
+    "internationalPrice": 1922.79,
+    "domesticPrice": 80556.0,
+    "domesticPriceDon": 302085.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-18",
+    "bid": 1987.93,
+    "ask": 1991.44,
+    "internationalPrice": 1991.44,
+    "domesticPrice": 83861.0,
+    "domesticPriceDon": 314477.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-20",
+    "bid": 1977.64,
+    "ask": 1978.86,
+    "internationalPrice": 1978.86,
+    "domesticPrice": 82912.0,
+    "domesticPriceDon": 310920.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-21",
+    "bid": 1977.98,
+    "ask": 1979.4,
+    "internationalPrice": 1979.4,
+    "domesticPrice": 83085.0,
+    "domesticPriceDon": 311569.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-22",
+    "bid": 1943.55,
+    "ask": 1943.71,
+    "internationalPrice": 1943.71,
+    "domesticPrice": 81576.0,
+    "domesticPriceDon": 305909.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-23",
+    "bid": 1971.51,
+    "ask": 1971.71,
+    "internationalPrice": 1971.71,
+    "domesticPrice": 82225.0,
+    "domesticPriceDon": 308344.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-24",
+    "bid": 1990.44,
+    "ask": 1990.62,
+    "internationalPrice": 1990.62,
+    "domesticPrice": 82355.0,
+    "domesticPriceDon": 308832.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-25",
+    "bid": 1977.21,
+    "ask": 1978.1,
+    "internationalPrice": 1978.1,
+    "domesticPrice": 82480.0,
+    "domesticPriceDon": 309299.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-27",
+    "bid": 1974.48,
+    "ask": 1974.65,
+    "internationalPrice": 1974.65,
+    "domesticPrice": 82270.0,
+    "domesticPriceDon": 308512.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-28",
+    "bid": 1958.76,
+    "ask": 1958.89,
+    "internationalPrice": 1958.89,
+    "domesticPrice": 81553.0,
+    "domesticPriceDon": 305822.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-29",
+    "bid": 1971.66,
+    "ask": 1971.79,
+    "internationalPrice": 1971.79,
+    "domesticPrice": 82140.0,
+    "domesticPriceDon": 308026.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-30",
+    "bid": 1963.3,
+    "ask": 1963.53,
+    "internationalPrice": 1963.53,
+    "domesticPrice": 82516.0,
+    "domesticPriceDon": 309434.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-03-31",
+    "bid": 1978.48,
+    "ask": 1978.8,
+    "internationalPrice": 1978.8,
+    "domesticPrice": 82498.0,
+    "domesticPriceDon": 309366.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-01",
+    "bid": 1967.9,
+    "ask": 1970.4,
+    "internationalPrice": 1970.4,
+    "domesticPrice": 82829.0,
+    "domesticPriceDon": 310607.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-03",
+    "bid": 1960.29,
+    "ask": 1960.6,
+    "internationalPrice": 1960.6,
+    "domesticPrice": 82582.0,
+    "domesticPriceDon": 309682.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-04",
+    "bid": 1983.98,
+    "ask": 1984.4,
+    "internationalPrice": 1984.4,
+    "domesticPrice": 83446.0,
+    "domesticPriceDon": 312922.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-05",
+    "bid": 2021.48,
+    "ask": 2021.8,
+    "internationalPrice": 2021.8,
+    "domesticPrice": 85220.0,
+    "domesticPriceDon": 319574.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-06",
+    "bid": 2019.77,
+    "ask": 2019.89,
+    "internationalPrice": 2019.89,
+    "domesticPrice": 85641.0,
+    "domesticPriceDon": 321155.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-07",
+    "bid": 2008.02,
+    "ask": 2008.73,
+    "internationalPrice": 2008.73,
+    "domesticPrice": 85190.0,
+    "domesticPriceDon": 319464.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-08",
+    "bid": 2008.02,
+    "ask": 2008.73,
+    "internationalPrice": 2008.73,
+    "domesticPrice": 85077.0,
+    "domesticPriceDon": 319038.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-10",
+    "bid": 2003.48,
+    "ask": 2003.79,
+    "internationalPrice": 2003.79,
+    "domesticPrice": 84810.0,
+    "domesticPriceDon": 318037.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-11",
+    "bid": 1993.59,
+    "ask": 1993.72,
+    "internationalPrice": 1993.72,
+    "domesticPrice": 84691.0,
+    "domesticPriceDon": 317590.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-12",
+    "bid": 2004.0,
+    "ask": 2004.12,
+    "internationalPrice": 2004.12,
+    "domesticPrice": 85210.0,
+    "domesticPriceDon": 319538.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-13",
+    "bid": 2017.84,
+    "ask": 2017.98,
+    "internationalPrice": 2017.98,
+    "domesticPrice": 86070.0,
+    "domesticPriceDon": 322763.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-14",
+    "bid": 2039.1,
+    "ask": 2039.23,
+    "internationalPrice": 2039.23,
+    "domesticPrice": 85442.0,
+    "domesticPriceDon": 320406.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-15",
+    "bid": 2003.04,
+    "ask": 2005.54,
+    "internationalPrice": 2005.54,
+    "domesticPrice": 84170.0,
+    "domesticPriceDon": 315638.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-17",
+    "bid": 2002.38,
+    "ask": 2002.53,
+    "internationalPrice": 2002.53,
+    "domesticPrice": 83981.0,
+    "domesticPriceDon": 314929.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-18",
+    "bid": 1993.44,
+    "ask": 1993.57,
+    "internationalPrice": 1993.57,
+    "domesticPrice": 84649.0,
+    "domesticPriceDon": 317435.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-19",
+    "bid": 2006.29,
+    "ask": 2006.7,
+    "internationalPrice": 2006.7,
+    "domesticPrice": 85000.0,
+    "domesticPriceDon": 318749.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-20",
+    "bid": 1994.33,
+    "ask": 1994.47,
+    "internationalPrice": 1994.47,
+    "domesticPrice": 85133.0,
+    "domesticPriceDon": 319249.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-21",
+    "bid": 2003.96,
+    "ask": 2004.11,
+    "internationalPrice": 2004.11,
+    "domesticPrice": 85479.0,
+    "domesticPriceDon": 320546.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-22",
+    "bid": 1982.9,
+    "ask": 1983.6,
+    "internationalPrice": 1983.6,
+    "domesticPrice": 84908.0,
+    "domesticPriceDon": 318405.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-24",
+    "bid": 1983.48,
+    "ask": 1984.0,
+    "internationalPrice": 1984.0,
+    "domesticPrice": 84849.0,
+    "domesticPriceDon": 318185.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-25",
+    "bid": 1994.71,
+    "ask": 1994.86,
+    "internationalPrice": 1994.86,
+    "domesticPrice": 85380.0,
+    "domesticPriceDon": 320175.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-26",
+    "bid": 2001.5,
+    "ask": 2001.64,
+    "internationalPrice": 2001.64,
+    "domesticPrice": 86198.0,
+    "domesticPriceDon": 323241.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-27",
+    "bid": 1991.29,
+    "ask": 1991.7,
+    "internationalPrice": 1991.7,
+    "domesticPrice": 85683.0,
+    "domesticPriceDon": 321309.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-28",
+    "bid": 1985.96,
+    "ask": 1986.1,
+    "internationalPrice": 1986.1,
+    "domesticPrice": 85462.0,
+    "domesticPriceDon": 320481.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-04-29",
+    "bid": 1989.65,
+    "ask": 1990.42,
+    "internationalPrice": 1990.42,
+    "domesticPrice": 85698.0,
+    "domesticPriceDon": 321368.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-01",
+    "bid": 1987.03,
+    "ask": 1987.48,
+    "internationalPrice": 1987.48,
+    "domesticPrice": 85539.0,
+    "domesticPriceDon": 320771.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-02",
+    "bid": 1982.82,
+    "ask": 1983.96,
+    "internationalPrice": 1983.96,
+    "domesticPrice": 85565.0,
+    "domesticPriceDon": 320869.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-03",
+    "bid": 2015.02,
+    "ask": 2015.14,
+    "internationalPrice": 2015.14,
+    "domesticPrice": 86905.0,
+    "domesticPriceDon": 325895.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-04",
+    "bid": 2056.46,
+    "ask": 2056.76,
+    "internationalPrice": 2056.76,
+    "domesticPrice": 87978.0,
+    "domesticPriceDon": 329918.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-05",
+    "bid": 2048.4,
+    "ask": 2048.53,
+    "internationalPrice": 2048.53,
+    "domesticPrice": 87014.0,
+    "domesticPriceDon": 326301.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-06",
+    "bid": 2016.55,
+    "ask": 2016.9,
+    "internationalPrice": 2016.9,
+    "domesticPrice": 85528.0,
+    "domesticPriceDon": 320729.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-08",
+    "bid": 2017.08,
+    "ask": 2017.22,
+    "internationalPrice": 2017.22,
+    "domesticPrice": 85668.0,
+    "domesticPriceDon": 321254.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-09",
+    "bid": 2021.23,
+    "ask": 2021.75,
+    "internationalPrice": 2021.75,
+    "domesticPrice": 85940.0,
+    "domesticPriceDon": 322274.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-10",
+    "bid": 2035.3,
+    "ask": 2035.8,
+    "internationalPrice": 2035.8,
+    "domesticPrice": 86729.0,
+    "domesticPriceDon": 325235.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-11",
+    "bid": 2031.93,
+    "ask": 2032.44,
+    "internationalPrice": 2032.44,
+    "domesticPrice": 86021.0,
+    "domesticPriceDon": 322580.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-12",
+    "bid": 2016.72,
+    "ask": 2017.23,
+    "internationalPrice": 2017.23,
+    "domesticPrice": 86310.0,
+    "domesticPriceDon": 323664.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-13",
+    "bid": 2011.15,
+    "ask": 2011.66,
+    "internationalPrice": 2011.66,
+    "domesticPrice": 86890.0,
+    "domesticPriceDon": 325838.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-15",
+    "bid": 2010.07,
+    "ask": 2010.59,
+    "internationalPrice": 2010.59,
+    "domesticPrice": 86782.0,
+    "domesticPriceDon": 325434.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-16",
+    "bid": 2014.76,
+    "ask": 2015.26,
+    "internationalPrice": 2015.26,
+    "domesticPrice": 86441.0,
+    "domesticPriceDon": 324154.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-17",
+    "bid": 1991.05,
+    "ask": 1991.67,
+    "internationalPrice": 1991.67,
+    "domesticPrice": 85926.0,
+    "domesticPriceDon": 322221.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-18",
+    "bid": 1982.21,
+    "ask": 1983.87,
+    "internationalPrice": 1983.87,
+    "domesticPrice": 85202.0,
+    "domesticPriceDon": 319506.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-19",
+    "bid": 1958.79,
+    "ask": 1960.2,
+    "internationalPrice": 1960.2,
+    "domesticPrice": 84087.0,
+    "domesticPriceDon": 315326.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-20",
+    "bid": 1976.56,
+    "ask": 1980.06,
+    "internationalPrice": 1980.06,
+    "domesticPrice": 84427.0,
+    "domesticPriceDon": 316602.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-22",
+    "bid": 1979.29,
+    "ask": 1980.7,
+    "internationalPrice": 1980.7,
+    "domesticPrice": 84390.0,
+    "domesticPriceDon": 316464.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-23",
+    "bid": 1970.39,
+    "ask": 1971.8,
+    "internationalPrice": 1971.8,
+    "domesticPrice": 83115.0,
+    "domesticPriceDon": 311682.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-24",
+    "bid": 1975.08,
+    "ask": 1976.62,
+    "internationalPrice": 1976.62,
+    "domesticPrice": 83895.0,
+    "domesticPriceDon": 314607.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-25",
+    "bid": 1959.18,
+    "ask": 1960.6,
+    "internationalPrice": 1960.6,
+    "domesticPrice": 83223.0,
+    "domesticPriceDon": 312086.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-26",
+    "bid": 1939.96,
+    "ask": 1941.62,
+    "internationalPrice": 1941.62,
+    "domesticPrice": 82965.0,
+    "domesticPriceDon": 311120.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-27",
+    "bid": 1946.32,
+    "ask": 1947.89,
+    "internationalPrice": 1947.89,
+    "domesticPrice": 82992.0,
+    "domesticPriceDon": 311218.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-30",
+    "bid": 1942.79,
+    "ask": 1944.2,
+    "internationalPrice": 1944.2,
+    "domesticPrice": 82712.0,
+    "domesticPriceDon": 310171.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-05-31",
+    "bid": 1957.85,
+    "ask": 1959.5,
+    "internationalPrice": 1959.5,
+    "domesticPrice": 83165.0,
+    "domesticPriceDon": 311871.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-01",
+    "bid": 1965.98,
+    "ask": 1967.4,
+    "internationalPrice": 1967.4,
+    "domesticPrice": 83518.0,
+    "domesticPriceDon": 313194.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-02",
+    "bid": 1976.91,
+    "ask": 1978.52,
+    "internationalPrice": 1978.52,
+    "domesticPrice": 83492.0,
+    "domesticPriceDon": 313094.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-03",
+    "bid": 1947.64,
+    "ask": 1949.41,
+    "internationalPrice": 1949.41,
+    "domesticPrice": 81917.0,
+    "domesticPriceDon": 307190.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-05",
+    "bid": 1948.39,
+    "ask": 1949.8,
+    "internationalPrice": 1949.8,
+    "domesticPrice": 82161.0,
+    "domesticPriceDon": 308103.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-06",
+    "bid": 1961.18,
+    "ask": 1962.5,
+    "internationalPrice": 1962.5,
+    "domesticPrice": 82211.0,
+    "domesticPriceDon": 308290.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-07",
+    "bid": 1963.48,
+    "ask": 1965.08,
+    "internationalPrice": 1965.08,
+    "domesticPrice": 82083.0,
+    "domesticPriceDon": 307812.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-08",
+    "bid": 1945.03,
+    "ask": 1946.75,
+    "internationalPrice": 1946.75,
+    "domesticPrice": 81808.0,
+    "domesticPriceDon": 306781.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-09",
+    "bid": 1964.83,
+    "ask": 1966.44,
+    "internationalPrice": 1966.44,
+    "domesticPrice": 81993.0,
+    "domesticPriceDon": 307472.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-10",
+    "bid": 1960.59,
+    "ask": 1962.39,
+    "internationalPrice": 1962.39,
+    "domesticPrice": 81329.0,
+    "domesticPriceDon": 304984.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-12",
+    "bid": 1959.82,
+    "ask": 1961.4,
+    "internationalPrice": 1961.4,
+    "domesticPrice": 81433.0,
+    "domesticPriceDon": 305374.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-13",
+    "bid": 1959.98,
+    "ask": 1962.05,
+    "internationalPrice": 1962.05,
+    "domesticPrice": 80915.0,
+    "domesticPriceDon": 303432.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-14",
+    "bid": 1944.34,
+    "ask": 1945.96,
+    "internationalPrice": 1945.96,
+    "domesticPrice": 79605.0,
+    "domesticPriceDon": 298517.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-15",
+    "bid": 1944.02,
+    "ask": 1945.66,
+    "internationalPrice": 1945.66,
+    "domesticPrice": 79828.0,
+    "domesticPriceDon": 299353.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-16",
+    "bid": 1958.58,
+    "ask": 1960.0,
+    "internationalPrice": 1960.0,
+    "domesticPrice": 80117.0,
+    "domesticPriceDon": 300437.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-17",
+    "bid": 1957.36,
+    "ask": 1959.34,
+    "internationalPrice": 1959.34,
+    "domesticPrice": 80582.0,
+    "domesticPriceDon": 302183.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-19",
+    "bid": 1957.89,
+    "ask": 1959.2,
+    "internationalPrice": 1959.2,
+    "domesticPrice": 80567.0,
+    "domesticPriceDon": 302126.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-20",
+    "bid": 1952.05,
+    "ask": 1953.64,
+    "internationalPrice": 1953.64,
+    "domesticPrice": 80639.0,
+    "domesticPriceDon": 302395.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-21",
+    "bid": 1937.16,
+    "ask": 1938.78,
+    "internationalPrice": 1938.78,
+    "domesticPrice": 80341.0,
+    "domesticPriceDon": 301280.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-22",
+    "bid": 1933.48,
+    "ask": 1934.9,
+    "internationalPrice": 1934.9,
+    "domesticPrice": 80264.0,
+    "domesticPriceDon": 300992.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-23",
+    "bid": 1914.29,
+    "ask": 1915.6,
+    "internationalPrice": 1915.6,
+    "domesticPrice": 80141.0,
+    "domesticPriceDon": 300528.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-24",
+    "bid": 1921.36,
+    "ask": 1922.87,
+    "internationalPrice": 1922.87,
+    "domesticPrice": 80969.0,
+    "domesticPriceDon": 303632.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-26",
+    "bid": 1925.53,
+    "ask": 1926.99,
+    "internationalPrice": 1926.99,
+    "domesticPrice": 81200.0,
+    "domesticPriceDon": 304499.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-27",
+    "bid": 1922.29,
+    "ask": 1923.93,
+    "internationalPrice": 1923.93,
+    "domesticPrice": 80922.0,
+    "domesticPriceDon": 303458.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-28",
+    "bid": 1915.89,
+    "ask": 1917.1,
+    "internationalPrice": 1917.1,
+    "domesticPrice": 80215.0,
+    "domesticPriceDon": 300805.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-29",
+    "bid": 1908.19,
+    "ask": 1909.81,
+    "internationalPrice": 1909.81,
+    "domesticPrice": 80538.0,
+    "domesticPriceDon": 302016.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-06-30",
+    "bid": 1908.06,
+    "ask": 1909.82,
+    "internationalPrice": 1909.82,
+    "domesticPrice": 81271.0,
+    "domesticPriceDon": 304767.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-01",
+    "bid": 1919.56,
+    "ask": 1921.23,
+    "internationalPrice": 1921.23,
+    "domesticPrice": 81442.0,
+    "domesticPriceDon": 305407.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-03",
+    "bid": 1918.22,
+    "ask": 1919.84,
+    "internationalPrice": 1919.84,
+    "domesticPrice": 81366.0,
+    "domesticPriceDon": 305121.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-04",
+    "bid": 1921.08,
+    "ask": 1922.5,
+    "internationalPrice": 1922.5,
+    "domesticPrice": 80769.0,
+    "domesticPriceDon": 302883.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-05",
+    "bid": 1926.06,
+    "ask": 1927.69,
+    "internationalPrice": 1927.69,
+    "domesticPrice": 80472.0,
+    "domesticPriceDon": 301769.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-06",
+    "bid": 1916.89,
+    "ask": 1918.3,
+    "internationalPrice": 1918.3,
+    "domesticPrice": 80629.0,
+    "domesticPriceDon": 302360.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-07",
+    "bid": 1912.13,
+    "ask": 1913.74,
+    "internationalPrice": 1913.74,
+    "domesticPrice": 80621.0,
+    "domesticPriceDon": 302329.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-08",
+    "bid": 1924.29,
+    "ask": 1927.79,
+    "internationalPrice": 1927.79,
+    "domesticPrice": 80532.0,
+    "domesticPriceDon": 301996.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-10",
+    "bid": 1923.98,
+    "ask": 1925.3,
+    "internationalPrice": 1925.3,
+    "domesticPrice": 80528.0,
+    "domesticPriceDon": 301980.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-11",
+    "bid": 1925.08,
+    "ask": 1926.4,
+    "internationalPrice": 1926.4,
+    "domesticPrice": 80585.0,
+    "domesticPriceDon": 302192.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-12",
+    "bid": 1933.89,
+    "ask": 1935.3,
+    "internationalPrice": 1935.3,
+    "domesticPrice": 80461.0,
+    "domesticPriceDon": 301728.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-13",
+    "bid": 1957.38,
+    "ask": 1959.03,
+    "internationalPrice": 1959.03,
+    "domesticPrice": 80610.0,
+    "domesticPriceDon": 302287.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-14",
+    "bid": 1959.22,
+    "ask": 1960.83,
+    "internationalPrice": 1960.83,
+    "domesticPrice": 80183.0,
+    "domesticPriceDon": 300687.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-15",
+    "bid": 1954.93,
+    "ask": 1956.72,
+    "internationalPrice": 1956.72,
+    "domesticPrice": 79946.0,
+    "domesticPriceDon": 299798.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-17",
+    "bid": 1952.89,
+    "ask": 1954.2,
+    "internationalPrice": 1954.2,
+    "domesticPrice": 79845.0,
+    "domesticPriceDon": 299419.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-18",
+    "bid": 1954.58,
+    "ask": 1956.0,
+    "internationalPrice": 1956.0,
+    "domesticPrice": 79651.0,
+    "domesticPriceDon": 298690.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-19",
+    "bid": 1976.71,
+    "ask": 1978.34,
+    "internationalPrice": 1978.34,
+    "domesticPrice": 80488.0,
+    "domesticPriceDon": 301829.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-20",
+    "bid": 1978.46,
+    "ask": 1980.07,
+    "internationalPrice": 1980.07,
+    "domesticPrice": 80601.0,
+    "domesticPriceDon": 302256.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-21",
+    "bid": 1971.96,
+    "ask": 1973.65,
+    "internationalPrice": 1973.65,
+    "domesticPrice": 81071.0,
+    "domesticPriceDon": 304017.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-22",
+    "bid": 1960.22,
+    "ask": 1963.33,
+    "internationalPrice": 1963.33,
+    "domesticPrice": 81251.0,
+    "domesticPriceDon": 304692.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-24",
+    "bid": 1961.36,
+    "ask": 1962.42,
+    "internationalPrice": 1962.42,
+    "domesticPrice": 81289.0,
+    "domesticPriceDon": 304833.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-25",
+    "bid": 1954.06,
+    "ask": 1955.3,
+    "internationalPrice": 1955.3,
+    "domesticPrice": 80785.0,
+    "domesticPriceDon": 302944.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-26",
+    "bid": 1964.96,
+    "ask": 1966.12,
+    "internationalPrice": 1966.12,
+    "domesticPrice": 80780.0,
+    "domesticPriceDon": 302926.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-27",
+    "bid": 1972.08,
+    "ask": 1973.0,
+    "internationalPrice": 1973.0,
+    "domesticPrice": 80508.0,
+    "domesticPriceDon": 301904.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-28",
+    "bid": 1946.98,
+    "ask": 1947.9,
+    "internationalPrice": 1947.9,
+    "domesticPrice": 80412.0,
+    "domesticPriceDon": 301544.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-29",
+    "bid": 1959.2,
+    "ask": 1960.75,
+    "internationalPrice": 1960.75,
+    "domesticPrice": 80327.0,
+    "domesticPriceDon": 301226.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-07-31",
+    "bid": 1957.79,
+    "ask": 1959.1,
+    "internationalPrice": 1959.1,
+    "domesticPrice": 80354.0,
+    "domesticPriceDon": 301329.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-01",
+    "bid": 1964.27,
+    "ask": 1965.96,
+    "internationalPrice": 1965.96,
+    "domesticPrice": 80696.0,
+    "domesticPriceDon": 302609.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-02",
+    "bid": 1949.48,
+    "ask": 1951.06,
+    "internationalPrice": 1951.06,
+    "domesticPrice": 81003.0,
+    "domesticPriceDon": 303762.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-03",
+    "bid": 1936.2,
+    "ask": 1937.77,
+    "internationalPrice": 1937.77,
+    "domesticPrice": 80906.0,
+    "domesticPriceDon": 303398.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-04",
+    "bid": 1935.18,
+    "ask": 1936.64,
+    "internationalPrice": 1936.64,
+    "domesticPrice": 80999.0,
+    "domesticPriceDon": 303745.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-05",
+    "bid": 1941.63,
+    "ask": 1945.13,
+    "internationalPrice": 1945.13,
+    "domesticPrice": 81642.0,
+    "domesticPriceDon": 306157.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-07",
+    "bid": 1943.4,
+    "ask": 1945.01,
+    "internationalPrice": 1945.01,
+    "domesticPrice": 81640.0,
+    "domesticPriceDon": 306150.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-08",
+    "bid": 1936.08,
+    "ask": 1937.4,
+    "internationalPrice": 1937.4,
+    "domesticPrice": 81440.0,
+    "domesticPriceDon": 305398.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-09",
+    "bid": 1925.63,
+    "ask": 1927.24,
+    "internationalPrice": 1927.24,
+    "domesticPrice": 81693.0,
+    "domesticPriceDon": 306348.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-10",
+    "bid": 1915.85,
+    "ask": 1917.5,
+    "internationalPrice": 1917.5,
+    "domesticPrice": 81274.0,
+    "domesticPriceDon": 304777.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-11",
+    "bid": 1911.9,
+    "ask": 1913.6,
+    "internationalPrice": 1913.6,
+    "domesticPrice": 81272.0,
+    "domesticPriceDon": 304768.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-12",
+    "bid": 1913.31,
+    "ask": 1915.03,
+    "internationalPrice": 1915.03,
+    "domesticPrice": 81974.0,
+    "domesticPriceDon": 307404.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-14",
+    "bid": 1912.08,
+    "ask": 1913.4,
+    "internationalPrice": 1913.4,
+    "domesticPrice": 81939.0,
+    "domesticPriceDon": 307269.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-15",
+    "bid": 1906.4,
+    "ask": 1908.01,
+    "internationalPrice": 1908.01,
+    "domesticPrice": 82103.0,
+    "domesticPriceDon": 307885.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-16",
+    "bid": 1901.05,
+    "ask": 1902.82,
+    "internationalPrice": 1902.82,
+    "domesticPrice": 81956.0,
+    "domesticPriceDon": 307335.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-17",
+    "bid": 1893.42,
+    "ask": 1895.1,
+    "internationalPrice": 1895.1,
+    "domesticPrice": 81821.0,
+    "domesticPriceDon": 306830.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-18",
+    "bid": 1890.89,
+    "ask": 1892.1,
+    "internationalPrice": 1892.1,
+    "domesticPrice": 81467.0,
+    "domesticPriceDon": 305500.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-19",
+    "bid": 1888.19,
+    "ask": 1891.7,
+    "internationalPrice": 1891.7,
+    "domesticPrice": 81599.0,
+    "domesticPriceDon": 305997.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-21",
+    "bid": 1890.45,
+    "ask": 1892.11,
+    "internationalPrice": 1892.11,
+    "domesticPrice": 81616.0,
+    "domesticPriceDon": 306061.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-22",
+    "bid": 1894.03,
+    "ask": 1895.56,
+    "internationalPrice": 1895.56,
+    "domesticPrice": 81768.0,
+    "domesticPriceDon": 306630.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-23",
+    "bid": 1899.18,
+    "ask": 1900.6,
+    "internationalPrice": 1900.6,
+    "domesticPrice": 81887.0,
+    "domesticPriceDon": 307077.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-24",
+    "bid": 1917.56,
+    "ask": 1919.27,
+    "internationalPrice": 1919.27,
+    "domesticPrice": 82082.0,
+    "domesticPriceDon": 307806.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-25",
+    "bid": 1916.01,
+    "ask": 1917.64,
+    "internationalPrice": 1917.64,
+    "domesticPrice": 81814.0,
+    "domesticPriceDon": 306804.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-26",
+    "bid": 1914.53,
+    "ask": 1916.59,
+    "internationalPrice": 1916.59,
+    "domesticPrice": 81755.0,
+    "domesticPriceDon": 306580.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-28",
+    "bid": 1915.36,
+    "ask": 1916.91,
+    "internationalPrice": 1916.91,
+    "domesticPrice": 81548.0,
+    "domesticPriceDon": 305806.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-29",
+    "bid": 1920.88,
+    "ask": 1922.99,
+    "internationalPrice": 1922.99,
+    "domesticPrice": 81845.0,
+    "domesticPriceDon": 306919.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-30",
+    "bid": 1935.96,
+    "ask": 1937.59,
+    "internationalPrice": 1937.59,
+    "domesticPrice": 82243.0,
+    "domesticPriceDon": 308411.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-08-31",
+    "bid": 1944.67,
+    "ask": 1946.22,
+    "internationalPrice": 1946.22,
+    "domesticPrice": 82725.0,
+    "domesticPriceDon": 310217.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-01",
+    "bid": 1939.64,
+    "ask": 1941.34,
+    "internationalPrice": 1941.34,
+    "domesticPrice": 82609.0,
+    "domesticPriceDon": 309785.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-02",
+    "bid": 1938.8,
+    "ask": 1942.3,
+    "internationalPrice": 1942.3,
+    "domesticPrice": 82487.0,
+    "domesticPriceDon": 309327.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-04",
+    "bid": 1939.9,
+    "ask": 1941.51,
+    "internationalPrice": 1941.51,
+    "domesticPrice": 82512.0,
+    "domesticPriceDon": 309420.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-05",
+    "bid": 1937.17,
+    "ask": 1938.77,
+    "internationalPrice": 1938.77,
+    "domesticPrice": 82324.0,
+    "domesticPriceDon": 308714.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-06",
+    "bid": 1926.1,
+    "ask": 1927.71,
+    "internationalPrice": 1927.71,
+    "domesticPrice": 82580.0,
+    "domesticPriceDon": 309674.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-07",
+    "bid": 1916.1,
+    "ask": 1917.65,
+    "internationalPrice": 1917.65,
+    "domesticPrice": 82425.0,
+    "domesticPriceDon": 309094.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-08",
+    "bid": 1920.64,
+    "ask": 1922.19,
+    "internationalPrice": 1922.19,
+    "domesticPrice": 82497.0,
+    "domesticPriceDon": 309365.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-09",
+    "bid": 1917.81,
+    "ask": 1921.31,
+    "internationalPrice": 1921.31,
+    "domesticPrice": 82643.0,
+    "domesticPriceDon": 309912.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-11",
+    "bid": 1918.68,
+    "ask": 1920.0,
+    "internationalPrice": 1920.0,
+    "domesticPrice": 82368.0,
+    "domesticPriceDon": 308881.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-12",
+    "bid": 1921.58,
+    "ask": 1922.8,
+    "internationalPrice": 1922.8,
+    "domesticPrice": 82097.0,
+    "domesticPriceDon": 307866.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-13",
+    "bid": 1913.28,
+    "ask": 1914.86,
+    "internationalPrice": 1914.86,
+    "domesticPrice": 81671.0,
+    "domesticPriceDon": 306266.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-14",
+    "bid": 1909.35,
+    "ask": 1910.94,
+    "internationalPrice": 1910.94,
+    "domesticPrice": 81624.0,
+    "domesticPriceDon": 306089.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-15",
+    "bid": 1910.69,
+    "ask": 1912.27,
+    "internationalPrice": 1912.27,
+    "domesticPrice": 81731.0,
+    "domesticPriceDon": 306491.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-16",
+    "bid": 1923.57,
+    "ask": 1925.09,
+    "internationalPrice": 1925.09,
+    "domesticPrice": 82391.0,
+    "domesticPriceDon": 308968.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-18",
+    "bid": 1923.61,
+    "ask": 1925.24,
+    "internationalPrice": 1925.24,
+    "domesticPrice": 82309.0,
+    "domesticPriceDon": 308659.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-19",
+    "bid": 1933.84,
+    "ask": 1936.08,
+    "internationalPrice": 1936.08,
+    "domesticPrice": 82264.0,
+    "domesticPriceDon": 308491.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-20",
+    "bid": 1930.21,
+    "ask": 1932.34,
+    "internationalPrice": 1932.34,
+    "domesticPrice": 82559.0,
+    "domesticPriceDon": 309598.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-21",
+    "bid": 1928.97,
+    "ask": 1931.07,
+    "internationalPrice": 1931.07,
+    "domesticPrice": 82938.0,
+    "domesticPriceDon": 311017.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-22",
+    "bid": 1920.98,
+    "ask": 1923.14,
+    "internationalPrice": 1923.14,
+    "domesticPrice": 82942.0,
+    "domesticPriceDon": 311032.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-23",
+    "bid": 1924.98,
+    "ask": 1926.62,
+    "internationalPrice": 1926.62,
+    "domesticPrice": 82829.0,
+    "domesticPriceDon": 310610.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-25",
+    "bid": 1924.18,
+    "ask": 1925.5,
+    "internationalPrice": 1925.5,
+    "domesticPrice": 82767.0,
+    "domesticPriceDon": 310377.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-26",
+    "bid": 1915.93,
+    "ask": 1917.55,
+    "internationalPrice": 1917.55,
+    "domesticPrice": 82562.0,
+    "domesticPriceDon": 309606.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-27",
+    "bid": 1902.06,
+    "ask": 1903.61,
+    "internationalPrice": 1903.61,
+    "domesticPrice": 82828.0,
+    "domesticPriceDon": 310604.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-28",
+    "bid": 1877.0,
+    "ask": 1878.57,
+    "internationalPrice": 1878.57,
+    "domesticPrice": 81979.0,
+    "domesticPriceDon": 307422.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-29",
+    "bid": 1865.98,
+    "ask": 1867.63,
+    "internationalPrice": 1867.63,
+    "domesticPrice": 81057.0,
+    "domesticPriceDon": 303963.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-09-30",
+    "bid": 1848.31,
+    "ask": 1849.85,
+    "internationalPrice": 1849.85,
+    "domesticPrice": 80540.0,
+    "domesticPriceDon": 302025.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-02",
+    "bid": 1848.48,
+    "ask": 1849.9,
+    "internationalPrice": 1849.9,
+    "domesticPrice": 80587.0,
+    "domesticPriceDon": 302203.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-03",
+    "bid": 1822.79,
+    "ask": 1824.2,
+    "internationalPrice": 1824.2,
+    "domesticPrice": 79684.0,
+    "domesticPriceDon": 298815.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-04",
+    "bid": 1821.8,
+    "ask": 1823.5,
+    "internationalPrice": 1823.5,
+    "domesticPrice": 79888.0,
+    "domesticPriceDon": 299580.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-05",
+    "bid": 1822.6,
+    "ask": 1824.13,
+    "internationalPrice": 1824.13,
+    "domesticPrice": 79413.0,
+    "domesticPriceDon": 297800.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-06",
+    "bid": 1821.09,
+    "ask": 1822.7,
+    "internationalPrice": 1822.7,
+    "domesticPrice": 78974.0,
+    "domesticPriceDon": 296153.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-07",
+    "bid": 1832.26,
+    "ask": 1834.23,
+    "internationalPrice": 1834.23,
+    "domesticPrice": 79456.0,
+    "domesticPriceDon": 297960.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-10",
+    "bid": 1864.79,
+    "ask": 1866.2,
+    "internationalPrice": 1866.2,
+    "domesticPrice": 80761.0,
+    "domesticPriceDon": 302855.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-11",
+    "bid": 1860.68,
+    "ask": 1862.38,
+    "internationalPrice": 1862.38,
+    "domesticPrice": 80527.0,
+    "domesticPriceDon": 301977.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-12",
+    "bid": 1875.48,
+    "ask": 1876.7,
+    "internationalPrice": 1876.7,
+    "domesticPrice": 80820.0,
+    "domesticPriceDon": 303075.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-13",
+    "bid": 1870.98,
+    "ask": 1872.4,
+    "internationalPrice": 1872.4,
+    "domesticPrice": 81242.0,
+    "domesticPriceDon": 304658.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-14",
+    "bid": 1931.69,
+    "ask": 1935.2,
+    "internationalPrice": 1935.2,
+    "domesticPrice": 84274.0,
+    "domesticPriceDon": 316027.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-16",
+    "bid": 1925.29,
+    "ask": 1926.7,
+    "internationalPrice": 1926.7,
+    "domesticPrice": 83894.0,
+    "domesticPriceDon": 314604.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-17",
+    "bid": 1919.68,
+    "ask": 1921.0,
+    "internationalPrice": 1921.0,
+    "domesticPrice": 83387.0,
+    "domesticPriceDon": 312703.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-18",
+    "bid": 1924.98,
+    "ask": 1926.92,
+    "internationalPrice": 1926.92,
+    "domesticPrice": 83926.0,
+    "domesticPriceDon": 314721.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-19",
+    "bid": 1951.79,
+    "ask": 1953.1,
+    "internationalPrice": 1953.1,
+    "domesticPrice": 85165.0,
+    "domesticPriceDon": 319369.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-20",
+    "bid": 1976.48,
+    "ask": 1977.8,
+    "internationalPrice": 1977.8,
+    "domesticPrice": 86447.0,
+    "domesticPriceDon": 324176.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-21",
+    "bid": 1981.05,
+    "ask": 1981.81,
+    "internationalPrice": 1981.81,
+    "domesticPrice": 86121.0,
+    "domesticPriceDon": 322953.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-23",
+    "bid": 1970.18,
+    "ask": 1970.5,
+    "internationalPrice": 1970.5,
+    "domesticPrice": 85612.0,
+    "domesticPriceDon": 321043.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-24",
+    "bid": 1973.58,
+    "ask": 1973.9,
+    "internationalPrice": 1973.9,
+    "domesticPrice": 85408.0,
+    "domesticPriceDon": 320281.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-25",
+    "bid": 1972.68,
+    "ask": 1974.1,
+    "internationalPrice": 1974.1,
+    "domesticPrice": 85343.0,
+    "domesticPriceDon": 320035.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-26",
+    "bid": 1983.85,
+    "ask": 1984.43,
+    "internationalPrice": 1984.43,
+    "domesticPrice": 86385.0,
+    "domesticPriceDon": 323942.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-27",
+    "bid": 1983.04,
+    "ask": 1983.55,
+    "internationalPrice": 1983.55,
+    "domesticPrice": 86430.0,
+    "domesticPriceDon": 324112.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-28",
+    "bid": 2005.79,
+    "ask": 2009.29,
+    "internationalPrice": 2009.29,
+    "domesticPrice": 87702.0,
+    "domesticPriceDon": 328882.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-30",
+    "bid": 2003.93,
+    "ask": 2004.53,
+    "internationalPrice": 2004.53,
+    "domesticPrice": 87371.0,
+    "domesticPriceDon": 327641.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-10-31",
+    "bid": 1994.39,
+    "ask": 1994.7,
+    "internationalPrice": 1994.7,
+    "domesticPrice": 86418.0,
+    "domesticPriceDon": 324067.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-01",
+    "bid": 1982.83,
+    "ask": 1983.38,
+    "internationalPrice": 1983.38,
+    "domesticPrice": 86293.0,
+    "domesticPriceDon": 323598.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-02",
+    "bid": 1985.08,
+    "ask": 1985.4,
+    "internationalPrice": 1985.4,
+    "domesticPrice": 85933.0,
+    "domesticPriceDon": 322250.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-03",
+    "bid": 1985.64,
+    "ask": 1986.25,
+    "internationalPrice": 1986.25,
+    "domesticPrice": 85279.0,
+    "domesticPriceDon": 319794.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-04",
+    "bid": 1992.27,
+    "ask": 1993.79,
+    "internationalPrice": 1993.79,
+    "domesticPrice": 84084.0,
+    "domesticPriceDon": 315316.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-06",
+    "bid": 1988.58,
+    "ask": 1990.0,
+    "internationalPrice": 1990.0,
+    "domesticPrice": 83908.0,
+    "domesticPriceDon": 314657.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-07",
+    "bid": 1975.84,
+    "ask": 1977.46,
+    "internationalPrice": 1977.46,
+    "domesticPrice": 82884.0,
+    "domesticPriceDon": 310817.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-08",
+    "bid": 1969.26,
+    "ask": 1970.87,
+    "internationalPrice": 1970.87,
+    "domesticPrice": 82691.0,
+    "domesticPriceDon": 310090.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-09",
+    "bid": 1949.71,
+    "ask": 1951.38,
+    "internationalPrice": 1951.38,
+    "domesticPrice": 82385.0,
+    "domesticPriceDon": 308943.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-10",
+    "bid": 1958.65,
+    "ask": 1960.2,
+    "internationalPrice": 1960.2,
+    "domesticPrice": 83082.0,
+    "domesticPriceDon": 311559.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-11",
+    "bid": 1936.79,
+    "ask": 1938.3,
+    "internationalPrice": 1938.3,
+    "domesticPrice": 82218.0,
+    "domesticPriceDon": 308316.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-13",
+    "bid": 1941.23,
+    "ask": 1943.18,
+    "internationalPrice": 1943.18,
+    "domesticPrice": 82543.0,
+    "domesticPriceDon": 309536.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-14",
+    "bid": 1946.58,
+    "ask": 1948.0,
+    "internationalPrice": 1948.0,
+    "domesticPrice": 82668.0,
+    "domesticPriceDon": 310005.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-15",
+    "bid": 1961.54,
+    "ask": 1963.18,
+    "internationalPrice": 1963.18,
+    "domesticPrice": 82475.0,
+    "domesticPriceDon": 309280.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-16",
+    "bid": 1960.58,
+    "ask": 1962.0,
+    "internationalPrice": 1962.0,
+    "domesticPrice": 82395.0,
+    "domesticPriceDon": 308980.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-17",
+    "bid": 1982.32,
+    "ask": 1983.93,
+    "internationalPrice": 1983.93,
+    "domesticPrice": 82709.0,
+    "domesticPriceDon": 310159.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-18",
+    "bid": 1980.01,
+    "ask": 1981.77,
+    "internationalPrice": 1981.77,
+    "domesticPrice": 82667.0,
+    "domesticPriceDon": 310001.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-20",
+    "bid": 1974.29,
+    "ask": 1975.6,
+    "internationalPrice": 1975.6,
+    "domesticPrice": 82559.0,
+    "domesticPriceDon": 309598.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-21",
+    "bid": 1980.79,
+    "ask": 1982.1,
+    "internationalPrice": 1982.1,
+    "domesticPrice": 82289.0,
+    "domesticPriceDon": 308583.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-22",
+    "bid": 1998.52,
+    "ask": 2000.12,
+    "internationalPrice": 2000.12,
+    "domesticPrice": 83336.0,
+    "domesticPriceDon": 312510.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-23",
+    "bid": 1990.64,
+    "ask": 1992.31,
+    "internationalPrice": 1992.31,
+    "domesticPrice": 83409.0,
+    "domesticPriceDon": 312783.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-24",
+    "bid": 1993.04,
+    "ask": 1994.7,
+    "internationalPrice": 1994.7,
+    "domesticPrice": 83408.0,
+    "domesticPriceDon": 312779.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-25",
+    "bid": 2001.96,
+    "ask": 2003.68,
+    "internationalPrice": 2003.68,
+    "domesticPrice": 84107.0,
+    "domesticPriceDon": 315399.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-27",
+    "bid": 2003.39,
+    "ask": 2004.6,
+    "internationalPrice": 2004.6,
+    "domesticPrice": 84132.0,
+    "domesticPriceDon": 315496.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-28",
+    "bid": 2016.08,
+    "ask": 2017.5,
+    "internationalPrice": 2017.5,
+    "domesticPrice": 84140.0,
+    "domesticPriceDon": 315524.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-29",
+    "bid": 2043.68,
+    "ask": 2045.1,
+    "internationalPrice": 2045.1,
+    "domesticPrice": 84724.0,
+    "domesticPriceDon": 317715.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-11-30",
+    "bid": 2044.29,
+    "ask": 2045.8,
+    "internationalPrice": 2045.8,
+    "domesticPrice": 84976.0,
+    "domesticPriceDon": 318660.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-01",
+    "bid": 2040.51,
+    "ask": 2042.12,
+    "internationalPrice": 2042.12,
+    "domesticPrice": 85355.0,
+    "domesticPriceDon": 320081.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-02",
+    "bid": 2070.9,
+    "ask": 2072.6,
+    "internationalPrice": 2072.6,
+    "domesticPrice": 86416.0,
+    "domesticPriceDon": 324062.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-04",
+    "bid": 2077.64,
+    "ask": 2079.38,
+    "internationalPrice": 2079.38,
+    "domesticPrice": 86756.0,
+    "domesticPriceDon": 325335.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-05",
+    "bid": 2033.94,
+    "ask": 2035.59,
+    "internationalPrice": 2035.59,
+    "domesticPrice": 85852.0,
+    "domesticPriceDon": 321946.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-06",
+    "bid": 2019.36,
+    "ask": 2020.97,
+    "internationalPrice": 2020.97,
+    "domesticPrice": 85324.0,
+    "domesticPriceDon": 319965.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-07",
+    "bid": 2026.98,
+    "ask": 2028.5,
+    "internationalPrice": 2028.5,
+    "domesticPrice": 85901.0,
+    "domesticPriceDon": 322129.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-08",
+    "bid": 2027.89,
+    "ask": 2029.3,
+    "internationalPrice": 2029.3,
+    "domesticPrice": 85712.0,
+    "domesticPriceDon": 321419.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-09",
+    "bid": 2003.39,
+    "ask": 2004.8,
+    "internationalPrice": 2004.8,
+    "domesticPrice": 85062.0,
+    "domesticPriceDon": 318984.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-11",
+    "bid": 2006.78,
+    "ask": 2008.42,
+    "internationalPrice": 2008.42,
+    "domesticPrice": 85191.0,
+    "domesticPriceDon": 319465.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-12",
+    "bid": 1982.18,
+    "ask": 1983.83,
+    "internationalPrice": 1983.83,
+    "domesticPrice": 84025.0,
+    "domesticPriceDon": 315092.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-13",
+    "bid": 1981.58,
+    "ask": 1982.9,
+    "internationalPrice": 1982.9,
+    "domesticPrice": 83673.0,
+    "domesticPriceDon": 313773.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-14",
+    "bid": 2030.98,
+    "ask": 2032.4,
+    "internationalPrice": 2032.4,
+    "domesticPrice": 85443.0,
+    "domesticPriceDon": 320413.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-15",
+    "bid": 2034.96,
+    "ask": 2036.62,
+    "internationalPrice": 2036.62,
+    "domesticPrice": 84800.0,
+    "domesticPriceDon": 317999.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-16",
+    "bid": 2018.18,
+    "ask": 2019.6,
+    "internationalPrice": 2019.6,
+    "domesticPrice": 84664.0,
+    "domesticPriceDon": 317491.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-18",
+    "bid": 2018.08,
+    "ask": 2019.6,
+    "internationalPrice": 2019.6,
+    "domesticPrice": 84664.0,
+    "domesticPriceDon": 317491.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-19",
+    "bid": 2027.14,
+    "ask": 2028.9,
+    "internationalPrice": 2028.9,
+    "domesticPrice": 84900.0,
+    "domesticPriceDon": 318376.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-20",
+    "bid": 2040.04,
+    "ask": 2041.69,
+    "internationalPrice": 2041.69,
+    "domesticPrice": 85559.0,
+    "domesticPriceDon": 320846.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-21",
+    "bid": 2032.72,
+    "ask": 2034.24,
+    "internationalPrice": 2034.24,
+    "domesticPrice": 85272.0,
+    "domesticPriceDon": 319768.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-22",
+    "bid": 2050.79,
+    "ask": 2052.3,
+    "internationalPrice": 2052.3,
+    "domesticPrice": 85743.0,
+    "domesticPriceDon": 321536.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-23",
+    "bid": 2052.97,
+    "ask": 2054.62,
+    "internationalPrice": 2054.62,
+    "domesticPrice": 85864.0,
+    "domesticPriceDon": 321989.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-26",
+    "bid": 2053.72,
+    "ask": 2055.47,
+    "internationalPrice": 2055.47,
+    "domesticPrice": 85871.0,
+    "domesticPriceDon": 322018.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-27",
+    "bid": 2065.09,
+    "ask": 2066.6,
+    "internationalPrice": 2066.6,
+    "domesticPrice": 86037.0,
+    "domesticPriceDon": 322638.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-28",
+    "bid": 2080.18,
+    "ask": 2081.5,
+    "internationalPrice": 2081.5,
+    "domesticPrice": 86456.0,
+    "domesticPriceDon": 324208.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-29",
+    "bid": 2066.69,
+    "ask": 2068.46,
+    "internationalPrice": 2068.46,
+    "domesticPrice": 85837.0,
+    "domesticPriceDon": 321888.0
+  },
+  {
+    "type": "Au",
+    "date": "2023-12-30",
+    "bid": 2062.59,
+    "ask": 2063.9,
+    "internationalPrice": 2063.9,
+    "domesticPrice": 86177.0,
+    "domesticPriceDon": 323164.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-02",
+    "bid": 2064.48,
+    "ask": 2066.0,
+    "internationalPrice": 2066.0,
+    "domesticPrice": 86121.0,
+    "domesticPriceDon": 322952.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-03",
+    "bid": 2059.66,
+    "ask": 2061.35,
+    "internationalPrice": 2061.35,
+    "domesticPrice": 86882.0,
+    "domesticPriceDon": 325807.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-04",
+    "bid": 2042.09,
+    "ask": 2043.7,
+    "internationalPrice": 2043.7,
+    "domesticPrice": 86137.0,
+    "domesticPriceDon": 323012.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-05",
+    "bid": 2043.48,
+    "ask": 2044.9,
+    "internationalPrice": 2044.9,
+    "domesticPrice": 86402.0,
+    "domesticPriceDon": 324008.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-06",
+    "bid": 2045.5,
+    "ask": 2047.2,
+    "internationalPrice": 2047.2,
+    "domesticPrice": 86645.0,
+    "domesticPriceDon": 324918.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-08",
+    "bid": 2043.79,
+    "ask": 2045.2,
+    "internationalPrice": 2045.2,
+    "domesticPrice": 86551.0,
+    "domesticPriceDon": 324566.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-09",
+    "bid": 2032.41,
+    "ask": 2034.16,
+    "internationalPrice": 2034.16,
+    "domesticPrice": 85844.0,
+    "domesticPriceDon": 321914.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-10",
+    "bid": 2030.89,
+    "ask": 2032.3,
+    "internationalPrice": 2032.3,
+    "domesticPrice": 86406.0,
+    "domesticPriceDon": 324021.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-11",
+    "bid": 2026.89,
+    "ask": 2028.5,
+    "internationalPrice": 2028.5,
+    "domesticPrice": 86095.0,
+    "domesticPriceDon": 322857.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-12",
+    "bid": 2032.65,
+    "ask": 2034.28,
+    "internationalPrice": 2034.28,
+    "domesticPrice": 85972.0,
+    "domesticPriceDon": 322397.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-13",
+    "bid": 2048.71,
+    "ask": 2050.34,
+    "internationalPrice": 2050.34,
+    "domesticPrice": 86670.0,
+    "domesticPriceDon": 325013.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-15",
+    "bid": 2045.98,
+    "ask": 2047.75,
+    "internationalPrice": 2047.75,
+    "domesticPrice": 86739.0,
+    "domesticPriceDon": 325269.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-16",
+    "bid": 2053.88,
+    "ask": 2055.3,
+    "internationalPrice": 2055.3,
+    "domesticPrice": 87412.0,
+    "domesticPriceDon": 327794.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-17",
+    "bid": 2026.29,
+    "ask": 2027.8,
+    "internationalPrice": 2027.8,
+    "domesticPrice": 87433.0,
+    "domesticPriceDon": 327873.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-18",
+    "bid": 2008.61,
+    "ask": 2010.23,
+    "internationalPrice": 2010.23,
+    "domesticPrice": 87031.0,
+    "domesticPriceDon": 326365.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-19",
+    "bid": 2022.9,
+    "ask": 2024.59,
+    "internationalPrice": 2024.59,
+    "domesticPrice": 86926.0,
+    "domesticPriceDon": 325972.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-20",
+    "bid": 2029.31,
+    "ask": 2031.04,
+    "internationalPrice": 2031.04,
+    "domesticPrice": 87214.0,
+    "domesticPriceDon": 327052.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-22",
+    "bid": 2027.79,
+    "ask": 2029.2,
+    "internationalPrice": 2029.2,
+    "domesticPrice": 87074.0,
+    "domesticPriceDon": 326526.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-23",
+    "bid": 2021.39,
+    "ask": 2022.8,
+    "internationalPrice": 2022.8,
+    "domesticPrice": 87213.0,
+    "domesticPriceDon": 327047.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-24",
+    "bid": 2028.68,
+    "ask": 2030.1,
+    "internationalPrice": 2030.1,
+    "domesticPrice": 87345.0,
+    "domesticPriceDon": 327542.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-25",
+    "bid": 2015.29,
+    "ask": 2016.8,
+    "internationalPrice": 2016.8,
+    "domesticPrice": 86682.0,
+    "domesticPriceDon": 325056.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-26",
+    "bid": 2020.08,
+    "ask": 2021.4,
+    "internationalPrice": 2021.4,
+    "domesticPrice": 87035.0,
+    "domesticPriceDon": 326382.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-27",
+    "bid": 2018.33,
+    "ask": 2020.07,
+    "internationalPrice": 2020.07,
+    "domesticPrice": 86925.0,
+    "domesticPriceDon": 325970.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-29",
+    "bid": 2020.79,
+    "ask": 2022.3,
+    "internationalPrice": 2022.3,
+    "domesticPrice": 87029.0,
+    "domesticPriceDon": 326357.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-30",
+    "bid": 2031.18,
+    "ask": 2032.93,
+    "internationalPrice": 2032.93,
+    "domesticPrice": 87266.0,
+    "domesticPriceDon": 327246.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-01-31",
+    "bid": 2037.54,
+    "ask": 2039.28,
+    "internationalPrice": 2039.28,
+    "domesticPrice": 87219.0,
+    "domesticPriceDon": 327071.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-01",
+    "bid": 2039.89,
+    "ask": 2041.53,
+    "internationalPrice": 2041.53,
+    "domesticPrice": 87655.0,
+    "domesticPriceDon": 328705.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-02",
+    "bid": 2055.47,
+    "ask": 2057.18,
+    "internationalPrice": 2057.18,
+    "domesticPrice": 87794.0,
+    "domesticPriceDon": 329228.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-03",
+    "bid": 2038.58,
+    "ask": 2040.0,
+    "internationalPrice": 2040.0,
+    "domesticPrice": 87955.0,
+    "domesticPriceDon": 329831.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-05",
+    "bid": 2039.2,
+    "ask": 2040.89,
+    "internationalPrice": 2040.89,
+    "domesticPrice": 87880.0,
+    "domesticPriceDon": 329551.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-06",
+    "bid": 2025.18,
+    "ask": 2026.6,
+    "internationalPrice": 2026.6,
+    "domesticPrice": 86881.0,
+    "domesticPriceDon": 325802.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-07",
+    "bid": 2034.98,
+    "ask": 2036.4,
+    "internationalPrice": 2036.4,
+    "domesticPrice": 86969.0,
+    "domesticPriceDon": 326135.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-08",
+    "bid": 2036.58,
+    "ask": 2038.0,
+    "internationalPrice": 2038.0,
+    "domesticPrice": 86979.0,
+    "domesticPriceDon": 326173.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-09",
+    "bid": 2033.73,
+    "ask": 2035.36,
+    "internationalPrice": 2035.36,
+    "domesticPrice": 87274.0,
+    "domesticPriceDon": 327277.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-10",
+    "bid": 2024.16,
+    "ask": 2025.79,
+    "internationalPrice": 2025.79,
+    "domesticPrice": 86852.0,
+    "domesticPriceDon": 325694.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-12",
+    "bid": 2025.23,
+    "ask": 2026.99,
+    "internationalPrice": 2026.99,
+    "domesticPrice": 86903.0,
+    "domesticPriceDon": 325887.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-13",
+    "bid": 2018.68,
+    "ask": 2020.0,
+    "internationalPrice": 2020.0,
+    "domesticPrice": 86365.0,
+    "domesticPriceDon": 323867.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-14",
+    "bid": 1991.14,
+    "ask": 1992.7,
+    "internationalPrice": 1992.7,
+    "domesticPrice": 85816.0,
+    "domesticPriceDon": 321811.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-15",
+    "bid": 1993.52,
+    "ask": 1995.09,
+    "internationalPrice": 1995.09,
+    "domesticPrice": 85429.0,
+    "domesticPriceDon": 320359.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-16",
+    "bid": 2003.18,
+    "ask": 2004.6,
+    "internationalPrice": 2004.6,
+    "domesticPrice": 85768.0,
+    "domesticPriceDon": 321630.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-17",
+    "bid": 2013.1,
+    "ask": 2014.76,
+    "internationalPrice": 2014.76,
+    "domesticPrice": 86435.0,
+    "domesticPriceDon": 324132.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-19",
+    "bid": 2014.43,
+    "ask": 2016.19,
+    "internationalPrice": 2016.19,
+    "domesticPrice": 86478.0,
+    "domesticPriceDon": 324292.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-20",
+    "bid": 2015.58,
+    "ask": 2017.1,
+    "internationalPrice": 2017.1,
+    "domesticPrice": 86805.0,
+    "domesticPriceDon": 325518.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-21",
+    "bid": 2023.48,
+    "ask": 2024.8,
+    "internationalPrice": 2024.8,
+    "domesticPrice": 86872.0,
+    "domesticPriceDon": 325769.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-22",
+    "bid": 2025.3,
+    "ask": 2026.8,
+    "internationalPrice": 2026.8,
+    "domesticPrice": 86952.0,
+    "domesticPriceDon": 326071.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-23",
+    "bid": 2024.73,
+    "ask": 2026.23,
+    "internationalPrice": 2026.23,
+    "domesticPrice": 86540.0,
+    "domesticPriceDon": 324526.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-24",
+    "bid": 2035.71,
+    "ask": 2037.19,
+    "internationalPrice": 2037.19,
+    "domesticPrice": 87278.0,
+    "domesticPriceDon": 327291.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-26",
+    "bid": 2033.08,
+    "ask": 2034.6,
+    "internationalPrice": 2034.6,
+    "domesticPrice": 87165.0,
+    "domesticPriceDon": 326868.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-27",
+    "bid": 2031.58,
+    "ask": 2033.0,
+    "internationalPrice": 2033.0,
+    "domesticPrice": 87112.0,
+    "domesticPriceDon": 326669.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-28",
+    "bid": 2029.52,
+    "ask": 2031.27,
+    "internationalPrice": 2031.27,
+    "domesticPrice": 87015.0,
+    "domesticPriceDon": 326306.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-02-29",
+    "bid": 2034.98,
+    "ask": 2036.4,
+    "internationalPrice": 2036.4,
+    "domesticPrice": 87479.0,
+    "domesticPriceDon": 328048.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-01",
+    "bid": 2043.32,
+    "ask": 2044.86,
+    "internationalPrice": 2044.86,
+    "domesticPrice": 87871.0,
+    "domesticPriceDon": 329517.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-02",
+    "bid": 2083.38,
+    "ask": 2084.9,
+    "internationalPrice": 2084.9,
+    "domesticPrice": 89406.0,
+    "domesticPriceDon": 335273.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-04",
+    "bid": 2082.14,
+    "ask": 2083.83,
+    "internationalPrice": 2083.83,
+    "domesticPrice": 89291.0,
+    "domesticPriceDon": 334842.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-05",
+    "bid": 2114.59,
+    "ask": 2116.1,
+    "internationalPrice": 2116.1,
+    "domesticPrice": 90643.0,
+    "domesticPriceDon": 339912.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-06",
+    "bid": 2126.98,
+    "ask": 2128.4,
+    "internationalPrice": 2128.4,
+    "domesticPrice": 91487.0,
+    "domesticPriceDon": 343076.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-07",
+    "bid": 2148.09,
+    "ask": 2149.5,
+    "internationalPrice": 2149.5,
+    "domesticPrice": 91874.0,
+    "domesticPriceDon": 344529.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-08",
+    "bid": 2160.18,
+    "ask": 2161.5,
+    "internationalPrice": 2161.5,
+    "domesticPrice": 92033.0,
+    "domesticPriceDon": 345123.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-09",
+    "bid": 2177.51,
+    "ask": 2179.18,
+    "internationalPrice": 2179.18,
+    "domesticPrice": 92447.0,
+    "domesticPriceDon": 346677.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-11",
+    "bid": 2180.34,
+    "ask": 2182.09,
+    "internationalPrice": 2182.09,
+    "domesticPrice": 92496.0,
+    "domesticPriceDon": 346858.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-12",
+    "bid": 2183.88,
+    "ask": 2185.4,
+    "internationalPrice": 2185.4,
+    "domesticPrice": 92343.0,
+    "domesticPriceDon": 346286.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-13",
+    "bid": 2156.77,
+    "ask": 2158.39,
+    "internationalPrice": 2158.39,
+    "domesticPrice": 91139.0,
+    "domesticPriceDon": 341772.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-14",
+    "bid": 2174.84,
+    "ask": 2176.45,
+    "internationalPrice": 2176.45,
+    "domesticPrice": 92103.0,
+    "domesticPriceDon": 345384.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-15",
+    "bid": 2161.02,
+    "ask": 2162.62,
+    "internationalPrice": 2162.62,
+    "domesticPrice": 92200.0,
+    "domesticPriceDon": 345750.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-16",
+    "bid": 2155.55,
+    "ask": 2157.3,
+    "internationalPrice": 2157.3,
+    "domesticPrice": 92410.0,
+    "domesticPriceDon": 346536.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-18",
+    "bid": 2153.0,
+    "ask": 2155.2,
+    "internationalPrice": 2155.2,
+    "domesticPrice": 92524.0,
+    "domesticPriceDon": 346965.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-19",
+    "bid": 2152.39,
+    "ask": 2155.0,
+    "internationalPrice": 2155.0,
+    "domesticPrice": 92893.0,
+    "domesticPriceDon": 348349.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-20",
+    "bid": 2155.8,
+    "ask": 2157.71,
+    "internationalPrice": 2157.71,
+    "domesticPrice": 93076.0,
+    "domesticPriceDon": 349036.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-21",
+    "bid": 2201.18,
+    "ask": 2202.6,
+    "internationalPrice": 2202.6,
+    "domesticPrice": 94150.0,
+    "domesticPriceDon": 353061.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-22",
+    "bid": 2167.71,
+    "ask": 2169.22,
+    "internationalPrice": 2169.22,
+    "domesticPrice": 93825.0,
+    "domesticPriceDon": 351843.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-23",
+    "bid": 2164.14,
+    "ask": 2167.65,
+    "internationalPrice": 2167.65,
+    "domesticPrice": 93902.0,
+    "domesticPriceDon": 352134.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-25",
+    "bid": 2165.59,
+    "ask": 2167.0,
+    "internationalPrice": 2167.0,
+    "domesticPrice": 93575.0,
+    "domesticPriceDon": 350905.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-26",
+    "bid": 2178.29,
+    "ask": 2179.4,
+    "internationalPrice": 2179.4,
+    "domesticPrice": 94116.0,
+    "domesticPriceDon": 352937.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-27",
+    "bid": 2177.45,
+    "ask": 2178.96,
+    "internationalPrice": 2178.96,
+    "domesticPrice": 94750.0,
+    "domesticPriceDon": 355314.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-28",
+    "bid": 2194.3,
+    "ask": 2196.6,
+    "internationalPrice": 2196.6,
+    "domesticPrice": 95420.0,
+    "domesticPriceDon": 357825.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-29",
+    "bid": 2232.37,
+    "ask": 2237.43,
+    "internationalPrice": 2237.43,
+    "domesticPrice": 97078.0,
+    "domesticPriceDon": 364042.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-03-30",
+    "bid": 2232.37,
+    "ask": 2234.43,
+    "internationalPrice": 2234.43,
+    "domesticPrice": 96884.0,
+    "domesticPriceDon": 363314.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-01",
+    "bid": 2257.39,
+    "ask": 2259.91,
+    "internationalPrice": 2259.91,
+    "domesticPrice": 98116.0,
+    "domesticPriceDon": 367934.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-02",
+    "bid": 2261.07,
+    "ask": 2263.57,
+    "internationalPrice": 2263.57,
+    "domesticPrice": 98355.0,
+    "domesticPriceDon": 368830.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-03",
+    "bid": 2273.11,
+    "ask": 2275.61,
+    "internationalPrice": 2275.61,
+    "domesticPrice": 98831.0,
+    "domesticPriceDon": 370616.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-04",
+    "bid": 2291.71,
+    "ask": 2294.23,
+    "internationalPrice": 2294.23,
+    "domesticPrice": 99376.0,
+    "domesticPriceDon": 372658.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-05",
+    "bid": 2287.61,
+    "ask": 2290.35,
+    "internationalPrice": 2290.35,
+    "domesticPrice": 99561.0,
+    "domesticPriceDon": 373353.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-06",
+    "bid": 2329.5,
+    "ask": 2332.01,
+    "internationalPrice": 2332.01,
+    "domesticPrice": 101415.0,
+    "domesticPriceDon": 380305.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-08",
+    "bid": 2335.91,
+    "ask": 2337.42,
+    "internationalPrice": 2337.42,
+    "domesticPrice": 101983.0,
+    "domesticPriceDon": 382435.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-09",
+    "bid": 2357.15,
+    "ask": 2358.67,
+    "internationalPrice": 2358.67,
+    "domesticPrice": 102893.0,
+    "domesticPriceDon": 385850.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-10",
+    "bid": 2354.45,
+    "ask": 2355.96,
+    "internationalPrice": 2355.96,
+    "domesticPrice": 102255.0,
+    "domesticPriceDon": 383458.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-11",
+    "bid": 2328.12,
+    "ask": 2329.64,
+    "internationalPrice": 2329.64,
+    "domesticPrice": 102698.0,
+    "domesticPriceDon": 385117.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-12",
+    "bid": 2396.92,
+    "ask": 2398.44,
+    "internationalPrice": 2398.44,
+    "domesticPrice": 106448.0,
+    "domesticPriceDon": 399180.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-13",
+    "bid": 2343.42,
+    "ask": 2345.29,
+    "internationalPrice": 2345.29,
+    "domesticPrice": 104244.0,
+    "domesticPriceDon": 390914.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-15",
+    "bid": 2351.3,
+    "ask": 2353.2,
+    "internationalPrice": 2353.2,
+    "domesticPrice": 104796.0,
+    "domesticPriceDon": 392987.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-16",
+    "bid": 2369.0,
+    "ask": 2370.9,
+    "internationalPrice": 2370.9,
+    "domesticPrice": 106412.0,
+    "domesticPriceDon": 399044.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-17",
+    "bid": 2392.58,
+    "ask": 2394.08,
+    "internationalPrice": 2394.08,
+    "domesticPrice": 106430.0,
+    "domesticPriceDon": 399112.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-18",
+    "bid": 2379.72,
+    "ask": 2381.24,
+    "internationalPrice": 2381.24,
+    "domesticPrice": 105349.0,
+    "domesticPriceDon": 395057.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-19",
+    "bid": 2384.09,
+    "ask": 2385.6,
+    "internationalPrice": 2385.6,
+    "domesticPrice": 106038.0,
+    "domesticPriceDon": 397644.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-20",
+    "bid": 2390.45,
+    "ask": 2393.96,
+    "internationalPrice": 2393.96,
+    "domesticPrice": 105950.0,
+    "domesticPriceDon": 397312.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-22",
+    "bid": 2359.27,
+    "ask": 2360.77,
+    "internationalPrice": 2360.77,
+    "domesticPrice": 104771.0,
+    "domesticPriceDon": 392890.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-23",
+    "bid": 2302.91,
+    "ask": 2304.42,
+    "internationalPrice": 2304.42,
+    "domesticPrice": 102250.0,
+    "domesticPriceDon": 383437.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-24",
+    "bid": 2318.98,
+    "ask": 2320.4,
+    "internationalPrice": 2320.4,
+    "domesticPrice": 102522.0,
+    "domesticPriceDon": 384457.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-25",
+    "bid": 2326.68,
+    "ask": 2328.1,
+    "internationalPrice": 2328.1,
+    "domesticPrice": 103004.0,
+    "domesticPriceDon": 386263.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-26",
+    "bid": 2346.63,
+    "ask": 2348.25,
+    "internationalPrice": 2348.25,
+    "domesticPrice": 103992.0,
+    "domesticPriceDon": 389969.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-27",
+    "bid": 2337.71,
+    "ask": 2339.23,
+    "internationalPrice": 2339.23,
+    "domesticPrice": 103410.0,
+    "domesticPriceDon": 387788.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-29",
+    "bid": 2337.6,
+    "ask": 2339.5,
+    "internationalPrice": 2339.5,
+    "domesticPrice": 103693.0,
+    "domesticPriceDon": 388849.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-04-30",
+    "bid": 2312.53,
+    "ask": 2314.03,
+    "internationalPrice": 2314.03,
+    "domesticPrice": 102826.0,
+    "domesticPriceDon": 385597.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-01",
+    "bid": 2286.21,
+    "ask": 2287.46,
+    "internationalPrice": 2287.46,
+    "domesticPrice": 102056.0,
+    "domesticPriceDon": 382711.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-02",
+    "bid": 2304.59,
+    "ask": 2306.1,
+    "internationalPrice": 2306.1,
+    "domesticPrice": 102147.0,
+    "domesticPriceDon": 383052.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-03",
+    "bid": 2301.25,
+    "ask": 2302.5,
+    "internationalPrice": 2302.5,
+    "domesticPrice": 100815.0,
+    "domesticPriceDon": 378055.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-04",
+    "bid": 2302.53,
+    "ask": 2304.05,
+    "internationalPrice": 2304.05,
+    "domesticPrice": 100643.0,
+    "domesticPriceDon": 377412.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-06",
+    "bid": 2318.19,
+    "ask": 2319.71,
+    "internationalPrice": 2319.71,
+    "domesticPrice": 101312.0,
+    "domesticPriceDon": 379921.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-07",
+    "bid": 2315.11,
+    "ask": 2316.62,
+    "internationalPrice": 2316.62,
+    "domesticPrice": 101361.0,
+    "domesticPriceDon": 380102.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-08",
+    "bid": 2307.28,
+    "ask": 2308.56,
+    "internationalPrice": 2308.56,
+    "domesticPrice": 101331.0,
+    "domesticPriceDon": 379990.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-09",
+    "bid": 2310.19,
+    "ask": 2311.71,
+    "internationalPrice": 2311.71,
+    "domesticPrice": 102060.0,
+    "domesticPriceDon": 382725.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-10",
+    "bid": 2369.4,
+    "ask": 2370.92,
+    "internationalPrice": 2370.92,
+    "domesticPrice": 104216.0,
+    "domesticPriceDon": 390809.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-11",
+    "bid": 2360.14,
+    "ask": 2361.91,
+    "internationalPrice": 2361.91,
+    "domesticPrice": 104306.0,
+    "domesticPriceDon": 391147.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-13",
+    "bid": 2343.37,
+    "ask": 2344.88,
+    "internationalPrice": 2344.88,
+    "domesticPrice": 103162.0,
+    "domesticPriceDon": 386856.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-14",
+    "bid": 2343.5,
+    "ask": 2345.01,
+    "internationalPrice": 2345.01,
+    "domesticPrice": 103269.0,
+    "domesticPriceDon": 387259.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-15",
+    "bid": 2373.39,
+    "ask": 2374.91,
+    "internationalPrice": 2374.91,
+    "domesticPrice": 103668.0,
+    "domesticPriceDon": 388755.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-16",
+    "bid": 2386.18,
+    "ask": 2387.7,
+    "internationalPrice": 2387.7,
+    "domesticPrice": 103366.0,
+    "domesticPriceDon": 387622.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-17",
+    "bid": 2383.86,
+    "ask": 2385.36,
+    "internationalPrice": 2385.36,
+    "domesticPrice": 104331.0,
+    "domesticPriceDon": 391243.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-18",
+    "bid": 2414.88,
+    "ask": 2416.64,
+    "internationalPrice": 2416.64,
+    "domesticPrice": 105333.0,
+    "domesticPriceDon": 394998.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-20",
+    "bid": 2439.73,
+    "ask": 2441.25,
+    "internationalPrice": 2441.25,
+    "domesticPrice": 106718.0,
+    "domesticPriceDon": 400192.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-21",
+    "bid": 2418.87,
+    "ask": 2420.38,
+    "internationalPrice": 2420.38,
+    "domesticPrice": 106154.0,
+    "domesticPriceDon": 398078.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-22",
+    "bid": 2416.73,
+    "ask": 2418.02,
+    "internationalPrice": 2418.02,
+    "domesticPrice": 106214.0,
+    "domesticPriceDon": 398302.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-23",
+    "bid": 2359.94,
+    "ask": 2361.46,
+    "internationalPrice": 2361.46,
+    "domesticPrice": 103722.0,
+    "domesticPriceDon": 388957.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-24",
+    "bid": 2340.09,
+    "ask": 2341.5,
+    "internationalPrice": 2341.5,
+    "domesticPrice": 103006.0,
+    "domesticPriceDon": 386273.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-25",
+    "bid": 2333.77,
+    "ask": 2335.39,
+    "internationalPrice": 2335.39,
+    "domesticPrice": 102843.0,
+    "domesticPriceDon": 385659.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-27",
+    "bid": 2344.12,
+    "ask": 2345.38,
+    "internationalPrice": 2345.38,
+    "domesticPrice": 102930.0,
+    "domesticPriceDon": 385989.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-28",
+    "bid": 2344.76,
+    "ask": 2346.26,
+    "internationalPrice": 2346.26,
+    "domesticPrice": 102620.0,
+    "domesticPriceDon": 384824.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-29",
+    "bid": 2345.29,
+    "ask": 2346.7,
+    "internationalPrice": 2346.7,
+    "domesticPrice": 103192.0,
+    "domesticPriceDon": 386970.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-30",
+    "bid": 2334.98,
+    "ask": 2336.29,
+    "internationalPrice": 2336.29,
+    "domesticPrice": 103443.0,
+    "domesticPriceDon": 387909.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-05-31",
+    "bid": 2343.28,
+    "ask": 2344.79,
+    "internationalPrice": 2344.79,
+    "domesticPrice": 104395.0,
+    "domesticPriceDon": 391481.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-01",
+    "bid": 2326.96,
+    "ask": 2328.59,
+    "internationalPrice": 2328.59,
+    "domesticPrice": 103730.0,
+    "domesticPriceDon": 388989.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-03",
+    "bid": 2325.19,
+    "ask": 2326.47,
+    "internationalPrice": 2326.47,
+    "domesticPrice": 103208.0,
+    "domesticPriceDon": 387031.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-04",
+    "bid": 2333.22,
+    "ask": 2334.52,
+    "internationalPrice": 2334.52,
+    "domesticPrice": 103465.0,
+    "domesticPriceDon": 387993.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-05",
+    "bid": 2332.48,
+    "ask": 2333.9,
+    "internationalPrice": 2333.9,
+    "domesticPrice": 103137.0,
+    "domesticPriceDon": 386764.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-06",
+    "bid": 2362.79,
+    "ask": 2364.3,
+    "internationalPrice": 2364.3,
+    "domesticPrice": 104004.0,
+    "domesticPriceDon": 390015.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-07",
+    "bid": 2347.18,
+    "ask": 2348.54,
+    "internationalPrice": 2348.54,
+    "domesticPrice": 103288.0,
+    "domesticPriceDon": 387330.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-08",
+    "bid": 2292.7,
+    "ask": 2296.21,
+    "internationalPrice": 2296.21,
+    "domesticPrice": 102052.0,
+    "domesticPriceDon": 382694.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-10",
+    "bid": 2292.68,
+    "ask": 2293.97,
+    "internationalPrice": 2293.97,
+    "domesticPrice": 101596.0,
+    "domesticPriceDon": 380985.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-11",
+    "bid": 2306.42,
+    "ask": 2307.94,
+    "internationalPrice": 2307.94,
+    "domesticPrice": 102458.0,
+    "domesticPriceDon": 384218.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-12",
+    "bid": 2312.82,
+    "ask": 2314.33,
+    "internationalPrice": 2314.33,
+    "domesticPrice": 102375.0,
+    "domesticPriceDon": 383906.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-13",
+    "bid": 2315.71,
+    "ask": 2317.22,
+    "internationalPrice": 2317.22,
+    "domesticPrice": 102434.0,
+    "domesticPriceDon": 384126.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-14",
+    "bid": 2317.21,
+    "ask": 2318.73,
+    "internationalPrice": 2318.73,
+    "domesticPrice": 103135.0,
+    "domesticPriceDon": 386755.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-15",
+    "bid": 2332.52,
+    "ask": 2334.03,
+    "internationalPrice": 2334.03,
+    "domesticPrice": 103995.0,
+    "domesticPriceDon": 389980.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-17",
+    "bid": 2321.3,
+    "ask": 2322.55,
+    "internationalPrice": 2322.55,
+    "domesticPrice": 103163.0,
+    "domesticPriceDon": 386863.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-18",
+    "bid": 2311.34,
+    "ask": 2312.84,
+    "internationalPrice": 2312.84,
+    "domesticPrice": 103082.0,
+    "domesticPriceDon": 386556.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-19",
+    "bid": 2332.28,
+    "ask": 2333.79,
+    "internationalPrice": 2333.79,
+    "domesticPrice": 103654.0,
+    "domesticPriceDon": 388701.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-20",
+    "bid": 2333.46,
+    "ask": 2334.97,
+    "internationalPrice": 2334.97,
+    "domesticPrice": 104175.0,
+    "domesticPriceDon": 390655.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-21",
+    "bid": 2365.29,
+    "ask": 2366.7,
+    "internationalPrice": 2366.7,
+    "domesticPrice": 105886.0,
+    "domesticPriceDon": 397073.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-22",
+    "bid": 2320.35,
+    "ask": 2323.85,
+    "internationalPrice": 2323.85,
+    "domesticPrice": 103927.0,
+    "domesticPriceDon": 389727.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-24",
+    "bid": 2330.54,
+    "ask": 2332.05,
+    "internationalPrice": 2332.05,
+    "domesticPrice": 104163.0,
+    "domesticPriceDon": 390610.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-25",
+    "bid": 2329.68,
+    "ask": 2331.2,
+    "internationalPrice": 2331.2,
+    "domesticPrice": 104252.0,
+    "domesticPriceDon": 390946.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-26",
+    "bid": 2315.68,
+    "ask": 2317.19,
+    "internationalPrice": 2317.19,
+    "domesticPrice": 103670.0,
+    "domesticPriceDon": 388761.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-27",
+    "bid": 2307.32,
+    "ask": 2308.83,
+    "internationalPrice": 2308.83,
+    "domesticPrice": 103003.0,
+    "domesticPriceDon": 386262.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-28",
+    "bid": 2329.04,
+    "ask": 2330.55,
+    "internationalPrice": 2330.55,
+    "domesticPrice": 103396.0,
+    "domesticPriceDon": 387735.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-06-29",
+    "bid": 2325.7,
+    "ask": 2329.21,
+    "internationalPrice": 2329.21,
+    "domesticPrice": 103554.0,
+    "domesticPriceDon": 388326.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-01",
+    "bid": 2325.73,
+    "ask": 2327.25,
+    "internationalPrice": 2327.25,
+    "domesticPrice": 103455.0,
+    "domesticPriceDon": 387957.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-02",
+    "bid": 2330.93,
+    "ask": 2332.6,
+    "internationalPrice": 2332.6,
+    "domesticPrice": 104239.0,
+    "domesticPriceDon": 390896.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-03",
+    "bid": 2344.64,
+    "ask": 2345.93,
+    "internationalPrice": 2345.93,
+    "domesticPrice": 104871.0,
+    "domesticPriceDon": 393266.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-04",
+    "bid": 2358.64,
+    "ask": 2360.16,
+    "internationalPrice": 2360.16,
+    "domesticPrice": 104863.0,
+    "domesticPriceDon": 393236.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-05",
+    "bid": 2366.43,
+    "ask": 2367.69,
+    "internationalPrice": 2367.69,
+    "domesticPrice": 105207.0,
+    "domesticPriceDon": 394527.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-06",
+    "bid": 2391.45,
+    "ask": 2393.09,
+    "internationalPrice": 2393.09,
+    "domesticPrice": 106126.0,
+    "domesticPriceDon": 397972.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-08",
+    "bid": 2372.89,
+    "ask": 2374.17,
+    "internationalPrice": 2374.17,
+    "domesticPrice": 105689.0,
+    "domesticPriceDon": 396334.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-09",
+    "bid": 2361.08,
+    "ask": 2362.59,
+    "internationalPrice": 2362.59,
+    "domesticPrice": 105158.0,
+    "domesticPriceDon": 394344.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-10",
+    "bid": 2372.84,
+    "ask": 2374.06,
+    "internationalPrice": 2374.06,
+    "domesticPrice": 105763.0,
+    "domesticPriceDon": 396611.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-11",
+    "bid": 2381.15,
+    "ask": 2382.67,
+    "internationalPrice": 2382.67,
+    "domesticPrice": 105704.0,
+    "domesticPriceDon": 396392.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-12",
+    "bid": 2407.25,
+    "ask": 2408.88,
+    "internationalPrice": 2408.88,
+    "domesticPrice": 106578.0,
+    "domesticPriceDon": 399669.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-13",
+    "bid": 2411.28,
+    "ask": 2413.04,
+    "internationalPrice": 2413.04,
+    "domesticPrice": 106879.0,
+    "domesticPriceDon": 400795.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-15",
+    "bid": 2411.68,
+    "ask": 2413.1,
+    "internationalPrice": 2413.1,
+    "domesticPrice": 107287.0,
+    "domesticPriceDon": 402327.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-16",
+    "bid": 2436.12,
+    "ask": 2437.62,
+    "internationalPrice": 2437.62,
+    "domesticPrice": 108581.0,
+    "domesticPriceDon": 407179.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-17",
+    "bid": 2474.87,
+    "ask": 2476.23,
+    "internationalPrice": 2476.23,
+    "domesticPrice": 109760.0,
+    "domesticPriceDon": 411601.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-18",
+    "bid": 2465.75,
+    "ask": 2467.25,
+    "internationalPrice": 2467.25,
+    "domesticPrice": 109832.0,
+    "domesticPriceDon": 411870.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-19",
+    "bid": 2420.39,
+    "ask": 2421.72,
+    "internationalPrice": 2421.72,
+    "domesticPrice": 108209.0,
+    "domesticPriceDon": 405784.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-20",
+    "bid": 2399.91,
+    "ask": 2403.04,
+    "internationalPrice": 2403.04,
+    "domesticPrice": 107540.0,
+    "domesticPriceDon": 403274.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-22",
+    "bid": 2400.5,
+    "ask": 2402.4,
+    "internationalPrice": 2402.4,
+    "domesticPrice": 107330.0,
+    "domesticPriceDon": 402489.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-23",
+    "bid": 2403.87,
+    "ask": 2405.38,
+    "internationalPrice": 2405.38,
+    "domesticPrice": 107321.0,
+    "domesticPriceDon": 402452.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-24",
+    "bid": 2411.72,
+    "ask": 2412.98,
+    "internationalPrice": 2412.98,
+    "domesticPrice": 107514.0,
+    "domesticPriceDon": 403177.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-25",
+    "bid": 2374.38,
+    "ask": 2375.98,
+    "internationalPrice": 2375.98,
+    "domesticPrice": 105683.0,
+    "domesticPriceDon": 396310.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-26",
+    "bid": 2373.0,
+    "ask": 2374.27,
+    "internationalPrice": 2374.27,
+    "domesticPrice": 105875.0,
+    "domesticPriceDon": 397032.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-27",
+    "bid": 2385.58,
+    "ask": 2389.08,
+    "internationalPrice": 2389.08,
+    "domesticPrice": 106523.0,
+    "domesticPriceDon": 399460.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-29",
+    "bid": 2390.0,
+    "ask": 2392.0,
+    "internationalPrice": 2392.0,
+    "domesticPrice": 106574.0,
+    "domesticPriceDon": 399654.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-30",
+    "bid": 2389.35,
+    "ask": 2390.6,
+    "internationalPrice": 2390.6,
+    "domesticPrice": 106502.0,
+    "domesticPriceDon": 399383.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-07-31",
+    "bid": 2421.18,
+    "ask": 2422.7,
+    "internationalPrice": 2422.7,
+    "domesticPrice": 107237.0,
+    "domesticPriceDon": 402137.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-01",
+    "bid": 2433.62,
+    "ask": 2435.13,
+    "internationalPrice": 2435.13,
+    "domesticPrice": 107162.0,
+    "domesticPriceDon": 401857.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-02",
+    "bid": 2461.9,
+    "ask": 2463.21,
+    "internationalPrice": 2463.21,
+    "domesticPrice": 108299.0,
+    "domesticPriceDon": 406120.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-03",
+    "bid": 2443.3,
+    "ask": 2444.81,
+    "internationalPrice": 2444.81,
+    "domesticPrice": 106947.0,
+    "domesticPriceDon": 401049.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-05",
+    "bid": 2424.83,
+    "ask": 2426.22,
+    "internationalPrice": 2426.22,
+    "domesticPrice": 106549.0,
+    "domesticPriceDon": 399559.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-06",
+    "bid": 2410.81,
+    "ask": 2412.18,
+    "internationalPrice": 2412.18,
+    "domesticPrice": 106872.0,
+    "domesticPriceDon": 400769.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-07",
+    "bid": 2393.13,
+    "ask": 2394.65,
+    "internationalPrice": 2394.65,
+    "domesticPrice": 105893.0,
+    "domesticPriceDon": 397100.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-08",
+    "bid": 2394.29,
+    "ask": 2395.8,
+    "internationalPrice": 2395.8,
+    "domesticPrice": 106040.0,
+    "domesticPriceDon": 397649.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-09",
+    "bid": 2424.48,
+    "ask": 2425.75,
+    "internationalPrice": 2425.75,
+    "domesticPrice": 106528.0,
+    "domesticPriceDon": 399479.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-10",
+    "bid": 2430.92,
+    "ask": 2432.49,
+    "internationalPrice": 2432.49,
+    "domesticPrice": 106977.0,
+    "domesticPriceDon": 401163.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-12",
+    "bid": 2441.75,
+    "ask": 2443.25,
+    "internationalPrice": 2443.25,
+    "domesticPrice": 107815.0,
+    "domesticPriceDon": 404308.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-13",
+    "bid": 2460.62,
+    "ask": 2462.13,
+    "internationalPrice": 2462.13,
+    "domesticPrice": 108580.0,
+    "domesticPriceDon": 407174.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-14",
+    "bid": 2474.25,
+    "ask": 2475.54,
+    "internationalPrice": 2475.54,
+    "domesticPrice": 108037.0,
+    "domesticPriceDon": 405138.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-15",
+    "bid": 2455.31,
+    "ask": 2456.56,
+    "internationalPrice": 2456.56,
+    "domesticPrice": 107336.0,
+    "domesticPriceDon": 402509.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-16",
+    "bid": 2462.32,
+    "ask": 2463.58,
+    "internationalPrice": 2463.58,
+    "domesticPrice": 107589.0,
+    "domesticPriceDon": 403457.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-17",
+    "bid": 2507.29,
+    "ask": 2509.92,
+    "internationalPrice": 2509.92,
+    "domesticPrice": 109109.0,
+    "domesticPriceDon": 409158.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-19",
+    "bid": 2503.12,
+    "ask": 2504.63,
+    "internationalPrice": 2504.63,
+    "domesticPrice": 107773.0,
+    "domesticPriceDon": 404150.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-20",
+    "bid": 2519.66,
+    "ask": 2521.03,
+    "internationalPrice": 2521.03,
+    "domesticPrice": 108102.0,
+    "domesticPriceDon": 405383.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-21",
+    "bid": 2507.25,
+    "ask": 2508.53,
+    "internationalPrice": 2508.53,
+    "domesticPrice": 108112.0,
+    "domesticPriceDon": 405420.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-22",
+    "bid": 2503.48,
+    "ask": 2504.9,
+    "internationalPrice": 2504.9,
+    "domesticPrice": 107830.0,
+    "domesticPriceDon": 404362.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-23",
+    "bid": 2498.45,
+    "ask": 2499.97,
+    "internationalPrice": 2499.97,
+    "domesticPrice": 107606.0,
+    "domesticPriceDon": 403524.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-24",
+    "bid": 2510.33,
+    "ask": 2513.83,
+    "internationalPrice": 2513.83,
+    "domesticPrice": 107244.0,
+    "domesticPriceDon": 402164.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-26",
+    "bid": 2524.09,
+    "ask": 2525.5,
+    "internationalPrice": 2525.5,
+    "domesticPrice": 107719.0,
+    "domesticPriceDon": 403946.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-27",
+    "bid": 2510.6,
+    "ask": 2512.5,
+    "internationalPrice": 2512.5,
+    "domesticPrice": 107814.0,
+    "domesticPriceDon": 404302.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-28",
+    "bid": 2508.21,
+    "ask": 2509.48,
+    "internationalPrice": 2509.48,
+    "domesticPrice": 107805.0,
+    "domesticPriceDon": 404270.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-29",
+    "bid": 2516.85,
+    "ask": 2518.14,
+    "internationalPrice": 2518.14,
+    "domesticPrice": 108182.0,
+    "domesticPriceDon": 405683.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-30",
+    "bid": 2522.92,
+    "ask": 2524.44,
+    "internationalPrice": 2524.44,
+    "domesticPrice": 108403.0,
+    "domesticPriceDon": 406512.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-08-31",
+    "bid": 2503.04,
+    "ask": 2504.68,
+    "internationalPrice": 2504.68,
+    "domesticPrice": 107873.0,
+    "domesticPriceDon": 404523.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-02",
+    "bid": 2506.5,
+    "ask": 2508.0,
+    "internationalPrice": 2508.0,
+    "domesticPrice": 108052.0,
+    "domesticPriceDon": 405195.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-03",
+    "bid": 2504.1,
+    "ask": 2505.61,
+    "internationalPrice": 2505.61,
+    "domesticPrice": 108079.0,
+    "domesticPriceDon": 405296.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-04",
+    "bid": 2472.98,
+    "ask": 2474.4,
+    "internationalPrice": 2474.4,
+    "domesticPrice": 106863.0,
+    "domesticPriceDon": 400736.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-05",
+    "bid": 2514.23,
+    "ask": 2515.75,
+    "internationalPrice": 2515.75,
+    "domesticPrice": 108117.0,
+    "domesticPriceDon": 405437.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-06",
+    "bid": 2517.87,
+    "ask": 2519.11,
+    "internationalPrice": 2519.11,
+    "domesticPrice": 107735.0,
+    "domesticPriceDon": 404008.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-07",
+    "bid": 2497.03,
+    "ask": 2498.61,
+    "internationalPrice": 2498.61,
+    "domesticPrice": 107745.0,
+    "domesticPriceDon": 404043.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-09",
+    "bid": 2491.98,
+    "ask": 2493.5,
+    "internationalPrice": 2493.5,
+    "domesticPrice": 108113.0,
+    "domesticPriceDon": 405423.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-10",
+    "bid": 2502.25,
+    "ask": 2503.52,
+    "internationalPrice": 2503.52,
+    "domesticPrice": 108291.0,
+    "domesticPriceDon": 406092.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-11",
+    "bid": 2523.95,
+    "ask": 2525.47,
+    "internationalPrice": 2525.47,
+    "domesticPrice": 108883.0,
+    "domesticPriceDon": 408313.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-12",
+    "bid": 2517.28,
+    "ask": 2518.51,
+    "internationalPrice": 2518.51,
+    "domesticPrice": 108742.0,
+    "domesticPriceDon": 407783.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-13",
+    "bid": 2569.75,
+    "ask": 2571.25,
+    "internationalPrice": 2571.25,
+    "domesticPrice": 109867.0,
+    "domesticPriceDon": 412001.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-14",
+    "bid": 2576.5,
+    "ask": 2579.57,
+    "internationalPrice": 2579.57,
+    "domesticPrice": 110460.0,
+    "domesticPriceDon": 414224.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-16",
+    "bid": 2586.79,
+    "ask": 2588.1,
+    "internationalPrice": 2588.1,
+    "domesticPrice": 109858.0,
+    "domesticPriceDon": 411967.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-17",
+    "bid": 2579.62,
+    "ask": 2581.13,
+    "internationalPrice": 2581.13,
+    "domesticPrice": 109420.0,
+    "domesticPriceDon": 410326.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-18",
+    "bid": 2569.59,
+    "ask": 2571.1,
+    "internationalPrice": 2571.1,
+    "domesticPrice": 109535.0,
+    "domesticPriceDon": 410756.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-19",
+    "bid": 2584.75,
+    "ask": 2586.25,
+    "internationalPrice": 2586.25,
+    "domesticPrice": 110551.0,
+    "domesticPriceDon": 414567.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-20",
+    "bid": 2609.59,
+    "ask": 2611.0,
+    "internationalPrice": 2611.0,
+    "domesticPrice": 112119.0,
+    "domesticPriceDon": 420445.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-21",
+    "bid": 2621.95,
+    "ask": 2623.51,
+    "internationalPrice": 2623.51,
+    "domesticPrice": 112551.0,
+    "domesticPriceDon": 422067.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-23",
+    "bid": 2616.7,
+    "ask": 2618.22,
+    "internationalPrice": 2618.22,
+    "domesticPrice": 112807.0,
+    "domesticPriceDon": 423028.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-24",
+    "bid": 2628.62,
+    "ask": 2630.13,
+    "internationalPrice": 2630.13,
+    "domesticPrice": 113062.0,
+    "domesticPriceDon": 423982.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-25",
+    "bid": 2655.81,
+    "ask": 2657.32,
+    "internationalPrice": 2657.32,
+    "domesticPrice": 113780.0,
+    "domesticPriceDon": 426673.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-26",
+    "bid": 2668.85,
+    "ask": 2670.28,
+    "internationalPrice": 2670.28,
+    "domesticPrice": 114262.0,
+    "domesticPriceDon": 428484.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-27",
+    "bid": 2662.62,
+    "ask": 2664.12,
+    "internationalPrice": 2664.12,
+    "domesticPrice": 112579.0,
+    "domesticPriceDon": 422173.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-28",
+    "bid": 2657.96,
+    "ask": 2659.76,
+    "internationalPrice": 2659.76,
+    "domesticPrice": 112305.0,
+    "domesticPriceDon": 421142.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-09-30",
+    "bid": 2652.96,
+    "ask": 2654.48,
+    "internationalPrice": 2654.48,
+    "domesticPrice": 111995.0,
+    "domesticPriceDon": 419980.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-01",
+    "bid": 2646.25,
+    "ask": 2647.75,
+    "internationalPrice": 2647.75,
+    "domesticPrice": 112581.0,
+    "domesticPriceDon": 422177.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-02",
+    "bid": 2652.29,
+    "ask": 2653.7,
+    "internationalPrice": 2653.7,
+    "domesticPrice": 112705.0,
+    "domesticPriceDon": 422643.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-03",
+    "bid": 2645.12,
+    "ask": 2646.43,
+    "internationalPrice": 2646.43,
+    "domesticPrice": 113441.0,
+    "domesticPriceDon": 425403.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-04",
+    "bid": 2660.41,
+    "ask": 2661.69,
+    "internationalPrice": 2661.69,
+    "domesticPrice": 114474.0,
+    "domesticPriceDon": 429278.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-05",
+    "bid": 2652.25,
+    "ask": 2655.75,
+    "internationalPrice": 2655.75,
+    "domesticPrice": 115126.0,
+    "domesticPriceDon": 431724.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-07",
+    "bid": 2652.18,
+    "ask": 2653.7,
+    "internationalPrice": 2653.7,
+    "domesticPrice": 115034.0,
+    "domesticPriceDon": 431377.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-08",
+    "bid": 2637.81,
+    "ask": 2639.17,
+    "internationalPrice": 2639.17,
+    "domesticPrice": 114488.0,
+    "domesticPriceDon": 429331.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-09",
+    "bid": 2616.87,
+    "ask": 2618.37,
+    "internationalPrice": 2618.37,
+    "domesticPrice": 113291.0,
+    "domesticPriceDon": 424842.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-10",
+    "bid": 2615.37,
+    "ask": 2616.88,
+    "internationalPrice": 2616.88,
+    "domesticPrice": 113674.0,
+    "domesticPriceDon": 426279.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-11",
+    "bid": 2639.14,
+    "ask": 2640.41,
+    "internationalPrice": 2640.41,
+    "domesticPrice": 114580.0,
+    "domesticPriceDon": 429676.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-12",
+    "bid": 2656.0,
+    "ask": 2659.5,
+    "internationalPrice": 2659.5,
+    "domesticPrice": 115494.0,
+    "domesticPriceDon": 433103.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-14",
+    "bid": 2659.21,
+    "ask": 2660.48,
+    "internationalPrice": 2660.48,
+    "domesticPrice": 116244.0,
+    "domesticPriceDon": 435915.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-15",
+    "bid": 2653.87,
+    "ask": 2655.16,
+    "internationalPrice": 2655.16,
+    "domesticPrice": 116276.0,
+    "domesticPriceDon": 436036.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-16",
+    "bid": 2679.62,
+    "ask": 2680.92,
+    "internationalPrice": 2680.92,
+    "domesticPrice": 117628.0,
+    "domesticPriceDon": 441103.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-17",
+    "bid": 2681.68,
+    "ask": 2683.2,
+    "internationalPrice": 2683.2,
+    "domesticPrice": 118432.0,
+    "domesticPriceDon": 444121.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-18",
+    "bid": 2706.18,
+    "ask": 2707.5,
+    "internationalPrice": 2707.5,
+    "domesticPrice": 119492.0,
+    "domesticPriceDon": 448094.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-19",
+    "bid": 2720.25,
+    "ask": 2723.63,
+    "internationalPrice": 2723.63,
+    "domesticPrice": 120112.0,
+    "domesticPriceDon": 450419.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-21",
+    "bid": 2731.32,
+    "ask": 2732.6,
+    "internationalPrice": 2732.6,
+    "domesticPrice": 121056.0,
+    "domesticPriceDon": 453962.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-22",
+    "bid": 2734.82,
+    "ask": 2736.1,
+    "internationalPrice": 2736.1,
+    "domesticPrice": 121315.0,
+    "domesticPriceDon": 454932.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-23",
+    "bid": 2756.85,
+    "ask": 2758.11,
+    "internationalPrice": 2758.11,
+    "domesticPrice": 122705.0,
+    "domesticPriceDon": 460145.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-24",
+    "bid": 2736.59,
+    "ask": 2737.9,
+    "internationalPrice": 2737.9,
+    "domesticPrice": 121447.0,
+    "domesticPriceDon": 455426.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-25",
+    "bid": 2719.3,
+    "ask": 2720.81,
+    "internationalPrice": 2720.81,
+    "domesticPrice": 121617.0,
+    "domesticPriceDon": 456064.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-26",
+    "bid": 2747.69,
+    "ask": 2749.22,
+    "internationalPrice": 2749.22,
+    "domesticPrice": 122900.0,
+    "domesticPriceDon": 460876.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-28",
+    "bid": 2731.96,
+    "ask": 2733.3,
+    "internationalPrice": 2733.3,
+    "domesticPrice": 121705.0,
+    "domesticPriceDon": 456395.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-29",
+    "bid": 2754.54,
+    "ask": 2755.84,
+    "internationalPrice": 2755.84,
+    "domesticPrice": 122864.0,
+    "domesticPriceDon": 460740.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-30",
+    "bid": 2781.52,
+    "ask": 2783.03,
+    "internationalPrice": 2783.03,
+    "domesticPrice": 123133.0,
+    "domesticPriceDon": 461749.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-10-31",
+    "bid": 2779.25,
+    "ask": 2780.75,
+    "internationalPrice": 2780.75,
+    "domesticPrice": 123384.0,
+    "domesticPriceDon": 462688.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-01",
+    "bid": 2752.69,
+    "ask": 2755.0,
+    "internationalPrice": 2755.0,
+    "domesticPrice": 122218.0,
+    "domesticPriceDon": 458317.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-02",
+    "bid": 2735.15,
+    "ask": 2738.66,
+    "internationalPrice": 2738.66,
+    "domesticPrice": 121790.0,
+    "domesticPriceDon": 456712.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-04",
+    "bid": 2733.61,
+    "ask": 2735.12,
+    "internationalPrice": 2735.12,
+    "domesticPrice": 121118.0,
+    "domesticPriceDon": 454192.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-05",
+    "bid": 2742.38,
+    "ask": 2743.7,
+    "internationalPrice": 2743.7,
+    "domesticPrice": 121694.0,
+    "domesticPriceDon": 456352.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-06",
+    "bid": 2724.12,
+    "ask": 2725.63,
+    "internationalPrice": 2725.63,
+    "domesticPrice": 122373.0,
+    "domesticPriceDon": 458900.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-07",
+    "bid": 2657.39,
+    "ask": 2658.74,
+    "internationalPrice": 2658.74,
+    "domesticPrice": 119173.0,
+    "domesticPriceDon": 446897.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-08",
+    "bid": 2688.36,
+    "ask": 2689.75,
+    "internationalPrice": 2689.75,
+    "domesticPrice": 120244.0,
+    "domesticPriceDon": 450916.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-09",
+    "bid": 2683.77,
+    "ask": 2685.01,
+    "internationalPrice": 2685.01,
+    "domesticPrice": 120961.0,
+    "domesticPriceDon": 453605.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-11",
+    "bid": 2669.44,
+    "ask": 2670.77,
+    "internationalPrice": 2670.77,
+    "domesticPrice": 119942.0,
+    "domesticPriceDon": 449782.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-12",
+    "bid": 2600.0,
+    "ask": 2602.1,
+    "internationalPrice": 2602.1,
+    "domesticPrice": 117758.0,
+    "domesticPriceDon": 441593.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-13",
+    "bid": 2607.28,
+    "ask": 2608.85,
+    "internationalPrice": 2608.85,
+    "domesticPrice": 117529.0,
+    "domesticPriceDon": 440735.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-14",
+    "bid": 2555.88,
+    "ask": 2557.24,
+    "internationalPrice": 2557.24,
+    "domesticPrice": 115641.0,
+    "domesticPriceDon": 433653.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-15",
+    "bid": 2566.91,
+    "ask": 2568.25,
+    "internationalPrice": 2568.25,
+    "domesticPrice": 115247.0,
+    "domesticPriceDon": 432176.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-16",
+    "bid": 2561.2,
+    "ask": 2562.96,
+    "internationalPrice": 2562.96,
+    "domesticPrice": 115249.0,
+    "domesticPriceDon": 432182.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-18",
+    "bid": 2585.58,
+    "ask": 2586.89,
+    "internationalPrice": 2586.89,
+    "domesticPrice": 116463.0,
+    "domesticPriceDon": 436735.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-19",
+    "bid": 2626.19,
+    "ask": 2627.9,
+    "internationalPrice": 2627.9,
+    "domesticPrice": 117956.0,
+    "domesticPriceDon": 442334.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-20",
+    "bid": 2623.89,
+    "ask": 2625.6,
+    "internationalPrice": 2625.6,
+    "domesticPrice": 117949.0,
+    "domesticPriceDon": 442308.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-21",
+    "bid": 2668.09,
+    "ask": 2669.5,
+    "internationalPrice": 2669.5,
+    "domesticPrice": 120085.0,
+    "domesticPriceDon": 450318.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-22",
+    "bid": 2696.9,
+    "ask": 2698.27,
+    "internationalPrice": 2698.27,
+    "domesticPrice": 121877.0,
+    "domesticPriceDon": 457039.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-23",
+    "bid": 2712.59,
+    "ask": 2714.04,
+    "internationalPrice": 2714.04,
+    "domesticPrice": 122807.0,
+    "domesticPriceDon": 460528.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-25",
+    "bid": 2671.79,
+    "ask": 2673.19,
+    "internationalPrice": 2673.19,
+    "domesticPrice": 120537.0,
+    "domesticPriceDon": 452014.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-26",
+    "bid": 2613.25,
+    "ask": 2614.63,
+    "internationalPrice": 2614.63,
+    "domesticPrice": 117785.0,
+    "domesticPriceDon": 441693.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-27",
+    "bid": 2653.38,
+    "ask": 2654.63,
+    "internationalPrice": 2654.63,
+    "domesticPrice": 119092.0,
+    "domesticPriceDon": 446594.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-28",
+    "bid": 2643.86,
+    "ask": 2645.15,
+    "internationalPrice": 2645.15,
+    "domesticPrice": 118806.0,
+    "domesticPriceDon": 445522.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-29",
+    "bid": 2657.42,
+    "ask": 2658.76,
+    "internationalPrice": 2658.76,
+    "domesticPrice": 119358.0,
+    "domesticPriceDon": 447593.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-11-30",
+    "bid": 2653.55,
+    "ask": 2655.1,
+    "internationalPrice": 2655.1,
+    "domesticPrice": 119328.0,
+    "domesticPriceDon": 447479.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-02",
+    "bid": 2629.79,
+    "ask": 2631.3,
+    "internationalPrice": 2631.3,
+    "domesticPrice": 118965.0,
+    "domesticPriceDon": 446117.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-03",
+    "bid": 2644.71,
+    "ask": 2646.1,
+    "internationalPrice": 2646.1,
+    "domesticPrice": 119282.0,
+    "domesticPriceDon": 447306.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-04",
+    "bid": 2641.29,
+    "ask": 2642.64,
+    "internationalPrice": 2642.64,
+    "domesticPrice": 120478.0,
+    "domesticPriceDon": 451793.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-05",
+    "bid": 2643.17,
+    "ask": 2644.5,
+    "internationalPrice": 2644.5,
+    "domesticPrice": 120538.0,
+    "domesticPriceDon": 452019.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-06",
+    "bid": 2644.22,
+    "ask": 2645.56,
+    "internationalPrice": 2645.56,
+    "domesticPrice": 120892.0,
+    "domesticPriceDon": 453345.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-07",
+    "bid": 2632.9,
+    "ask": 2634.16,
+    "internationalPrice": 2634.16,
+    "domesticPrice": 120884.0,
+    "domesticPriceDon": 453316.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-09",
+    "bid": 2649.21,
+    "ask": 2650.56,
+    "internationalPrice": 2650.56,
+    "domesticPrice": 122331.0,
+    "domesticPriceDon": 458743.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-10",
+    "bid": 2663.04,
+    "ask": 2664.38,
+    "internationalPrice": 2664.38,
+    "domesticPrice": 122621.0,
+    "domesticPriceDon": 459830.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-11",
+    "bid": 2689.69,
+    "ask": 2693.1,
+    "internationalPrice": 2693.1,
+    "domesticPrice": 124406.0,
+    "domesticPriceDon": 466521.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-12",
+    "bid": 2718.01,
+    "ask": 2719.32,
+    "internationalPrice": 2719.32,
+    "domesticPrice": 125305.0,
+    "domesticPriceDon": 469893.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-13",
+    "bid": 2674.96,
+    "ask": 2676.25,
+    "internationalPrice": 2676.25,
+    "domesticPrice": 123576.0,
+    "domesticPriceDon": 463412.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-14",
+    "bid": 2648.65,
+    "ask": 2649.98,
+    "internationalPrice": 2649.98,
+    "domesticPrice": 122514.0,
+    "domesticPriceDon": 459428.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-16",
+    "bid": 2657.68,
+    "ask": 2659.5,
+    "internationalPrice": 2659.5,
+    "domesticPrice": 122837.0,
+    "domesticPriceDon": 460640.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-17",
+    "bid": 2643.96,
+    "ask": 2645.34,
+    "internationalPrice": 2645.34,
+    "domesticPrice": 122420.0,
+    "domesticPriceDon": 459074.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-18",
+    "bid": 2647.68,
+    "ask": 2649.3,
+    "internationalPrice": 2649.3,
+    "domesticPrice": 122595.0,
+    "domesticPriceDon": 459732.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-19",
+    "bid": 2618.48,
+    "ask": 2619.87,
+    "internationalPrice": 2619.87,
+    "domesticPrice": 122050.0,
+    "domesticPriceDon": 457686.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-20",
+    "bid": 2605.43,
+    "ask": 2606.78,
+    "internationalPrice": 2606.78,
+    "domesticPrice": 121604.0,
+    "domesticPriceDon": 456015.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-21",
+    "bid": 2620.79,
+    "ask": 2622.99,
+    "internationalPrice": 2622.99,
+    "domesticPrice": 122244.0,
+    "domesticPriceDon": 458414.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-23",
+    "bid": 2630.13,
+    "ask": 2631.46,
+    "internationalPrice": 2631.46,
+    "domesticPrice": 122991.0,
+    "domesticPriceDon": 461214.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-24",
+    "bid": 2616.53,
+    "ask": 2619.28,
+    "internationalPrice": 2619.28,
+    "domesticPrice": 123169.0,
+    "domesticPriceDon": 461884.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-25",
+    "bid": 2613.19,
+    "ask": 2615.62,
+    "internationalPrice": 2615.62,
+    "domesticPrice": 122730.0,
+    "domesticPriceDon": 460236.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-26",
+    "bid": 2627.38,
+    "ask": 2629.1,
+    "internationalPrice": 2629.1,
+    "domesticPrice": 124141.0,
+    "domesticPriceDon": 465527.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-27",
+    "bid": 2625.3,
+    "ask": 2627.3,
+    "internationalPrice": 2627.3,
+    "domesticPrice": 124829.0,
+    "domesticPriceDon": 468110.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-28",
+    "bid": 2620.0,
+    "ask": 2621.6,
+    "internationalPrice": 2621.6,
+    "domesticPrice": 124414.0,
+    "domesticPriceDon": 466554.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-30",
+    "bid": 2611.89,
+    "ask": 2613.19,
+    "internationalPrice": 2613.19,
+    "domesticPrice": 123877.0,
+    "domesticPriceDon": 464537.0
+  },
+  {
+    "type": "Au",
+    "date": "2024-12-31",
+    "bid": 2616.7,
+    "ask": 2618.01,
+    "internationalPrice": 2618.01,
+    "domesticPrice": 124449.0,
+    "domesticPriceDon": 466685.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-01",
+    "bid": 2623.82,
+    "ask": 2626.45,
+    "internationalPrice": 2626.45,
+    "domesticPrice": 125035.0,
+    "domesticPriceDon": 468883.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-02",
+    "bid": 2636.45,
+    "ask": 2637.79,
+    "internationalPrice": 2637.79,
+    "domesticPrice": 124334.0,
+    "domesticPriceDon": 466251.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-03",
+    "bid": 2652.68,
+    "ask": 2654.2,
+    "internationalPrice": 2654.2,
+    "domesticPrice": 125761.0,
+    "domesticPriceDon": 471603.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-04",
+    "bid": 2639.12,
+    "ask": 2640.87,
+    "internationalPrice": 2640.87,
+    "domesticPrice": 124847.0,
+    "domesticPriceDon": 468178.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-06",
+    "bid": 2631.4,
+    "ask": 2632.73,
+    "internationalPrice": 2632.73,
+    "domesticPrice": 124122.0,
+    "domesticPriceDon": 465459.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-07",
+    "bid": 2642.57,
+    "ask": 2643.88,
+    "internationalPrice": 2643.88,
+    "domesticPrice": 122947.0,
+    "domesticPriceDon": 461052.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-08",
+    "bid": 2651.98,
+    "ask": 2653.29,
+    "internationalPrice": 2653.29,
+    "domesticPrice": 124680.0,
+    "domesticPriceDon": 467549.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-09",
+    "bid": 2664.3,
+    "ask": 2665.65,
+    "internationalPrice": 2665.65,
+    "domesticPrice": 125413.0,
+    "domesticPriceDon": 470299.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-10",
+    "bid": 2680.02,
+    "ask": 2681.37,
+    "internationalPrice": 2681.37,
+    "domesticPrice": 126528.0,
+    "domesticPriceDon": 474478.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-11",
+    "bid": 2689.79,
+    "ask": 2691.0,
+    "internationalPrice": 2691.0,
+    "domesticPrice": 127880.0,
+    "domesticPriceDon": 479550.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-13",
+    "bid": 2686.82,
+    "ask": 2688.22,
+    "internationalPrice": 2688.22,
+    "domesticPrice": 127185.0,
+    "domesticPriceDon": 476945.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-14",
+    "bid": 2670.97,
+    "ask": 2672.28,
+    "internationalPrice": 2672.28,
+    "domesticPrice": 125540.0,
+    "domesticPriceDon": 470776.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-15",
+    "bid": 2683.68,
+    "ask": 2685.4,
+    "internationalPrice": 2685.4,
+    "domesticPrice": 126243.0,
+    "domesticPriceDon": 473411.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-16",
+    "bid": 2698.95,
+    "ask": 2700.26,
+    "internationalPrice": 2700.26,
+    "domesticPrice": 126662.0,
+    "domesticPriceDon": 474982.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-17",
+    "bid": 2711.09,
+    "ask": 2713.1,
+    "internationalPrice": 2713.1,
+    "domesticPrice": 127220.0,
+    "domesticPriceDon": 477074.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-18",
+    "bid": 2701.55,
+    "ask": 2703.3,
+    "internationalPrice": 2703.3,
+    "domesticPrice": 126980.0,
+    "domesticPriceDon": 476175.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-20",
+    "bid": 2706.44,
+    "ask": 2708.48,
+    "internationalPrice": 2708.48,
+    "domesticPrice": 126372.0,
+    "domesticPriceDon": 473894.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-21",
+    "bid": 2723.25,
+    "ask": 2724.55,
+    "internationalPrice": 2724.55,
+    "domesticPrice": 126331.0,
+    "domesticPriceDon": 473739.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-22",
+    "bid": 2752.88,
+    "ask": 2754.8,
+    "internationalPrice": 2754.8,
+    "domesticPrice": 127060.0,
+    "domesticPriceDon": 476475.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-23",
+    "bid": 2752.45,
+    "ask": 2753.74,
+    "internationalPrice": 2753.74,
+    "domesticPrice": 127583.0,
+    "domesticPriceDon": 478437.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-24",
+    "bid": 2773.96,
+    "ask": 2775.31,
+    "internationalPrice": 2775.31,
+    "domesticPrice": 127568.0,
+    "domesticPriceDon": 478380.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-25",
+    "bid": 2771.25,
+    "ask": 2772.52,
+    "internationalPrice": 2772.52,
+    "domesticPrice": 127654.0,
+    "domesticPriceDon": 478701.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-27",
+    "bid": 2756.79,
+    "ask": 2758.6,
+    "internationalPrice": 2758.6,
+    "domesticPrice": 127296.0,
+    "domesticPriceDon": 477359.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-28",
+    "bid": 2741.13,
+    "ask": 2742.44,
+    "internationalPrice": 2742.44,
+    "domesticPrice": 127760.0,
+    "domesticPriceDon": 479099.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-29",
+    "bid": 2763.8,
+    "ask": 2765.25,
+    "internationalPrice": 2765.25,
+    "domesticPrice": 128418.0,
+    "domesticPriceDon": 481566.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-30",
+    "bid": 2775.12,
+    "ask": 2776.97,
+    "internationalPrice": 2776.97,
+    "domesticPrice": 128883.0,
+    "domesticPriceDon": 483310.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-01-31",
+    "bid": 2792.88,
+    "ask": 2794.21,
+    "internationalPrice": 2794.21,
+    "domesticPrice": 130330.0,
+    "domesticPriceDon": 488739.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-01",
+    "bid": 2801.0,
+    "ask": 2802.36,
+    "internationalPrice": 2802.36,
+    "domesticPrice": 131531.0,
+    "domesticPriceDon": 493242.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-03",
+    "bid": 2796.48,
+    "ask": 2797.86,
+    "internationalPrice": 2797.86,
+    "domesticPrice": 132002.0,
+    "domesticPriceDon": 495007.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-04",
+    "bid": 2814.59,
+    "ask": 2816.6,
+    "internationalPrice": 2816.6,
+    "domesticPrice": 132111.0,
+    "domesticPriceDon": 495416.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-05",
+    "bid": 2867.34,
+    "ask": 2868.72,
+    "internationalPrice": 2868.72,
+    "domesticPrice": 133453.0,
+    "domesticPriceDon": 500450.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-06",
+    "bid": 2856.03,
+    "ask": 2857.42,
+    "internationalPrice": 2857.42,
+    "domesticPrice": 133346.0,
+    "domesticPriceDon": 500047.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-07",
+    "bid": 2865.79,
+    "ask": 2867.7,
+    "internationalPrice": 2867.7,
+    "domesticPrice": 133117.0,
+    "domesticPriceDon": 499190.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-08",
+    "bid": 2861.05,
+    "ask": 2862.5,
+    "internationalPrice": 2862.5,
+    "domesticPrice": 134222.0,
+    "domesticPriceDon": 503334.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-10",
+    "bid": 2896.37,
+    "ask": 2897.88,
+    "internationalPrice": 2897.88,
+    "domesticPrice": 135376.0,
+    "domesticPriceDon": 507662.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-11",
+    "bid": 2906.88,
+    "ask": 2908.4,
+    "internationalPrice": 2908.4,
+    "domesticPrice": 135937.0,
+    "domesticPriceDon": 509764.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-12",
+    "bid": 2891.38,
+    "ask": 2893.4,
+    "internationalPrice": 2893.4,
+    "domesticPrice": 135304.0,
+    "domesticPriceDon": 507390.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-13",
+    "bid": 2911.57,
+    "ask": 2912.99,
+    "internationalPrice": 2912.99,
+    "domesticPrice": 135987.0,
+    "domesticPriceDon": 509950.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-14",
+    "bid": 2935.29,
+    "ask": 2936.8,
+    "internationalPrice": 2936.8,
+    "domesticPrice": 136076.0,
+    "domesticPriceDon": 510284.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-15",
+    "bid": 2883.26,
+    "ask": 2885.01,
+    "internationalPrice": 2885.01,
+    "domesticPrice": 133978.0,
+    "domesticPriceDon": 502419.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-17",
+    "bid": 2899.86,
+    "ask": 2901.37,
+    "internationalPrice": 2901.37,
+    "domesticPrice": 134723.0,
+    "domesticPriceDon": 505212.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-18",
+    "bid": 2912.51,
+    "ask": 2913.96,
+    "internationalPrice": 2913.96,
+    "domesticPrice": 135087.0,
+    "domesticPriceDon": 506575.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-19",
+    "bid": 2938.56,
+    "ask": 2939.78,
+    "internationalPrice": 2939.78,
+    "domesticPrice": 136331.0,
+    "domesticPriceDon": 511241.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-20",
+    "bid": 2954.52,
+    "ask": 2955.82,
+    "internationalPrice": 2955.82,
+    "domesticPrice": 136946.0,
+    "domesticPriceDon": 513546.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-21",
+    "bid": 2923.25,
+    "ask": 2924.75,
+    "internationalPrice": 2924.75,
+    "domesticPrice": 135033.0,
+    "domesticPriceDon": 506374.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-22",
+    "bid": 2936.03,
+    "ask": 2937.78,
+    "internationalPrice": 2937.78,
+    "domesticPrice": 135633.0,
+    "domesticPriceDon": 508623.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-24",
+    "bid": 2946.15,
+    "ask": 2947.59,
+    "internationalPrice": 2947.59,
+    "domesticPrice": 135321.0,
+    "domesticPriceDon": 507454.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-25",
+    "bid": 2941.36,
+    "ask": 2942.76,
+    "internationalPrice": 2942.76,
+    "domesticPrice": 135721.0,
+    "domesticPriceDon": 508953.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-26",
+    "bid": 2918.13,
+    "ask": 2919.56,
+    "internationalPrice": 2919.56,
+    "domesticPrice": 134518.0,
+    "domesticPriceDon": 504444.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-27",
+    "bid": 2880.79,
+    "ask": 2882.5,
+    "internationalPrice": 2882.5,
+    "domesticPrice": 133943.0,
+    "domesticPriceDon": 502288.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-02-28",
+    "bid": 2855.87,
+    "ask": 2857.38,
+    "internationalPrice": 2857.38,
+    "domesticPrice": 134231.0,
+    "domesticPriceDon": 503367.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-01",
+    "bid": 2858.44,
+    "ask": 2859.79,
+    "internationalPrice": 2859.79,
+    "domesticPrice": 134543.0,
+    "domesticPriceDon": 504537.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-03",
+    "bid": 2868.37,
+    "ask": 2869.88,
+    "internationalPrice": 2869.88,
+    "domesticPrice": 134897.0,
+    "domesticPriceDon": 505864.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-04",
+    "bid": 2913.6,
+    "ask": 2914.9,
+    "internationalPrice": 2914.9,
+    "domesticPrice": 136945.0,
+    "domesticPriceDon": 513543.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-05",
+    "bid": 2919.92,
+    "ask": 2921.33,
+    "internationalPrice": 2921.33,
+    "domesticPrice": 136198.0,
+    "domesticPriceDon": 510741.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-06",
+    "bid": 2904.75,
+    "ask": 2906.25,
+    "internationalPrice": 2906.25,
+    "domesticPrice": 135162.0,
+    "domesticPriceDon": 506857.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-07",
+    "bid": 2922.12,
+    "ask": 2923.63,
+    "internationalPrice": 2923.63,
+    "domesticPrice": 135906.0,
+    "domesticPriceDon": 509649.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-08",
+    "bid": 2911.47,
+    "ask": 2912.93,
+    "internationalPrice": 2912.93,
+    "domesticPrice": 135984.0,
+    "domesticPriceDon": 509940.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-10",
+    "bid": 2897.68,
+    "ask": 2899.5,
+    "internationalPrice": 2899.5,
+    "domesticPrice": 135771.0,
+    "domesticPriceDon": 509141.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-11",
+    "bid": 2909.67,
+    "ask": 2911.19,
+    "internationalPrice": 2911.19,
+    "domesticPrice": 136075.0,
+    "domesticPriceDon": 510281.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-12",
+    "bid": 2922.01,
+    "ask": 2923.46,
+    "internationalPrice": 2923.46,
+    "domesticPrice": 136362.0,
+    "domesticPriceDon": 511357.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-13",
+    "bid": 2941.35,
+    "ask": 2942.65,
+    "internationalPrice": 2942.65,
+    "domesticPrice": 137798.0,
+    "domesticPriceDon": 516743.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-14",
+    "bid": 2992.96,
+    "ask": 2994.42,
+    "internationalPrice": 2994.42,
+    "domesticPrice": 140211.0,
+    "domesticPriceDon": 525790.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-15",
+    "bid": 2984.41,
+    "ask": 2986.05,
+    "internationalPrice": 2986.05,
+    "domesticPrice": 139443.0,
+    "domesticPriceDon": 522910.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-17",
+    "bid": 2988.0,
+    "ask": 2989.5,
+    "internationalPrice": 2989.5,
+    "domesticPrice": 139401.0,
+    "domesticPriceDon": 522753.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-18",
+    "bid": 3026.5,
+    "ask": 3028.01,
+    "internationalPrice": 3028.01,
+    "domesticPrice": 141180.0,
+    "domesticPriceDon": 529425.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-19",
+    "bid": 3024.62,
+    "ask": 3026.13,
+    "internationalPrice": 3026.13,
+    "domesticPrice": 141850.0,
+    "domesticPriceDon": 531939.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-20",
+    "bid": 3041.68,
+    "ask": 3043.5,
+    "internationalPrice": 3043.5,
+    "domesticPrice": 143481.0,
+    "domesticPriceDon": 538052.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-21",
+    "bid": 3032.67,
+    "ask": 3034.06,
+    "internationalPrice": 3034.06,
+    "domesticPrice": 142671.0,
+    "domesticPriceDon": 535015.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-22",
+    "bid": 3023.62,
+    "ask": 3025.29,
+    "internationalPrice": 3025.29,
+    "domesticPrice": 142521.0,
+    "domesticPriceDon": 534454.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-24",
+    "bid": 3028.15,
+    "ask": 3029.67,
+    "internationalPrice": 3029.67,
+    "domesticPrice": 142967.0,
+    "domesticPriceDon": 536126.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-25",
+    "bid": 3021.27,
+    "ask": 3022.78,
+    "internationalPrice": 3022.78,
+    "domesticPrice": 142870.0,
+    "domesticPriceDon": 535763.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-26",
+    "bid": 3024.12,
+    "ask": 3025.63,
+    "internationalPrice": 3025.63,
+    "domesticPrice": 142665.0,
+    "domesticPriceDon": 534995.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-27",
+    "bid": 3036.09,
+    "ask": 3037.39,
+    "internationalPrice": 3037.39,
+    "domesticPrice": 143175.0,
+    "domesticPriceDon": 536906.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-28",
+    "bid": 3072.92,
+    "ask": 3074.57,
+    "internationalPrice": 3074.57,
+    "domesticPrice": 145125.0,
+    "domesticPriceDon": 544220.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-29",
+    "bid": 3084.03,
+    "ask": 3087.53,
+    "internationalPrice": 3087.53,
+    "domesticPrice": 146112.0,
+    "domesticPriceDon": 547921.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-03-31",
+    "bid": 3122.12,
+    "ask": 3123.8,
+    "internationalPrice": 3123.8,
+    "domesticPrice": 148092.0,
+    "domesticPriceDon": 555344.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-01",
+    "bid": 3130.72,
+    "ask": 3132.18,
+    "internationalPrice": 3132.18,
+    "domesticPrice": 148294.0,
+    "domesticPriceDon": 556101.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-02",
+    "bid": 3132.72,
+    "ask": 3134.18,
+    "internationalPrice": 3134.18,
+    "domesticPrice": 147646.0,
+    "domesticPriceDon": 553671.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-03",
+    "bid": 3129.15,
+    "ask": 3130.61,
+    "internationalPrice": 3130.61,
+    "domesticPrice": 146932.0,
+    "domesticPriceDon": 550995.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-04",
+    "bid": 3084.12,
+    "ask": 3085.86,
+    "internationalPrice": 3085.86,
+    "domesticPrice": 143545.0,
+    "domesticPriceDon": 538293.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-05",
+    "bid": 3037.36,
+    "ask": 3039.69,
+    "internationalPrice": 3039.69,
+    "domesticPrice": 142831.0,
+    "domesticPriceDon": 535616.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-07",
+    "bid": 3031.43,
+    "ask": 3032.95,
+    "internationalPrice": 3032.95,
+    "domesticPrice": 142952.0,
+    "domesticPriceDon": 536070.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-08",
+    "bid": 3007.18,
+    "ask": 3008.9,
+    "internationalPrice": 3008.9,
+    "domesticPrice": 143217.0,
+    "domesticPriceDon": 537065.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-09",
+    "bid": 3043.09,
+    "ask": 3045.2,
+    "internationalPrice": 3045.2,
+    "domesticPrice": 144879.0,
+    "domesticPriceDon": 543294.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-10",
+    "bid": 3105.09,
+    "ask": 3106.6,
+    "internationalPrice": 3106.6,
+    "domesticPrice": 146497.0,
+    "domesticPriceDon": 549365.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-11",
+    "bid": 3217.6,
+    "ask": 3219.11,
+    "internationalPrice": 3219.11,
+    "domesticPrice": 148418.0,
+    "domesticPriceDon": 556566.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-12",
+    "bid": 3236.21,
+    "ask": 3239.49,
+    "internationalPrice": 3239.49,
+    "domesticPrice": 148267.0,
+    "domesticPriceDon": 556000.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-14",
+    "bid": 3226.59,
+    "ask": 3228.3,
+    "internationalPrice": 3228.3,
+    "domesticPrice": 147429.0,
+    "domesticPriceDon": 552857.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-15",
+    "bid": 3227.43,
+    "ask": 3229.04,
+    "internationalPrice": 3229.04,
+    "domesticPrice": 148688.0,
+    "domesticPriceDon": 557582.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-16",
+    "bid": 3306.16,
+    "ask": 3307.62,
+    "internationalPrice": 3307.62,
+    "domesticPrice": 151387.0,
+    "domesticPriceDon": 567701.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-17",
+    "bid": 3323.93,
+    "ask": 3325.45,
+    "internationalPrice": 3325.45,
+    "domesticPrice": 151725.0,
+    "domesticPriceDon": 568969.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-18",
+    "bid": 3327.54,
+    "ask": 3329.05,
+    "internationalPrice": 3329.05,
+    "domesticPrice": 152798.0,
+    "domesticPriceDon": 572993.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-19",
+    "bid": 3327.54,
+    "ask": 3329.05,
+    "internationalPrice": 3329.05,
+    "domesticPrice": 152499.0,
+    "domesticPriceDon": 571873.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-21",
+    "bid": 3392.29,
+    "ask": 3394.2,
+    "internationalPrice": 3394.2,
+    "domesticPrice": 154906.0,
+    "domesticPriceDon": 580896.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-22",
+    "bid": 3444.11,
+    "ask": 3445.62,
+    "internationalPrice": 3445.62,
+    "domesticPrice": 158098.0,
+    "domesticPriceDon": 592866.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-23",
+    "bid": 3320.98,
+    "ask": 3323.0,
+    "internationalPrice": 3323.0,
+    "domesticPrice": 152424.0,
+    "domesticPriceDon": 571591.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-24",
+    "bid": 3335.78,
+    "ask": 3337.38,
+    "internationalPrice": 3337.38,
+    "domesticPrice": 154228.0,
+    "domesticPriceDon": 578354.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-25",
+    "bid": 3303.51,
+    "ask": 3305.11,
+    "internationalPrice": 3305.11,
+    "domesticPrice": 152972.0,
+    "domesticPriceDon": 573646.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-26",
+    "bid": 3318.19,
+    "ask": 3321.7,
+    "internationalPrice": 3321.7,
+    "domesticPrice": 153823.0,
+    "domesticPriceDon": 576838.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-28",
+    "bid": 3282.05,
+    "ask": 3283.82,
+    "internationalPrice": 3283.82,
+    "domesticPrice": 152621.0,
+    "domesticPriceDon": 572330.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-29",
+    "bid": 3312.22,
+    "ask": 3313.74,
+    "internationalPrice": 3313.74,
+    "domesticPrice": 152927.0,
+    "domesticPriceDon": 573478.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-04-30",
+    "bid": 3284.41,
+    "ask": 3286.02,
+    "internationalPrice": 3286.02,
+    "domesticPrice": 150368.0,
+    "domesticPriceDon": 563879.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-01",
+    "bid": 3234.2,
+    "ask": 3235.72,
+    "internationalPrice": 3235.72,
+    "domesticPrice": 148608.0,
+    "domesticPriceDon": 557280.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-02",
+    "bid": 3257.83,
+    "ask": 3259.34,
+    "internationalPrice": 3259.34,
+    "domesticPrice": 147727.0,
+    "domesticPriceDon": 553976.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-03",
+    "bid": 3240.08,
+    "ask": 3242.68,
+    "internationalPrice": 3242.68,
+    "domesticPrice": 146258.0,
+    "domesticPriceDon": 548466.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-05",
+    "bid": 3282.09,
+    "ask": 3283.61,
+    "internationalPrice": 3283.61,
+    "domesticPrice": 146346.0,
+    "domesticPriceDon": 548798.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-06",
+    "bid": 3376.5,
+    "ask": 3378.1,
+    "internationalPrice": 3378.1,
+    "domesticPrice": 150599.0,
+    "domesticPriceDon": 564745.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-07",
+    "bid": 3382.66,
+    "ask": 3384.24,
+    "internationalPrice": 3384.24,
+    "domesticPrice": 151657.0,
+    "domesticPriceDon": 568713.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-08",
+    "bid": 3339.01,
+    "ask": 3340.63,
+    "internationalPrice": 3340.63,
+    "domesticPrice": 150625.0,
+    "domesticPriceDon": 564844.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-09",
+    "bid": 3328.4,
+    "ask": 3329.93,
+    "internationalPrice": 3329.93,
+    "domesticPrice": 149992.0,
+    "domesticPriceDon": 562469.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-10",
+    "bid": 3324.22,
+    "ask": 3326.03,
+    "internationalPrice": 3326.03,
+    "domesticPrice": 149511.0,
+    "domesticPriceDon": 560667.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-12",
+    "bid": 3231.53,
+    "ask": 3232.99,
+    "internationalPrice": 3232.99,
+    "domesticPrice": 147716.0,
+    "domesticPriceDon": 553933.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-13",
+    "bid": 3255.09,
+    "ask": 3257.2,
+    "internationalPrice": 3257.2,
+    "domesticPrice": 149420.0,
+    "domesticPriceDon": 560324.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-14",
+    "bid": 3232.43,
+    "ask": 3234.16,
+    "internationalPrice": 3234.16,
+    "domesticPrice": 145276.0,
+    "domesticPriceDon": 544783.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-15",
+    "bid": 3162.18,
+    "ask": 3164.1,
+    "internationalPrice": 3164.1,
+    "domesticPrice": 142350.0,
+    "domesticPriceDon": 533814.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-16",
+    "bid": 3207.3,
+    "ask": 3208.83,
+    "internationalPrice": 3208.83,
+    "domesticPrice": 144172.0,
+    "domesticPriceDon": 540644.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-17",
+    "bid": 3202.29,
+    "ask": 3204.27,
+    "internationalPrice": 3204.27,
+    "domesticPrice": 144344.0,
+    "domesticPriceDon": 541290.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-19",
+    "bid": 3244.36,
+    "ask": 3245.96,
+    "internationalPrice": 3245.96,
+    "domesticPrice": 145190.0,
+    "domesticPriceDon": 544462.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-20",
+    "bid": 3235.26,
+    "ask": 3236.86,
+    "internationalPrice": 3236.86,
+    "domesticPrice": 145084.0,
+    "domesticPriceDon": 544063.0
+  },
+  {
+    "type": "Au",
+    "date": "2025-05-21",
+    "bid": 3308.16,
+    "ask": 3309.77,
+    "internationalPrice": 3309.77,
+    "domesticPrice": 147922.0,
+    "domesticPriceDon": 554706.0
+  }
+]

@@ -1,0 +1,6671 @@
+[
+  {
+    "type": "Ag",
+    "date": "2023-01-02",
+    "bid": 23.96,
+    "ask": 24.09,
+    "internationalPrice": 24.09,
+    "domesticPrice": 979.0,
+    "domesticPriceDon": 3671.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-03",
+    "bid": 24.06,
+    "ask": 24.22,
+    "internationalPrice": 24.22,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3715.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-04",
+    "bid": 24.01,
+    "ask": 24.14,
+    "internationalPrice": 24.14,
+    "domesticPrice": 994.0,
+    "domesticPriceDon": 3729.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-05",
+    "bid": 23.77,
+    "ask": 23.92,
+    "internationalPrice": 23.92,
+    "domesticPrice": 979.0,
+    "domesticPriceDon": 3672.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-06",
+    "bid": 23.2,
+    "ask": 23.34,
+    "internationalPrice": 23.34,
+    "domesticPrice": 955.0,
+    "domesticPriceDon": 3583.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-07",
+    "bid": 23.81,
+    "ask": 23.98,
+    "internationalPrice": 23.98,
+    "domesticPrice": 980.0,
+    "domesticPriceDon": 3675.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-09",
+    "bid": 23.93,
+    "ask": 24.06,
+    "internationalPrice": 24.06,
+    "domesticPrice": 969.0,
+    "domesticPriceDon": 3635.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-10",
+    "bid": 23.62,
+    "ask": 23.76,
+    "internationalPrice": 23.76,
+    "domesticPrice": 950.0,
+    "domesticPriceDon": 3561.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-11",
+    "bid": 23.63,
+    "ask": 23.75,
+    "internationalPrice": 23.75,
+    "domesticPrice": 948.0,
+    "domesticPriceDon": 3555.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-12",
+    "bid": 23.45,
+    "ask": 23.55,
+    "internationalPrice": 23.55,
+    "domesticPrice": 940.0,
+    "domesticPriceDon": 3526.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-13",
+    "bid": 23.82,
+    "ask": 23.93,
+    "internationalPrice": 23.93,
+    "domesticPrice": 953.0,
+    "domesticPriceDon": 3572.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-14",
+    "bid": 24.26,
+    "ask": 24.37,
+    "internationalPrice": 24.37,
+    "domesticPrice": 974.0,
+    "domesticPriceDon": 3652.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-16",
+    "bid": 24.27,
+    "ask": 24.42,
+    "internationalPrice": 24.42,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3650.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-17",
+    "bid": 24.3,
+    "ask": 24.41,
+    "internationalPrice": 24.41,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3650.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-18",
+    "bid": 23.94,
+    "ask": 24.05,
+    "internationalPrice": 24.05,
+    "domesticPrice": 957.0,
+    "domesticPriceDon": 3590.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-19",
+    "bid": 23.46,
+    "ask": 23.62,
+    "internationalPrice": 23.62,
+    "domesticPrice": 940.0,
+    "domesticPriceDon": 3526.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-20",
+    "bid": 23.87,
+    "ask": 23.98,
+    "internationalPrice": 23.98,
+    "domesticPrice": 951.0,
+    "domesticPriceDon": 3566.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-21",
+    "bid": 23.95,
+    "ask": 24.07,
+    "internationalPrice": 24.07,
+    "domesticPrice": 957.0,
+    "domesticPriceDon": 3587.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-25",
+    "bid": 23.61,
+    "ask": 23.72,
+    "internationalPrice": 23.72,
+    "domesticPrice": 942.0,
+    "domesticPriceDon": 3533.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-26",
+    "bid": 23.93,
+    "ask": 24.04,
+    "internationalPrice": 24.04,
+    "domesticPrice": 953.0,
+    "domesticPriceDon": 3575.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-27",
+    "bid": 23.94,
+    "ask": 24.04,
+    "internationalPrice": 24.04,
+    "domesticPrice": 951.0,
+    "domesticPriceDon": 3565.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-28",
+    "bid": 23.56,
+    "ask": 23.72,
+    "internationalPrice": 23.72,
+    "domesticPrice": 943.0,
+    "domesticPriceDon": 3535.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-30",
+    "bid": 23.67,
+    "ask": 23.77,
+    "internationalPrice": 23.77,
+    "domesticPrice": 940.0,
+    "domesticPriceDon": 3525.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-01-31",
+    "bid": 23.56,
+    "ask": 23.7,
+    "internationalPrice": 23.7,
+    "domesticPrice": 939.0,
+    "domesticPriceDon": 3521.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-01",
+    "bid": 23.68,
+    "ask": 23.78,
+    "internationalPrice": 23.78,
+    "domesticPrice": 942.0,
+    "domesticPriceDon": 3534.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-02",
+    "bid": 24.05,
+    "ask": 24.2,
+    "internationalPrice": 24.2,
+    "domesticPrice": 951.0,
+    "domesticPriceDon": 3565.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-03",
+    "bid": 23.43,
+    "ask": 23.58,
+    "internationalPrice": 23.58,
+    "domesticPrice": 931.0,
+    "domesticPriceDon": 3493.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-04",
+    "bid": 22.36,
+    "ask": 22.47,
+    "internationalPrice": 22.47,
+    "domesticPrice": 904.0,
+    "domesticPriceDon": 3392.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-06",
+    "bid": 22.22,
+    "ask": 22.33,
+    "internationalPrice": 22.33,
+    "domesticPrice": 896.0,
+    "domesticPriceDon": 3361.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-07",
+    "bid": 22.29,
+    "ask": 22.39,
+    "internationalPrice": 22.39,
+    "domesticPrice": 907.0,
+    "domesticPriceDon": 3400.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-08",
+    "bid": 22.25,
+    "ask": 22.36,
+    "internationalPrice": 22.36,
+    "domesticPrice": 901.0,
+    "domesticPriceDon": 3379.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-09",
+    "bid": 22.29,
+    "ask": 22.41,
+    "internationalPrice": 22.41,
+    "domesticPrice": 909.0,
+    "domesticPriceDon": 3409.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-10",
+    "bid": 21.92,
+    "ask": 22.02,
+    "internationalPrice": 22.02,
+    "domesticPrice": 897.0,
+    "domesticPriceDon": 3364.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-11",
+    "bid": 21.98,
+    "ask": 22.12,
+    "internationalPrice": 22.12,
+    "domesticPrice": 902.0,
+    "domesticPriceDon": 3384.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-13",
+    "bid": 21.89,
+    "ask": 22.0,
+    "internationalPrice": 22.0,
+    "domesticPrice": 898.0,
+    "domesticPriceDon": 3366.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-14",
+    "bid": 22.02,
+    "ask": 22.12,
+    "internationalPrice": 22.12,
+    "domesticPrice": 905.0,
+    "domesticPriceDon": 3393.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-15",
+    "bid": 21.85,
+    "ask": 21.96,
+    "internationalPrice": 21.96,
+    "domesticPrice": 899.0,
+    "domesticPriceDon": 3372.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-16",
+    "bid": 21.67,
+    "ask": 21.77,
+    "internationalPrice": 21.77,
+    "domesticPrice": 899.0,
+    "domesticPriceDon": 3371.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-17",
+    "bid": 21.48,
+    "ask": 21.61,
+    "internationalPrice": 21.61,
+    "domesticPrice": 899.0,
+    "domesticPriceDon": 3371.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-18",
+    "bid": 21.72,
+    "ask": 21.86,
+    "internationalPrice": 21.86,
+    "domesticPrice": 911.0,
+    "domesticPriceDon": 3418.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-20",
+    "bid": 21.56,
+    "ask": 21.68,
+    "internationalPrice": 21.68,
+    "domesticPrice": 906.0,
+    "domesticPriceDon": 3397.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-21",
+    "bid": 21.76,
+    "ask": 21.91,
+    "internationalPrice": 21.91,
+    "domesticPrice": 914.0,
+    "domesticPriceDon": 3428.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-22",
+    "bid": 21.87,
+    "ask": 21.98,
+    "internationalPrice": 21.98,
+    "domesticPrice": 923.0,
+    "domesticPriceDon": 3461.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-23",
+    "bid": 21.5,
+    "ask": 21.64,
+    "internationalPrice": 21.64,
+    "domesticPrice": 908.0,
+    "domesticPriceDon": 3405.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-24",
+    "bid": 21.32,
+    "ask": 21.43,
+    "internationalPrice": 21.43,
+    "domesticPrice": 895.0,
+    "domesticPriceDon": 3354.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-25",
+    "bid": 20.77,
+    "ask": 20.88,
+    "internationalPrice": 20.88,
+    "domesticPrice": 883.0,
+    "domesticPriceDon": 3312.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-27",
+    "bid": 20.75,
+    "ask": 20.85,
+    "internationalPrice": 20.85,
+    "domesticPrice": 882.0,
+    "domesticPriceDon": 3308.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-02-28",
+    "bid": 20.63,
+    "ask": 20.74,
+    "internationalPrice": 20.74,
+    "domesticPrice": 878.0,
+    "domesticPriceDon": 3293.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-01",
+    "bid": 20.87,
+    "ask": 20.98,
+    "internationalPrice": 20.98,
+    "domesticPrice": 893.0,
+    "domesticPriceDon": 3348.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-02",
+    "bid": 20.95,
+    "ask": 21.11,
+    "internationalPrice": 21.11,
+    "domesticPrice": 889.0,
+    "domesticPriceDon": 3332.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-03",
+    "bid": 20.95,
+    "ask": 21.06,
+    "internationalPrice": 21.06,
+    "domesticPrice": 889.0,
+    "domesticPriceDon": 3332.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-04",
+    "bid": 21.25,
+    "ask": 21.36,
+    "internationalPrice": 21.36,
+    "domesticPrice": 891.0,
+    "domesticPriceDon": 3340.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-06",
+    "bid": 21.18,
+    "ask": 21.34,
+    "internationalPrice": 21.34,
+    "domesticPrice": 890.0,
+    "domesticPriceDon": 3336.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-07",
+    "bid": 21.01,
+    "ask": 21.17,
+    "internationalPrice": 21.17,
+    "domesticPrice": 886.0,
+    "domesticPriceDon": 3322.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-08",
+    "bid": 20.07,
+    "ask": 20.19,
+    "internationalPrice": 20.19,
+    "domesticPrice": 856.0,
+    "domesticPriceDon": 3209.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-09",
+    "bid": 20.04,
+    "ask": 20.15,
+    "internationalPrice": 20.15,
+    "domesticPrice": 853.0,
+    "domesticPriceDon": 3201.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-10",
+    "bid": 20.1,
+    "ask": 20.21,
+    "internationalPrice": 20.21,
+    "domesticPrice": 859.0,
+    "domesticPriceDon": 3221.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-11",
+    "bid": 20.52,
+    "ask": 20.63,
+    "internationalPrice": 20.63,
+    "domesticPrice": 877.0,
+    "domesticPriceDon": 3287.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-13",
+    "bid": 20.7,
+    "ask": 20.81,
+    "internationalPrice": 20.81,
+    "domesticPrice": 878.0,
+    "domesticPriceDon": 3291.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-14",
+    "bid": 21.75,
+    "ask": 21.86,
+    "internationalPrice": 21.86,
+    "domesticPrice": 913.0,
+    "domesticPriceDon": 3422.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-15",
+    "bid": 21.62,
+    "ask": 21.74,
+    "internationalPrice": 21.74,
+    "domesticPrice": 913.0,
+    "domesticPriceDon": 3423.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-16",
+    "bid": 21.86,
+    "ask": 21.96,
+    "internationalPrice": 21.96,
+    "domesticPrice": 928.0,
+    "domesticPriceDon": 3480.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-17",
+    "bid": 21.72,
+    "ask": 21.84,
+    "internationalPrice": 21.84,
+    "domesticPrice": 915.0,
+    "domesticPriceDon": 3431.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-18",
+    "bid": 22.59,
+    "ask": 22.74,
+    "internationalPrice": 22.74,
+    "domesticPrice": 958.0,
+    "domesticPriceDon": 3591.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-20",
+    "bid": 22.43,
+    "ask": 22.54,
+    "internationalPrice": 22.54,
+    "domesticPrice": 944.0,
+    "domesticPriceDon": 3542.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-21",
+    "bid": 22.51,
+    "ask": 22.64,
+    "internationalPrice": 22.64,
+    "domesticPrice": 950.0,
+    "domesticPriceDon": 3564.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-22",
+    "bid": 22.45,
+    "ask": 22.56,
+    "internationalPrice": 22.56,
+    "domesticPrice": 947.0,
+    "domesticPriceDon": 3551.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-23",
+    "bid": 23.04,
+    "ask": 23.15,
+    "internationalPrice": 23.15,
+    "domesticPrice": 965.0,
+    "domesticPriceDon": 3620.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-24",
+    "bid": 23.04,
+    "ask": 23.15,
+    "internationalPrice": 23.15,
+    "domesticPrice": 958.0,
+    "domesticPriceDon": 3592.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-25",
+    "bid": 23.22,
+    "ask": 23.34,
+    "internationalPrice": 23.34,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3649.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-27",
+    "bid": 23.18,
+    "ask": 23.29,
+    "internationalPrice": 23.29,
+    "domesticPrice": 970.0,
+    "domesticPriceDon": 3639.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-28",
+    "bid": 23.12,
+    "ask": 23.23,
+    "internationalPrice": 23.23,
+    "domesticPrice": 967.0,
+    "domesticPriceDon": 3627.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-29",
+    "bid": 23.35,
+    "ask": 23.46,
+    "internationalPrice": 23.46,
+    "domesticPrice": 977.0,
+    "domesticPriceDon": 3665.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-30",
+    "bid": 23.29,
+    "ask": 23.44,
+    "internationalPrice": 23.44,
+    "domesticPrice": 985.0,
+    "domesticPriceDon": 3694.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-03-31",
+    "bid": 23.86,
+    "ask": 24.01,
+    "internationalPrice": 24.01,
+    "domesticPrice": 1001.0,
+    "domesticPriceDon": 3754.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-01",
+    "bid": 24.07,
+    "ask": 24.23,
+    "internationalPrice": 24.23,
+    "domesticPrice": 1019.0,
+    "domesticPriceDon": 3820.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-03",
+    "bid": 23.86,
+    "ask": 24.0,
+    "internationalPrice": 24.0,
+    "domesticPrice": 1011.0,
+    "domesticPriceDon": 3791.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-04",
+    "bid": 23.94,
+    "ask": 24.09,
+    "internationalPrice": 24.09,
+    "domesticPrice": 1013.0,
+    "domesticPriceDon": 3799.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-05",
+    "bid": 24.95,
+    "ask": 25.11,
+    "internationalPrice": 25.11,
+    "domesticPrice": 1058.0,
+    "domesticPriceDon": 3969.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-06",
+    "bid": 24.87,
+    "ask": 24.97,
+    "internationalPrice": 24.97,
+    "domesticPrice": 1059.0,
+    "domesticPriceDon": 3970.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-07",
+    "bid": 25.01,
+    "ask": 25.16,
+    "internationalPrice": 25.16,
+    "domesticPrice": 1067.0,
+    "domesticPriceDon": 4001.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-08",
+    "bid": 25.01,
+    "ask": 25.16,
+    "internationalPrice": 25.16,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3996.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-10",
+    "bid": 24.92,
+    "ask": 25.03,
+    "internationalPrice": 25.03,
+    "domesticPrice": 1059.0,
+    "domesticPriceDon": 3973.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-11",
+    "bid": 24.87,
+    "ask": 25.02,
+    "internationalPrice": 25.02,
+    "domesticPrice": 1063.0,
+    "domesticPriceDon": 3986.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-12",
+    "bid": 25.04,
+    "ask": 25.16,
+    "internationalPrice": 25.16,
+    "domesticPrice": 1070.0,
+    "domesticPriceDon": 4012.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-13",
+    "bid": 25.54,
+    "ask": 25.64,
+    "internationalPrice": 25.64,
+    "domesticPrice": 1094.0,
+    "domesticPriceDon": 4101.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-14",
+    "bid": 25.79,
+    "ask": 25.9,
+    "internationalPrice": 25.9,
+    "domesticPrice": 1085.0,
+    "domesticPriceDon": 4069.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-15",
+    "bid": 25.34,
+    "ask": 25.49,
+    "internationalPrice": 25.49,
+    "domesticPrice": 1070.0,
+    "domesticPriceDon": 4012.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-17",
+    "bid": 25.31,
+    "ask": 25.43,
+    "internationalPrice": 25.43,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3999.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-18",
+    "bid": 25.01,
+    "ask": 25.11,
+    "internationalPrice": 25.11,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3998.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-19",
+    "bid": 25.25,
+    "ask": 25.35,
+    "internationalPrice": 25.35,
+    "domesticPrice": 1074.0,
+    "domesticPriceDon": 4027.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-20",
+    "bid": 25.27,
+    "ask": 25.38,
+    "internationalPrice": 25.38,
+    "domesticPrice": 1083.0,
+    "domesticPriceDon": 4063.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-21",
+    "bid": 25.2,
+    "ask": 25.34,
+    "internationalPrice": 25.34,
+    "domesticPrice": 1081.0,
+    "domesticPriceDon": 4053.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-22",
+    "bid": 25.04,
+    "ask": 25.28,
+    "internationalPrice": 25.28,
+    "domesticPrice": 1082.0,
+    "domesticPriceDon": 4058.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-24",
+    "bid": 25.1,
+    "ask": 25.2,
+    "internationalPrice": 25.2,
+    "domesticPrice": 1078.0,
+    "domesticPriceDon": 4041.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-25",
+    "bid": 25.19,
+    "ask": 25.3,
+    "internationalPrice": 25.3,
+    "domesticPrice": 1083.0,
+    "domesticPriceDon": 4061.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-26",
+    "bid": 25.1,
+    "ask": 25.2,
+    "internationalPrice": 25.2,
+    "domesticPrice": 1085.0,
+    "domesticPriceDon": 4070.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-27",
+    "bid": 24.9,
+    "ask": 25.02,
+    "internationalPrice": 25.02,
+    "domesticPrice": 1076.0,
+    "domesticPriceDon": 4036.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-28",
+    "bid": 24.87,
+    "ask": 24.99,
+    "internationalPrice": 24.99,
+    "domesticPrice": 1075.0,
+    "domesticPriceDon": 4032.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-04-29",
+    "bid": 25.04,
+    "ask": 25.19,
+    "internationalPrice": 25.19,
+    "domesticPrice": 1085.0,
+    "domesticPriceDon": 4067.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-01",
+    "bid": 24.97,
+    "ask": 25.09,
+    "internationalPrice": 25.09,
+    "domesticPrice": 1080.0,
+    "domesticPriceDon": 4049.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-02",
+    "bid": 25.01,
+    "ask": 25.11,
+    "internationalPrice": 25.11,
+    "domesticPrice": 1083.0,
+    "domesticPriceDon": 4061.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-03",
+    "bid": 25.35,
+    "ask": 25.45,
+    "internationalPrice": 25.45,
+    "domesticPrice": 1098.0,
+    "domesticPriceDon": 4116.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-04",
+    "bid": 25.76,
+    "ask": 25.87,
+    "internationalPrice": 25.87,
+    "domesticPrice": 1107.0,
+    "domesticPriceDon": 4150.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-05",
+    "bid": 26.03,
+    "ask": 26.13,
+    "internationalPrice": 26.13,
+    "domesticPrice": 1110.0,
+    "domesticPriceDon": 4162.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-06",
+    "bid": 25.64,
+    "ask": 25.8,
+    "internationalPrice": 25.8,
+    "domesticPrice": 1094.0,
+    "domesticPriceDon": 4103.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-08",
+    "bid": 25.64,
+    "ask": 25.76,
+    "internationalPrice": 25.76,
+    "domesticPrice": 1094.0,
+    "domesticPriceDon": 4102.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-09",
+    "bid": 25.54,
+    "ask": 25.67,
+    "internationalPrice": 25.67,
+    "domesticPrice": 1091.0,
+    "domesticPriceDon": 4092.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-10",
+    "bid": 25.69,
+    "ask": 25.79,
+    "internationalPrice": 25.79,
+    "domesticPrice": 1099.0,
+    "domesticPriceDon": 4120.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-11",
+    "bid": 25.4,
+    "ask": 25.51,
+    "internationalPrice": 25.51,
+    "domesticPrice": 1080.0,
+    "domesticPriceDon": 4049.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-12",
+    "bid": 24.14,
+    "ask": 24.3,
+    "internationalPrice": 24.3,
+    "domesticPrice": 1040.0,
+    "domesticPriceDon": 3899.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-13",
+    "bid": 23.9,
+    "ask": 24.06,
+    "internationalPrice": 24.06,
+    "domesticPrice": 1039.0,
+    "domesticPriceDon": 3897.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-15",
+    "bid": 23.98,
+    "ask": 24.1,
+    "internationalPrice": 24.1,
+    "domesticPrice": 1040.0,
+    "domesticPriceDon": 3901.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-16",
+    "bid": 24.07,
+    "ask": 24.18,
+    "internationalPrice": 24.18,
+    "domesticPrice": 1037.0,
+    "domesticPriceDon": 3889.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-17",
+    "bid": 23.77,
+    "ask": 23.87,
+    "internationalPrice": 23.87,
+    "domesticPrice": 1030.0,
+    "domesticPriceDon": 3862.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-18",
+    "bid": 23.75,
+    "ask": 23.86,
+    "internationalPrice": 23.86,
+    "domesticPrice": 1025.0,
+    "domesticPriceDon": 3843.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-19",
+    "bid": 23.52,
+    "ask": 23.62,
+    "internationalPrice": 23.62,
+    "domesticPrice": 1013.0,
+    "domesticPriceDon": 3800.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-20",
+    "bid": 23.82,
+    "ask": 23.99,
+    "internationalPrice": 23.99,
+    "domesticPrice": 1023.0,
+    "domesticPriceDon": 3836.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-22",
+    "bid": 23.84,
+    "ask": 23.94,
+    "internationalPrice": 23.94,
+    "domesticPrice": 1020.0,
+    "domesticPriceDon": 3825.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-23",
+    "bid": 23.62,
+    "ask": 23.72,
+    "internationalPrice": 23.72,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3749.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-24",
+    "bid": 23.47,
+    "ask": 23.58,
+    "internationalPrice": 23.58,
+    "domesticPrice": 1001.0,
+    "domesticPriceDon": 3753.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-25",
+    "bid": 23.07,
+    "ask": 23.19,
+    "internationalPrice": 23.19,
+    "domesticPrice": 984.0,
+    "domesticPriceDon": 3691.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-26",
+    "bid": 22.7,
+    "ask": 22.82,
+    "internationalPrice": 22.82,
+    "domesticPrice": 975.0,
+    "domesticPriceDon": 3657.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-27",
+    "bid": 23.3,
+    "ask": 23.44,
+    "internationalPrice": 23.44,
+    "domesticPrice": 999.0,
+    "domesticPriceDon": 3745.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-30",
+    "bid": 23.17,
+    "ask": 23.27,
+    "internationalPrice": 23.27,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3712.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-05-31",
+    "bid": 23.19,
+    "ask": 23.3,
+    "internationalPrice": 23.3,
+    "domesticPrice": 989.0,
+    "domesticPriceDon": 3708.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-01",
+    "bid": 23.53,
+    "ask": 23.63,
+    "internationalPrice": 23.63,
+    "domesticPrice": 1003.0,
+    "domesticPriceDon": 3762.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-02",
+    "bid": 23.87,
+    "ask": 23.98,
+    "internationalPrice": 23.98,
+    "domesticPrice": 1012.0,
+    "domesticPriceDon": 3795.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-03",
+    "bid": 23.59,
+    "ask": 23.74,
+    "internationalPrice": 23.74,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3741.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-05",
+    "bid": 23.57,
+    "ask": 23.69,
+    "internationalPrice": 23.69,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3743.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-06",
+    "bid": 23.55,
+    "ask": 23.67,
+    "internationalPrice": 23.67,
+    "domesticPrice": 992.0,
+    "domesticPriceDon": 3718.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-07",
+    "bid": 23.61,
+    "ask": 23.72,
+    "internationalPrice": 23.72,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3716.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-08",
+    "bid": 23.44,
+    "ask": 23.59,
+    "internationalPrice": 23.59,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3717.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-09",
+    "bid": 24.23,
+    "ask": 24.39,
+    "internationalPrice": 24.39,
+    "domesticPrice": 1017.0,
+    "domesticPriceDon": 3814.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-10",
+    "bid": 24.27,
+    "ask": 24.42,
+    "internationalPrice": 24.42,
+    "domesticPrice": 1012.0,
+    "domesticPriceDon": 3795.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-12",
+    "bid": 24.25,
+    "ask": 24.35,
+    "internationalPrice": 24.35,
+    "domesticPrice": 1011.0,
+    "domesticPriceDon": 3791.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-13",
+    "bid": 24.1,
+    "ask": 24.2,
+    "internationalPrice": 24.2,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3743.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-14",
+    "bid": 23.69,
+    "ask": 23.79,
+    "internationalPrice": 23.79,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3649.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-15",
+    "bid": 23.9,
+    "ask": 24.06,
+    "internationalPrice": 24.06,
+    "domesticPrice": 987.0,
+    "domesticPriceDon": 3702.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-16",
+    "bid": 23.88,
+    "ask": 24.0,
+    "internationalPrice": 24.0,
+    "domesticPrice": 981.0,
+    "domesticPriceDon": 3679.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-17",
+    "bid": 24.14,
+    "ask": 24.3,
+    "internationalPrice": 24.3,
+    "domesticPrice": 999.0,
+    "domesticPriceDon": 3748.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-19",
+    "bid": 24.12,
+    "ask": 24.24,
+    "internationalPrice": 24.24,
+    "domesticPrice": 997.0,
+    "domesticPriceDon": 3738.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-20",
+    "bid": 24.02,
+    "ask": 24.12,
+    "internationalPrice": 24.12,
+    "domesticPrice": 996.0,
+    "domesticPriceDon": 3733.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-21",
+    "bid": 23.15,
+    "ask": 23.29,
+    "internationalPrice": 23.29,
+    "domesticPrice": 965.0,
+    "domesticPriceDon": 3619.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-22",
+    "bid": 22.69,
+    "ask": 22.8,
+    "internationalPrice": 22.8,
+    "domesticPrice": 946.0,
+    "domesticPriceDon": 3547.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-23",
+    "bid": 22.22,
+    "ask": 22.34,
+    "internationalPrice": 22.34,
+    "domesticPrice": 935.0,
+    "domesticPriceDon": 3505.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-24",
+    "bid": 22.42,
+    "ask": 22.57,
+    "internationalPrice": 22.57,
+    "domesticPrice": 950.0,
+    "domesticPriceDon": 3564.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-26",
+    "bid": 22.54,
+    "ask": 22.66,
+    "internationalPrice": 22.66,
+    "domesticPrice": 955.0,
+    "domesticPriceDon": 3581.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-27",
+    "bid": 22.77,
+    "ask": 22.87,
+    "internationalPrice": 22.87,
+    "domesticPrice": 962.0,
+    "domesticPriceDon": 3607.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-28",
+    "bid": 22.89,
+    "ask": 23.0,
+    "internationalPrice": 23.0,
+    "domesticPrice": 962.0,
+    "domesticPriceDon": 3609.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-29",
+    "bid": 22.69,
+    "ask": 22.84,
+    "internationalPrice": 22.84,
+    "domesticPrice": 963.0,
+    "domesticPriceDon": 3612.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-06-30",
+    "bid": 22.55,
+    "ask": 22.71,
+    "internationalPrice": 22.71,
+    "domesticPrice": 966.0,
+    "domesticPriceDon": 3624.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-01",
+    "bid": 22.76,
+    "ask": 22.91,
+    "internationalPrice": 22.91,
+    "domesticPrice": 971.0,
+    "domesticPriceDon": 3642.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-03",
+    "bid": 22.77,
+    "ask": 22.87,
+    "internationalPrice": 22.87,
+    "domesticPrice": 969.0,
+    "domesticPriceDon": 3635.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-04",
+    "bid": 22.92,
+    "ask": 23.02,
+    "internationalPrice": 23.02,
+    "domesticPrice": 967.0,
+    "domesticPriceDon": 3627.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-05",
+    "bid": 22.97,
+    "ask": 23.09,
+    "internationalPrice": 23.09,
+    "domesticPrice": 964.0,
+    "domesticPriceDon": 3615.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-06",
+    "bid": 23.13,
+    "ask": 23.25,
+    "internationalPrice": 23.25,
+    "domesticPrice": 977.0,
+    "domesticPriceDon": 3665.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-07",
+    "bid": 22.7,
+    "ask": 22.86,
+    "internationalPrice": 22.86,
+    "domesticPrice": 963.0,
+    "domesticPriceDon": 3611.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-08",
+    "bid": 23.05,
+    "ask": 23.21,
+    "internationalPrice": 23.21,
+    "domesticPrice": 970.0,
+    "domesticPriceDon": 3636.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-10",
+    "bid": 23.05,
+    "ask": 23.16,
+    "internationalPrice": 23.16,
+    "domesticPrice": 969.0,
+    "domesticPriceDon": 3633.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-11",
+    "bid": 23.13,
+    "ask": 23.25,
+    "internationalPrice": 23.25,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3647.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-12",
+    "bid": 23.13,
+    "ask": 23.25,
+    "internationalPrice": 23.25,
+    "domesticPrice": 967.0,
+    "domesticPriceDon": 3625.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-13",
+    "bid": 24.14,
+    "ask": 24.25,
+    "internationalPrice": 24.25,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3742.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-14",
+    "bid": 24.8,
+    "ask": 24.96,
+    "internationalPrice": 24.96,
+    "domesticPrice": 1021.0,
+    "domesticPriceDon": 3828.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-15",
+    "bid": 24.94,
+    "ask": 25.08,
+    "internationalPrice": 25.08,
+    "domesticPrice": 1025.0,
+    "domesticPriceDon": 3843.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-17",
+    "bid": 24.88,
+    "ask": 24.99,
+    "internationalPrice": 24.99,
+    "domesticPrice": 1021.0,
+    "domesticPriceDon": 3829.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-18",
+    "bid": 24.8,
+    "ask": 24.92,
+    "internationalPrice": 24.92,
+    "domesticPrice": 1015.0,
+    "domesticPriceDon": 3805.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-19",
+    "bid": 25.03,
+    "ask": 25.18,
+    "internationalPrice": 25.18,
+    "domesticPrice": 1024.0,
+    "domesticPriceDon": 3842.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-20",
+    "bid": 25.12,
+    "ask": 25.24,
+    "internationalPrice": 25.24,
+    "domesticPrice": 1027.0,
+    "domesticPriceDon": 3853.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-21",
+    "bid": 24.78,
+    "ask": 24.93,
+    "internationalPrice": 24.93,
+    "domesticPrice": 1024.0,
+    "domesticPriceDon": 3840.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-22",
+    "bid": 24.57,
+    "ask": 24.73,
+    "internationalPrice": 24.73,
+    "domesticPrice": 1023.0,
+    "domesticPriceDon": 3838.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-24",
+    "bid": 24.62,
+    "ask": 24.75,
+    "internationalPrice": 24.75,
+    "domesticPrice": 1025.0,
+    "domesticPriceDon": 3845.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-25",
+    "bid": 24.3,
+    "ask": 24.41,
+    "internationalPrice": 24.41,
+    "domesticPrice": 1009.0,
+    "domesticPriceDon": 3782.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-26",
+    "bid": 24.64,
+    "ask": 24.8,
+    "internationalPrice": 24.8,
+    "domesticPrice": 1019.0,
+    "domesticPriceDon": 3821.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-27",
+    "bid": 24.88,
+    "ask": 25.04,
+    "internationalPrice": 25.04,
+    "domesticPrice": 1022.0,
+    "domesticPriceDon": 3832.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-28",
+    "bid": 24.15,
+    "ask": 24.27,
+    "internationalPrice": 24.27,
+    "domesticPrice": 1002.0,
+    "domesticPriceDon": 3757.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-29",
+    "bid": 24.32,
+    "ask": 24.48,
+    "internationalPrice": 24.48,
+    "domesticPrice": 1003.0,
+    "domesticPriceDon": 3761.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-07-31",
+    "bid": 24.35,
+    "ask": 24.45,
+    "internationalPrice": 24.45,
+    "domesticPrice": 1003.0,
+    "domesticPriceDon": 3761.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-01",
+    "bid": 24.75,
+    "ask": 24.87,
+    "internationalPrice": 24.87,
+    "domesticPrice": 1021.0,
+    "domesticPriceDon": 3828.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-02",
+    "bid": 24.34,
+    "ask": 24.49,
+    "internationalPrice": 24.49,
+    "domesticPrice": 1017.0,
+    "domesticPriceDon": 3813.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-03",
+    "bid": 23.7,
+    "ask": 23.85,
+    "internationalPrice": 23.85,
+    "domesticPrice": 996.0,
+    "domesticPriceDon": 3734.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-04",
+    "bid": 23.55,
+    "ask": 23.71,
+    "internationalPrice": 23.71,
+    "domesticPrice": 992.0,
+    "domesticPriceDon": 3719.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-05",
+    "bid": 23.6,
+    "ask": 23.75,
+    "internationalPrice": 23.75,
+    "domesticPrice": 997.0,
+    "domesticPriceDon": 3738.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-07",
+    "bid": 23.61,
+    "ask": 23.73,
+    "internationalPrice": 23.73,
+    "domesticPrice": 996.0,
+    "domesticPriceDon": 3735.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-08",
+    "bid": 23.1,
+    "ask": 23.25,
+    "internationalPrice": 23.25,
+    "domesticPrice": 977.0,
+    "domesticPriceDon": 3665.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-09",
+    "bid": 22.77,
+    "ask": 22.88,
+    "internationalPrice": 22.88,
+    "domesticPrice": 970.0,
+    "domesticPriceDon": 3637.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-10",
+    "bid": 22.68,
+    "ask": 22.79,
+    "internationalPrice": 22.79,
+    "domesticPrice": 966.0,
+    "domesticPriceDon": 3622.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-11",
+    "bid": 22.7,
+    "ask": 22.8,
+    "internationalPrice": 22.8,
+    "domesticPrice": 968.0,
+    "domesticPriceDon": 3631.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-12",
+    "bid": 22.67,
+    "ask": 22.82,
+    "internationalPrice": 22.82,
+    "domesticPrice": 977.0,
+    "domesticPriceDon": 3663.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-14",
+    "bid": 22.67,
+    "ask": 22.77,
+    "internationalPrice": 22.77,
+    "domesticPrice": 975.0,
+    "domesticPriceDon": 3657.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-15",
+    "bid": 22.57,
+    "ask": 22.73,
+    "internationalPrice": 22.73,
+    "domesticPrice": 978.0,
+    "domesticPriceDon": 3668.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-16",
+    "bid": 22.52,
+    "ask": 22.67,
+    "internationalPrice": 22.67,
+    "domesticPrice": 976.0,
+    "domesticPriceDon": 3662.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-17",
+    "bid": 22.42,
+    "ask": 22.52,
+    "internationalPrice": 22.52,
+    "domesticPrice": 972.0,
+    "domesticPriceDon": 3646.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-18",
+    "bid": 22.7,
+    "ask": 22.82,
+    "internationalPrice": 22.82,
+    "domesticPrice": 983.0,
+    "domesticPriceDon": 3685.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-19",
+    "bid": 22.7,
+    "ask": 22.86,
+    "internationalPrice": 22.86,
+    "domesticPrice": 986.0,
+    "domesticPriceDon": 3698.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-21",
+    "bid": 22.82,
+    "ask": 22.94,
+    "internationalPrice": 22.94,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3711.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-22",
+    "bid": 23.29,
+    "ask": 23.44,
+    "internationalPrice": 23.44,
+    "domesticPrice": 1011.0,
+    "domesticPriceDon": 3792.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-23",
+    "bid": 23.43,
+    "ask": 23.58,
+    "internationalPrice": 23.58,
+    "domesticPrice": 1016.0,
+    "domesticPriceDon": 3810.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-24",
+    "bid": 24.3,
+    "ask": 24.42,
+    "internationalPrice": 24.42,
+    "domesticPrice": 1044.0,
+    "domesticPriceDon": 3916.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-25",
+    "bid": 24.14,
+    "ask": 24.25,
+    "internationalPrice": 24.25,
+    "domesticPrice": 1035.0,
+    "domesticPriceDon": 3880.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-26",
+    "bid": 24.21,
+    "ask": 24.37,
+    "internationalPrice": 24.37,
+    "domesticPrice": 1040.0,
+    "domesticPriceDon": 3898.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-28",
+    "bid": 24.25,
+    "ask": 24.36,
+    "internationalPrice": 24.36,
+    "domesticPrice": 1036.0,
+    "domesticPriceDon": 3886.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-29",
+    "bid": 24.22,
+    "ask": 24.33,
+    "internationalPrice": 24.33,
+    "domesticPrice": 1036.0,
+    "domesticPriceDon": 3883.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-30",
+    "bid": 24.7,
+    "ask": 24.85,
+    "internationalPrice": 24.85,
+    "domesticPrice": 1055.0,
+    "domesticPriceDon": 3955.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-08-31",
+    "bid": 24.62,
+    "ask": 24.74,
+    "internationalPrice": 24.74,
+    "domesticPrice": 1052.0,
+    "domesticPriceDon": 3943.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-01",
+    "bid": 24.44,
+    "ask": 24.54,
+    "internationalPrice": 24.54,
+    "domesticPrice": 1044.0,
+    "domesticPriceDon": 3916.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-02",
+    "bid": 24.17,
+    "ask": 24.32,
+    "internationalPrice": 24.32,
+    "domesticPrice": 1033.0,
+    "domesticPriceDon": 3873.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-04",
+    "bid": 24.12,
+    "ask": 24.27,
+    "internationalPrice": 24.27,
+    "domesticPrice": 1031.0,
+    "domesticPriceDon": 3868.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-05",
+    "bid": 23.95,
+    "ask": 24.05,
+    "internationalPrice": 24.05,
+    "domesticPrice": 1021.0,
+    "domesticPriceDon": 3830.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-06",
+    "bid": 23.54,
+    "ask": 23.67,
+    "internationalPrice": 23.67,
+    "domesticPrice": 1014.0,
+    "domesticPriceDon": 3802.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-07",
+    "bid": 23.12,
+    "ask": 23.23,
+    "internationalPrice": 23.23,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3744.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-08",
+    "bid": 22.96,
+    "ask": 23.07,
+    "internationalPrice": 23.07,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3713.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-09",
+    "bid": 22.9,
+    "ask": 23.04,
+    "internationalPrice": 23.04,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3716.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-11",
+    "bid": 22.94,
+    "ask": 23.06,
+    "internationalPrice": 23.06,
+    "domesticPrice": 989.0,
+    "domesticPriceDon": 3710.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-12",
+    "bid": 23.06,
+    "ask": 23.17,
+    "internationalPrice": 23.17,
+    "domesticPrice": 989.0,
+    "domesticPriceDon": 3710.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-13",
+    "bid": 23.07,
+    "ask": 23.19,
+    "internationalPrice": 23.19,
+    "domesticPrice": 989.0,
+    "domesticPriceDon": 3709.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-14",
+    "bid": 22.84,
+    "ask": 22.94,
+    "internationalPrice": 22.94,
+    "domesticPrice": 980.0,
+    "domesticPriceDon": 3674.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-15",
+    "bid": 22.62,
+    "ask": 22.78,
+    "internationalPrice": 22.78,
+    "domesticPrice": 974.0,
+    "domesticPriceDon": 3651.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-16",
+    "bid": 23.01,
+    "ask": 23.16,
+    "internationalPrice": 23.16,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3717.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-18",
+    "bid": 23.07,
+    "ask": 23.18,
+    "internationalPrice": 23.18,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3716.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-19",
+    "bid": 23.27,
+    "ask": 23.42,
+    "internationalPrice": 23.42,
+    "domesticPrice": 995.0,
+    "domesticPriceDon": 3732.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-20",
+    "bid": 23.2,
+    "ask": 23.3,
+    "internationalPrice": 23.3,
+    "domesticPrice": 995.0,
+    "domesticPriceDon": 3733.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-21",
+    "bid": 23.14,
+    "ask": 23.26,
+    "internationalPrice": 23.26,
+    "domesticPrice": 999.0,
+    "domesticPriceDon": 3746.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-22",
+    "bid": 23.44,
+    "ask": 23.55,
+    "internationalPrice": 23.55,
+    "domesticPrice": 1016.0,
+    "domesticPriceDon": 3809.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-23",
+    "bid": 23.53,
+    "ask": 23.68,
+    "internationalPrice": 23.68,
+    "domesticPrice": 1018.0,
+    "domesticPriceDon": 3818.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-25",
+    "bid": 23.54,
+    "ask": 23.66,
+    "internationalPrice": 23.66,
+    "domesticPrice": 1017.0,
+    "domesticPriceDon": 3814.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-26",
+    "bid": 23.12,
+    "ask": 23.23,
+    "internationalPrice": 23.23,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3751.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-27",
+    "bid": 22.84,
+    "ask": 22.99,
+    "internationalPrice": 22.99,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3751.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-28",
+    "bid": 22.54,
+    "ask": 22.66,
+    "internationalPrice": 22.66,
+    "domesticPrice": 989.0,
+    "domesticPriceDon": 3708.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-29",
+    "bid": 22.64,
+    "ask": 22.75,
+    "internationalPrice": 22.75,
+    "domesticPrice": 987.0,
+    "domesticPriceDon": 3703.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-09-30",
+    "bid": 22.15,
+    "ask": 22.31,
+    "internationalPrice": 22.31,
+    "domesticPrice": 971.0,
+    "domesticPriceDon": 3643.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-02",
+    "bid": 22.1,
+    "ask": 22.21,
+    "internationalPrice": 22.21,
+    "domesticPrice": 968.0,
+    "domesticPriceDon": 3628.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-03",
+    "bid": 20.82,
+    "ask": 20.94,
+    "internationalPrice": 20.94,
+    "domesticPrice": 915.0,
+    "domesticPriceDon": 3430.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-04",
+    "bid": 21.17,
+    "ask": 21.28,
+    "internationalPrice": 21.28,
+    "domesticPrice": 932.0,
+    "domesticPriceDon": 3496.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-05",
+    "bid": 21.04,
+    "ask": 21.15,
+    "internationalPrice": 21.15,
+    "domesticPrice": 921.0,
+    "domesticPriceDon": 3453.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-06",
+    "bid": 20.98,
+    "ask": 21.09,
+    "internationalPrice": 21.09,
+    "domesticPrice": 914.0,
+    "domesticPriceDon": 3427.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-07",
+    "bid": 21.59,
+    "ask": 21.74,
+    "internationalPrice": 21.74,
+    "domesticPrice": 942.0,
+    "domesticPriceDon": 3532.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-10",
+    "bid": 21.9,
+    "ask": 22.02,
+    "internationalPrice": 22.02,
+    "domesticPrice": 953.0,
+    "domesticPriceDon": 3574.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-11",
+    "bid": 21.79,
+    "ask": 21.95,
+    "internationalPrice": 21.95,
+    "domesticPrice": 949.0,
+    "domesticPriceDon": 3559.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-12",
+    "bid": 22.03,
+    "ask": 22.18,
+    "internationalPrice": 22.18,
+    "domesticPrice": 955.0,
+    "domesticPriceDon": 3582.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-13",
+    "bid": 21.87,
+    "ask": 21.97,
+    "internationalPrice": 21.97,
+    "domesticPrice": 953.0,
+    "domesticPriceDon": 3575.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-14",
+    "bid": 22.7,
+    "ask": 22.85,
+    "internationalPrice": 22.85,
+    "domesticPrice": 995.0,
+    "domesticPriceDon": 3732.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-16",
+    "bid": 22.65,
+    "ask": 22.76,
+    "internationalPrice": 22.76,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3716.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-17",
+    "bid": 22.56,
+    "ask": 22.67,
+    "internationalPrice": 22.67,
+    "domesticPrice": 984.0,
+    "domesticPriceDon": 3690.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-18",
+    "bid": 22.81,
+    "ask": 22.97,
+    "internationalPrice": 22.97,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3752.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-19",
+    "bid": 22.92,
+    "ask": 23.02,
+    "internationalPrice": 23.02,
+    "domesticPrice": 1004.0,
+    "domesticPriceDon": 3764.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-20",
+    "bid": 23.04,
+    "ask": 23.16,
+    "internationalPrice": 23.16,
+    "domesticPrice": 1012.0,
+    "domesticPriceDon": 3796.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-21",
+    "bid": 23.35,
+    "ask": 23.5,
+    "internationalPrice": 23.5,
+    "domesticPrice": 1021.0,
+    "domesticPriceDon": 3830.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-23",
+    "bid": 23.12,
+    "ask": 23.24,
+    "internationalPrice": 23.24,
+    "domesticPrice": 1010.0,
+    "domesticPriceDon": 3786.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-24",
+    "bid": 22.95,
+    "ask": 23.07,
+    "internationalPrice": 23.07,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3743.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-25",
+    "bid": 22.95,
+    "ask": 23.05,
+    "internationalPrice": 23.05,
+    "domesticPrice": 996.0,
+    "domesticPriceDon": 3737.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-26",
+    "bid": 22.87,
+    "ask": 22.98,
+    "internationalPrice": 22.98,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3751.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-27",
+    "bid": 22.8,
+    "ask": 22.95,
+    "internationalPrice": 22.95,
+    "domesticPrice": 1000.0,
+    "domesticPriceDon": 3750.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-28",
+    "bid": 23.13,
+    "ask": 23.29,
+    "internationalPrice": 23.29,
+    "domesticPrice": 1017.0,
+    "domesticPriceDon": 3812.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-30",
+    "bid": 23.07,
+    "ask": 23.19,
+    "internationalPrice": 23.19,
+    "domesticPrice": 1011.0,
+    "domesticPriceDon": 3790.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-10-31",
+    "bid": 23.28,
+    "ask": 23.39,
+    "internationalPrice": 23.39,
+    "domesticPrice": 1013.0,
+    "domesticPriceDon": 3800.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-01",
+    "bid": 22.8,
+    "ask": 22.96,
+    "internationalPrice": 22.96,
+    "domesticPrice": 999.0,
+    "domesticPriceDon": 3746.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-02",
+    "bid": 23.02,
+    "ask": 23.17,
+    "internationalPrice": 23.17,
+    "domesticPrice": 1003.0,
+    "domesticPriceDon": 3761.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-03",
+    "bid": 22.7,
+    "ask": 22.85,
+    "internationalPrice": 22.85,
+    "domesticPrice": 981.0,
+    "domesticPriceDon": 3679.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-04",
+    "bid": 23.2,
+    "ask": 23.35,
+    "internationalPrice": 23.35,
+    "domesticPrice": 985.0,
+    "domesticPriceDon": 3693.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-06",
+    "bid": 23.14,
+    "ask": 23.25,
+    "internationalPrice": 23.25,
+    "domesticPrice": 980.0,
+    "domesticPriceDon": 3676.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-07",
+    "bid": 22.9,
+    "ask": 23.06,
+    "internationalPrice": 23.06,
+    "domesticPrice": 967.0,
+    "domesticPriceDon": 3625.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-08",
+    "bid": 22.62,
+    "ask": 22.77,
+    "internationalPrice": 22.77,
+    "domesticPrice": 955.0,
+    "domesticPriceDon": 3583.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-09",
+    "bid": 22.51,
+    "ask": 22.66,
+    "internationalPrice": 22.66,
+    "domesticPrice": 957.0,
+    "domesticPriceDon": 3588.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-10",
+    "bid": 22.61,
+    "ask": 22.76,
+    "internationalPrice": 22.76,
+    "domesticPrice": 965.0,
+    "domesticPriceDon": 3618.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-11",
+    "bid": 22.21,
+    "ask": 22.35,
+    "internationalPrice": 22.35,
+    "domesticPrice": 948.0,
+    "domesticPriceDon": 3555.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-13",
+    "bid": 22.3,
+    "ask": 22.45,
+    "internationalPrice": 22.45,
+    "domesticPrice": 954.0,
+    "domesticPriceDon": 3576.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-14",
+    "bid": 22.34,
+    "ask": 22.44,
+    "internationalPrice": 22.44,
+    "domesticPrice": 952.0,
+    "domesticPriceDon": 3571.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-15",
+    "bid": 23.06,
+    "ask": 23.17,
+    "internationalPrice": 23.17,
+    "domesticPrice": 973.0,
+    "domesticPriceDon": 3650.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-16",
+    "bid": 23.45,
+    "ask": 23.57,
+    "internationalPrice": 23.57,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3712.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-17",
+    "bid": 23.79,
+    "ask": 23.94,
+    "internationalPrice": 23.94,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3743.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-18",
+    "bid": 23.72,
+    "ask": 23.88,
+    "internationalPrice": 23.88,
+    "domesticPrice": 996.0,
+    "domesticPriceDon": 3735.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-20",
+    "bid": 23.57,
+    "ask": 23.69,
+    "internationalPrice": 23.69,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3712.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-21",
+    "bid": 23.52,
+    "ask": 23.63,
+    "internationalPrice": 23.63,
+    "domesticPrice": 981.0,
+    "domesticPriceDon": 3679.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-22",
+    "bid": 23.78,
+    "ask": 23.93,
+    "internationalPrice": 23.93,
+    "domesticPrice": 997.0,
+    "domesticPriceDon": 3739.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-23",
+    "bid": 23.57,
+    "ask": 23.73,
+    "internationalPrice": 23.73,
+    "domesticPrice": 993.0,
+    "domesticPriceDon": 3725.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-24",
+    "bid": 23.67,
+    "ask": 23.8,
+    "internationalPrice": 23.8,
+    "domesticPrice": 995.0,
+    "domesticPriceDon": 3732.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-25",
+    "bid": 24.29,
+    "ask": 24.45,
+    "internationalPrice": 24.45,
+    "domesticPrice": 1026.0,
+    "domesticPriceDon": 3849.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-27",
+    "bid": 24.32,
+    "ask": 24.48,
+    "internationalPrice": 24.48,
+    "domesticPrice": 1027.0,
+    "domesticPriceDon": 3853.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-28",
+    "bid": 24.68,
+    "ask": 24.83,
+    "internationalPrice": 24.83,
+    "domesticPrice": 1036.0,
+    "domesticPriceDon": 3883.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-29",
+    "bid": 25.07,
+    "ask": 25.23,
+    "internationalPrice": 25.23,
+    "domesticPrice": 1045.0,
+    "domesticPriceDon": 3920.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-11-30",
+    "bid": 24.95,
+    "ask": 25.1,
+    "internationalPrice": 25.1,
+    "domesticPrice": 1043.0,
+    "domesticPriceDon": 3910.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-01",
+    "bid": 25.35,
+    "ask": 25.5,
+    "internationalPrice": 25.5,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3997.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-02",
+    "bid": 25.42,
+    "ask": 25.56,
+    "internationalPrice": 25.56,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3996.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-04",
+    "bid": 25.62,
+    "ask": 25.76,
+    "internationalPrice": 25.76,
+    "domesticPrice": 1075.0,
+    "domesticPriceDon": 4030.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-05",
+    "bid": 24.51,
+    "ask": 24.66,
+    "internationalPrice": 24.66,
+    "domesticPrice": 1040.0,
+    "domesticPriceDon": 3900.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-06",
+    "bid": 24.17,
+    "ask": 24.32,
+    "internationalPrice": 24.32,
+    "domesticPrice": 1027.0,
+    "domesticPriceDon": 3850.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-07",
+    "bid": 23.92,
+    "ask": 24.07,
+    "internationalPrice": 24.07,
+    "domesticPrice": 1019.0,
+    "domesticPriceDon": 3822.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-08",
+    "bid": 23.72,
+    "ask": 23.88,
+    "internationalPrice": 23.88,
+    "domesticPrice": 1009.0,
+    "domesticPriceDon": 3782.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-09",
+    "bid": 22.96,
+    "ask": 23.12,
+    "internationalPrice": 23.12,
+    "domesticPrice": 981.0,
+    "domesticPriceDon": 3679.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-11",
+    "bid": 23.04,
+    "ask": 23.2,
+    "internationalPrice": 23.2,
+    "domesticPrice": 984.0,
+    "domesticPriceDon": 3690.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-12",
+    "bid": 22.78,
+    "ask": 22.93,
+    "internationalPrice": 22.93,
+    "domesticPrice": 971.0,
+    "domesticPriceDon": 3642.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-13",
+    "bid": 22.79,
+    "ask": 22.94,
+    "internationalPrice": 22.94,
+    "domesticPrice": 968.0,
+    "domesticPriceDon": 3630.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-14",
+    "bid": 23.81,
+    "ask": 23.96,
+    "internationalPrice": 23.96,
+    "domesticPrice": 1007.0,
+    "domesticPriceDon": 3777.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-15",
+    "bid": 24.11,
+    "ask": 24.26,
+    "internationalPrice": 24.26,
+    "domesticPrice": 1010.0,
+    "domesticPriceDon": 3788.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-16",
+    "bid": 23.82,
+    "ask": 23.95,
+    "internationalPrice": 23.95,
+    "domesticPrice": 1004.0,
+    "domesticPriceDon": 3765.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-18",
+    "bid": 23.71,
+    "ask": 23.87,
+    "internationalPrice": 23.87,
+    "domesticPrice": 1001.0,
+    "domesticPriceDon": 3752.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-19",
+    "bid": 23.78,
+    "ask": 23.93,
+    "internationalPrice": 23.93,
+    "domesticPrice": 1001.0,
+    "domesticPriceDon": 3755.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-20",
+    "bid": 24.04,
+    "ask": 24.19,
+    "internationalPrice": 24.19,
+    "domesticPrice": 1014.0,
+    "domesticPriceDon": 3801.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-21",
+    "bid": 24.15,
+    "ask": 24.31,
+    "internationalPrice": 24.31,
+    "domesticPrice": 1019.0,
+    "domesticPriceDon": 3821.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-22",
+    "bid": 24.43,
+    "ask": 24.56,
+    "internationalPrice": 24.56,
+    "domesticPrice": 1026.0,
+    "domesticPriceDon": 3848.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-23",
+    "bid": 24.17,
+    "ask": 24.3,
+    "internationalPrice": 24.3,
+    "domesticPrice": 1016.0,
+    "domesticPriceDon": 3808.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-26",
+    "bid": 24.2,
+    "ask": 24.35,
+    "internationalPrice": 24.35,
+    "domesticPrice": 1017.0,
+    "domesticPriceDon": 3815.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-27",
+    "bid": 24.17,
+    "ask": 24.32,
+    "internationalPrice": 24.32,
+    "domesticPrice": 1012.0,
+    "domesticPriceDon": 3797.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-28",
+    "bid": 24.31,
+    "ask": 24.47,
+    "internationalPrice": 24.47,
+    "domesticPrice": 1016.0,
+    "domesticPriceDon": 3811.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-29",
+    "bid": 23.9,
+    "ask": 24.06,
+    "internationalPrice": 24.06,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3744.0
+  },
+  {
+    "type": "Ag",
+    "date": "2023-12-30",
+    "bid": 23.76,
+    "ask": 23.9,
+    "internationalPrice": 23.9,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3742.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-02",
+    "bid": 23.79,
+    "ask": 23.95,
+    "internationalPrice": 23.95,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3744.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-03",
+    "bid": 23.62,
+    "ask": 23.77,
+    "internationalPrice": 23.77,
+    "domesticPrice": 1002.0,
+    "domesticPriceDon": 3757.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-04",
+    "bid": 22.97,
+    "ask": 23.1,
+    "internationalPrice": 23.1,
+    "domesticPrice": 974.0,
+    "domesticPriceDon": 3651.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-05",
+    "bid": 23.01,
+    "ask": 23.16,
+    "internationalPrice": 23.16,
+    "domesticPrice": 979.0,
+    "domesticPriceDon": 3670.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-06",
+    "bid": 23.17,
+    "ask": 23.32,
+    "internationalPrice": 23.32,
+    "domesticPrice": 987.0,
+    "domesticPriceDon": 3701.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-08",
+    "bid": 23.11,
+    "ask": 23.26,
+    "internationalPrice": 23.26,
+    "domesticPrice": 984.0,
+    "domesticPriceDon": 3691.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-09",
+    "bid": 23.12,
+    "ask": 23.27,
+    "internationalPrice": 23.27,
+    "domesticPrice": 982.0,
+    "domesticPriceDon": 3683.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-10",
+    "bid": 23.0,
+    "ask": 23.1,
+    "internationalPrice": 23.1,
+    "domesticPrice": 982.0,
+    "domesticPriceDon": 3683.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-11",
+    "bid": 22.89,
+    "ask": 23.05,
+    "internationalPrice": 23.05,
+    "domesticPrice": 978.0,
+    "domesticPriceDon": 3669.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-12",
+    "bid": 22.85,
+    "ask": 23.0,
+    "internationalPrice": 23.0,
+    "domesticPrice": 972.0,
+    "domesticPriceDon": 3645.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-13",
+    "bid": 23.17,
+    "ask": 23.32,
+    "internationalPrice": 23.32,
+    "domesticPrice": 986.0,
+    "domesticPriceDon": 3697.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-15",
+    "bid": 23.12,
+    "ask": 23.26,
+    "internationalPrice": 23.26,
+    "domesticPrice": 985.0,
+    "domesticPriceDon": 3695.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-16",
+    "bid": 23.17,
+    "ask": 23.28,
+    "internationalPrice": 23.28,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3713.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-17",
+    "bid": 22.87,
+    "ask": 23.02,
+    "internationalPrice": 23.02,
+    "domesticPrice": 993.0,
+    "domesticPriceDon": 3722.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-18",
+    "bid": 22.55,
+    "ask": 22.71,
+    "internationalPrice": 22.71,
+    "domesticPrice": 983.0,
+    "domesticPriceDon": 3687.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-19",
+    "bid": 22.76,
+    "ask": 22.88,
+    "internationalPrice": 22.88,
+    "domesticPrice": 982.0,
+    "domesticPriceDon": 3684.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-20",
+    "bid": 22.6,
+    "ask": 22.71,
+    "internationalPrice": 22.71,
+    "domesticPrice": 975.0,
+    "domesticPriceDon": 3657.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-22",
+    "bid": 22.53,
+    "ask": 22.64,
+    "internationalPrice": 22.64,
+    "domesticPrice": 971.0,
+    "domesticPriceDon": 3643.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-23",
+    "bid": 22.09,
+    "ask": 22.2,
+    "internationalPrice": 22.2,
+    "domesticPrice": 957.0,
+    "domesticPriceDon": 3589.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-24",
+    "bid": 22.44,
+    "ask": 22.56,
+    "internationalPrice": 22.56,
+    "domesticPrice": 971.0,
+    "domesticPriceDon": 3640.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-25",
+    "bid": 22.65,
+    "ask": 22.76,
+    "internationalPrice": 22.76,
+    "domesticPrice": 978.0,
+    "domesticPriceDon": 3668.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-26",
+    "bid": 22.88,
+    "ask": 23.01,
+    "internationalPrice": 23.01,
+    "domesticPrice": 991.0,
+    "domesticPriceDon": 3715.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-27",
+    "bid": 22.79,
+    "ask": 22.9,
+    "internationalPrice": 22.9,
+    "domesticPrice": 985.0,
+    "domesticPriceDon": 3695.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-29",
+    "bid": 22.88,
+    "ask": 23.0,
+    "internationalPrice": 23.0,
+    "domesticPrice": 990.0,
+    "domesticPriceDon": 3712.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-30",
+    "bid": 23.19,
+    "ask": 23.34,
+    "internationalPrice": 23.34,
+    "domesticPrice": 1002.0,
+    "domesticPriceDon": 3757.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-01-31",
+    "bid": 23.18,
+    "ask": 23.33,
+    "internationalPrice": 23.33,
+    "domesticPrice": 998.0,
+    "domesticPriceDon": 3742.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-01",
+    "bid": 22.9,
+    "ask": 23.02,
+    "internationalPrice": 23.02,
+    "domesticPrice": 988.0,
+    "domesticPriceDon": 3706.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-02",
+    "bid": 23.17,
+    "ask": 23.28,
+    "internationalPrice": 23.28,
+    "domesticPrice": 994.0,
+    "domesticPriceDon": 3726.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-03",
+    "bid": 22.68,
+    "ask": 22.8,
+    "internationalPrice": 22.8,
+    "domesticPrice": 983.0,
+    "domesticPriceDon": 3686.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-05",
+    "bid": 22.71,
+    "ask": 22.82,
+    "internationalPrice": 22.82,
+    "domesticPrice": 983.0,
+    "domesticPriceDon": 3685.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-06",
+    "bid": 22.3,
+    "ask": 22.41,
+    "internationalPrice": 22.41,
+    "domesticPrice": 961.0,
+    "domesticPriceDon": 3603.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-07",
+    "bid": 22.39,
+    "ask": 22.51,
+    "internationalPrice": 22.51,
+    "domesticPrice": 961.0,
+    "domesticPriceDon": 3605.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-08",
+    "bid": 22.2,
+    "ask": 22.32,
+    "internationalPrice": 22.32,
+    "domesticPrice": 953.0,
+    "domesticPriceDon": 3572.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-09",
+    "bid": 22.55,
+    "ask": 22.71,
+    "internationalPrice": 22.71,
+    "domesticPrice": 974.0,
+    "domesticPriceDon": 3652.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-10",
+    "bid": 22.61,
+    "ask": 22.73,
+    "internationalPrice": 22.73,
+    "domesticPrice": 975.0,
+    "domesticPriceDon": 3654.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-12",
+    "bid": 22.65,
+    "ask": 22.78,
+    "internationalPrice": 22.78,
+    "domesticPrice": 977.0,
+    "domesticPriceDon": 3662.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-13",
+    "bid": 22.69,
+    "ask": 22.8,
+    "internationalPrice": 22.8,
+    "domesticPrice": 975.0,
+    "domesticPriceDon": 3656.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-14",
+    "bid": 22.06,
+    "ask": 22.18,
+    "internationalPrice": 22.18,
+    "domesticPrice": 955.0,
+    "domesticPriceDon": 3582.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-15",
+    "bid": 22.36,
+    "ask": 22.51,
+    "internationalPrice": 22.51,
+    "domesticPrice": 964.0,
+    "domesticPriceDon": 3615.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-16",
+    "bid": 22.95,
+    "ask": 23.06,
+    "internationalPrice": 23.06,
+    "domesticPrice": 987.0,
+    "domesticPriceDon": 3700.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-17",
+    "bid": 23.4,
+    "ask": 23.53,
+    "internationalPrice": 23.53,
+    "domesticPrice": 1009.0,
+    "domesticPriceDon": 3785.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-19",
+    "bid": 23.39,
+    "ask": 23.55,
+    "internationalPrice": 23.55,
+    "domesticPrice": 1010.0,
+    "domesticPriceDon": 3788.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-20",
+    "bid": 22.93,
+    "ask": 23.08,
+    "internationalPrice": 23.08,
+    "domesticPrice": 993.0,
+    "domesticPriceDon": 3725.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-21",
+    "bid": 23.02,
+    "ask": 23.12,
+    "internationalPrice": 23.12,
+    "domesticPrice": 992.0,
+    "domesticPriceDon": 3720.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-22",
+    "bid": 22.9,
+    "ask": 23.01,
+    "internationalPrice": 23.01,
+    "domesticPrice": 987.0,
+    "domesticPriceDon": 3702.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-23",
+    "bid": 22.73,
+    "ask": 22.89,
+    "internationalPrice": 22.89,
+    "domesticPrice": 978.0,
+    "domesticPriceDon": 3666.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-24",
+    "bid": 22.95,
+    "ask": 23.05,
+    "internationalPrice": 23.05,
+    "domesticPrice": 988.0,
+    "domesticPriceDon": 3703.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-26",
+    "bid": 22.84,
+    "ask": 22.94,
+    "internationalPrice": 22.94,
+    "domesticPrice": 983.0,
+    "domesticPriceDon": 3685.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-27",
+    "bid": 22.48,
+    "ask": 22.6,
+    "internationalPrice": 22.6,
+    "domesticPrice": 968.0,
+    "domesticPriceDon": 3631.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-28",
+    "bid": 22.44,
+    "ask": 22.54,
+    "internationalPrice": 22.54,
+    "domesticPrice": 966.0,
+    "domesticPriceDon": 3621.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-02-29",
+    "bid": 22.46,
+    "ask": 22.58,
+    "internationalPrice": 22.58,
+    "domesticPrice": 970.0,
+    "domesticPriceDon": 3637.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-01",
+    "bid": 22.65,
+    "ask": 22.76,
+    "internationalPrice": 22.76,
+    "domesticPrice": 978.0,
+    "domesticPriceDon": 3668.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-02",
+    "bid": 23.14,
+    "ask": 23.26,
+    "internationalPrice": 23.26,
+    "domesticPrice": 997.0,
+    "domesticPriceDon": 3740.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-04",
+    "bid": 23.1,
+    "ask": 23.2,
+    "internationalPrice": 23.2,
+    "domesticPrice": 994.0,
+    "domesticPriceDon": 3728.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-05",
+    "bid": 23.94,
+    "ask": 24.04,
+    "internationalPrice": 24.04,
+    "domesticPrice": 1030.0,
+    "domesticPriceDon": 3862.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-06",
+    "bid": 23.67,
+    "ask": 23.8,
+    "internationalPrice": 23.8,
+    "domesticPrice": 1023.0,
+    "domesticPriceDon": 3836.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-07",
+    "bid": 24.2,
+    "ask": 24.31,
+    "internationalPrice": 24.31,
+    "domesticPrice": 1039.0,
+    "domesticPriceDon": 3896.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-08",
+    "bid": 24.39,
+    "ask": 24.5,
+    "internationalPrice": 24.5,
+    "domesticPrice": 1043.0,
+    "domesticPriceDon": 3912.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-09",
+    "bid": 24.3,
+    "ask": 24.44,
+    "internationalPrice": 24.44,
+    "domesticPrice": 1037.0,
+    "domesticPriceDon": 3888.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-11",
+    "bid": 24.37,
+    "ask": 24.49,
+    "internationalPrice": 24.49,
+    "domesticPrice": 1038.0,
+    "domesticPriceDon": 3893.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-12",
+    "bid": 24.53,
+    "ask": 24.63,
+    "internationalPrice": 24.63,
+    "domesticPrice": 1041.0,
+    "domesticPriceDon": 3903.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-13",
+    "bid": 24.11,
+    "ask": 24.26,
+    "internationalPrice": 24.26,
+    "domesticPrice": 1024.0,
+    "domesticPriceDon": 3841.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-14",
+    "bid": 25.04,
+    "ask": 25.16,
+    "internationalPrice": 25.16,
+    "domesticPrice": 1065.0,
+    "domesticPriceDon": 3993.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-15",
+    "bid": 24.82,
+    "ask": 24.94,
+    "internationalPrice": 24.94,
+    "domesticPrice": 1063.0,
+    "domesticPriceDon": 3987.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-16",
+    "bid": 25.17,
+    "ask": 25.32,
+    "internationalPrice": 25.32,
+    "domesticPrice": 1085.0,
+    "domesticPriceDon": 4067.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-18",
+    "bid": 25.07,
+    "ask": 25.2,
+    "internationalPrice": 25.2,
+    "domesticPrice": 1082.0,
+    "domesticPriceDon": 4057.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-19",
+    "bid": 24.9,
+    "ask": 25.02,
+    "internationalPrice": 25.02,
+    "domesticPrice": 1079.0,
+    "domesticPriceDon": 4044.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-20",
+    "bid": 24.84,
+    "ask": 24.96,
+    "internationalPrice": 24.96,
+    "domesticPrice": 1077.0,
+    "domesticPriceDon": 4038.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-21",
+    "bid": 25.45,
+    "ask": 25.57,
+    "internationalPrice": 25.57,
+    "domesticPrice": 1093.0,
+    "domesticPriceDon": 4099.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-22",
+    "bid": 24.6,
+    "ask": 24.7,
+    "internationalPrice": 24.7,
+    "domesticPrice": 1068.0,
+    "domesticPriceDon": 4006.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-23",
+    "bid": 24.67,
+    "ask": 24.79,
+    "internationalPrice": 24.79,
+    "domesticPrice": 1074.0,
+    "domesticPriceDon": 4027.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-25",
+    "bid": 24.69,
+    "ask": 24.8,
+    "internationalPrice": 24.8,
+    "domesticPrice": 1071.0,
+    "domesticPriceDon": 4016.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-26",
+    "bid": 24.63,
+    "ask": 24.75,
+    "internationalPrice": 24.75,
+    "domesticPrice": 1069.0,
+    "domesticPriceDon": 4008.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-27",
+    "bid": 24.4,
+    "ask": 24.51,
+    "internationalPrice": 24.51,
+    "domesticPrice": 1066.0,
+    "domesticPriceDon": 3997.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-28",
+    "bid": 24.4,
+    "ask": 24.52,
+    "internationalPrice": 24.52,
+    "domesticPrice": 1065.0,
+    "domesticPriceDon": 3994.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-29",
+    "bid": 25.02,
+    "ask": 25.17,
+    "internationalPrice": 25.17,
+    "domesticPrice": 1092.0,
+    "domesticPriceDon": 4095.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-03-30",
+    "bid": 25.02,
+    "ask": 25.17,
+    "internationalPrice": 25.17,
+    "domesticPrice": 1091.0,
+    "domesticPriceDon": 4093.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-01",
+    "bid": 25.1,
+    "ask": 25.25,
+    "internationalPrice": 25.25,
+    "domesticPrice": 1096.0,
+    "domesticPriceDon": 4111.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-02",
+    "bid": 25.61,
+    "ask": 25.71,
+    "internationalPrice": 25.71,
+    "domesticPrice": 1117.0,
+    "domesticPriceDon": 4189.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-03",
+    "bid": 26.27,
+    "ask": 26.38,
+    "internationalPrice": 26.38,
+    "domesticPrice": 1146.0,
+    "domesticPriceDon": 4296.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-04",
+    "bid": 27.06,
+    "ask": 27.17,
+    "internationalPrice": 27.17,
+    "domesticPrice": 1177.0,
+    "domesticPriceDon": 4413.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-05",
+    "bid": 26.77,
+    "ask": 26.87,
+    "internationalPrice": 26.87,
+    "domesticPrice": 1168.0,
+    "domesticPriceDon": 4380.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-06",
+    "bid": 27.47,
+    "ask": 27.63,
+    "internationalPrice": 27.63,
+    "domesticPrice": 1202.0,
+    "domesticPriceDon": 4506.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-08",
+    "bid": 27.8,
+    "ask": 27.92,
+    "internationalPrice": 27.92,
+    "domesticPrice": 1218.0,
+    "domesticPriceDon": 4568.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-09",
+    "bid": 28.04,
+    "ask": 28.15,
+    "internationalPrice": 28.15,
+    "domesticPrice": 1228.0,
+    "domesticPriceDon": 4605.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-10",
+    "bid": 28.07,
+    "ask": 28.19,
+    "internationalPrice": 28.19,
+    "domesticPrice": 1224.0,
+    "domesticPriceDon": 4588.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-11",
+    "bid": 27.84,
+    "ask": 27.95,
+    "internationalPrice": 27.95,
+    "domesticPrice": 1232.0,
+    "domesticPriceDon": 4620.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-12",
+    "bid": 29.13,
+    "ask": 29.25,
+    "internationalPrice": 29.25,
+    "domesticPrice": 1298.0,
+    "domesticPriceDon": 4868.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-13",
+    "bid": 27.87,
+    "ask": 28.03,
+    "internationalPrice": 28.03,
+    "domesticPrice": 1246.0,
+    "domesticPriceDon": 4672.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-15",
+    "bid": 28.31,
+    "ask": 28.44,
+    "internationalPrice": 28.44,
+    "domesticPrice": 1267.0,
+    "domesticPriceDon": 4750.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-16",
+    "bid": 28.3,
+    "ask": 28.42,
+    "internationalPrice": 28.42,
+    "domesticPrice": 1276.0,
+    "domesticPriceDon": 4783.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-17",
+    "bid": 28.54,
+    "ask": 28.65,
+    "internationalPrice": 28.65,
+    "domesticPrice": 1274.0,
+    "domesticPriceDon": 4776.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-18",
+    "bid": 28.46,
+    "ask": 28.58,
+    "internationalPrice": 28.58,
+    "domesticPrice": 1264.0,
+    "domesticPriceDon": 4742.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-19",
+    "bid": 28.36,
+    "ask": 28.47,
+    "internationalPrice": 28.47,
+    "domesticPrice": 1265.0,
+    "domesticPriceDon": 4746.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-20",
+    "bid": 28.65,
+    "ask": 28.81,
+    "internationalPrice": 28.81,
+    "domesticPrice": 1275.0,
+    "domesticPriceDon": 4781.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-22",
+    "bid": 27.8,
+    "ask": 27.94,
+    "internationalPrice": 27.94,
+    "domesticPrice": 1240.0,
+    "domesticPriceDon": 4650.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-23",
+    "bid": 26.85,
+    "ask": 26.96,
+    "internationalPrice": 26.96,
+    "domesticPrice": 1196.0,
+    "domesticPriceDon": 4486.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-24",
+    "bid": 27.22,
+    "ask": 27.34,
+    "internationalPrice": 27.34,
+    "domesticPrice": 1208.0,
+    "domesticPriceDon": 4530.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-25",
+    "bid": 27.42,
+    "ask": 27.54,
+    "internationalPrice": 27.54,
+    "domesticPrice": 1218.0,
+    "domesticPriceDon": 4569.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-26",
+    "bid": 27.64,
+    "ask": 27.75,
+    "internationalPrice": 27.75,
+    "domesticPrice": 1229.0,
+    "domesticPriceDon": 4608.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-27",
+    "bid": 27.17,
+    "ask": 27.52,
+    "internationalPrice": 27.52,
+    "domesticPrice": 1217.0,
+    "domesticPriceDon": 4562.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-29",
+    "bid": 27.38,
+    "ask": 27.49,
+    "internationalPrice": 27.49,
+    "domesticPrice": 1218.0,
+    "domesticPriceDon": 4569.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-04-30",
+    "bid": 26.6,
+    "ask": 26.7,
+    "internationalPrice": 26.7,
+    "domesticPrice": 1186.0,
+    "domesticPriceDon": 4449.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-01",
+    "bid": 26.43,
+    "ask": 26.53,
+    "internationalPrice": 26.53,
+    "domesticPrice": 1184.0,
+    "domesticPriceDon": 4439.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-02",
+    "bid": 26.42,
+    "ask": 26.52,
+    "internationalPrice": 26.52,
+    "domesticPrice": 1175.0,
+    "domesticPriceDon": 4405.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-03",
+    "bid": 26.54,
+    "ask": 26.65,
+    "internationalPrice": 26.65,
+    "domesticPrice": 1167.0,
+    "domesticPriceDon": 4376.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-04",
+    "bid": 26.54,
+    "ask": 26.68,
+    "internationalPrice": 26.68,
+    "domesticPrice": 1165.0,
+    "domesticPriceDon": 4370.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-06",
+    "bid": 27.11,
+    "ask": 27.21,
+    "internationalPrice": 27.21,
+    "domesticPrice": 1188.0,
+    "domesticPriceDon": 4456.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-07",
+    "bid": 27.25,
+    "ask": 27.38,
+    "internationalPrice": 27.38,
+    "domesticPrice": 1198.0,
+    "domesticPriceDon": 4492.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-08",
+    "bid": 27.11,
+    "ask": 27.24,
+    "internationalPrice": 27.24,
+    "domesticPrice": 1196.0,
+    "domesticPriceDon": 4484.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-09",
+    "bid": 27.63,
+    "ask": 27.75,
+    "internationalPrice": 27.75,
+    "domesticPrice": 1225.0,
+    "domesticPriceDon": 4594.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-10",
+    "bid": 28.68,
+    "ask": 28.79,
+    "internationalPrice": 28.79,
+    "domesticPrice": 1265.0,
+    "domesticPriceDon": 4746.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-11",
+    "bid": 28.14,
+    "ask": 28.29,
+    "internationalPrice": 28.29,
+    "domesticPrice": 1249.0,
+    "domesticPriceDon": 4685.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-13",
+    "bid": 28.11,
+    "ask": 28.21,
+    "internationalPrice": 28.21,
+    "domesticPrice": 1241.0,
+    "domesticPriceDon": 4654.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-14",
+    "bid": 28.39,
+    "ask": 28.51,
+    "internationalPrice": 28.51,
+    "domesticPrice": 1256.0,
+    "domesticPriceDon": 4708.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-15",
+    "bid": 28.9,
+    "ask": 29.02,
+    "internationalPrice": 29.02,
+    "domesticPrice": 1267.0,
+    "domesticPriceDon": 4750.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-16",
+    "bid": 29.5,
+    "ask": 29.61,
+    "internationalPrice": 29.61,
+    "domesticPrice": 1282.0,
+    "domesticPriceDon": 4807.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-17",
+    "bid": 29.67,
+    "ask": 29.78,
+    "internationalPrice": 29.78,
+    "domesticPrice": 1303.0,
+    "domesticPriceDon": 4884.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-18",
+    "bid": 31.48,
+    "ask": 31.64,
+    "internationalPrice": 31.64,
+    "domesticPrice": 1379.0,
+    "domesticPriceDon": 5172.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-20",
+    "bid": 31.88,
+    "ask": 32.04,
+    "internationalPrice": 32.04,
+    "domesticPrice": 1401.0,
+    "domesticPriceDon": 5252.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-21",
+    "bid": 31.69,
+    "ask": 31.8,
+    "internationalPrice": 31.8,
+    "domesticPrice": 1395.0,
+    "domesticPriceDon": 5230.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-22",
+    "bid": 31.78,
+    "ask": 31.89,
+    "internationalPrice": 31.89,
+    "domesticPrice": 1401.0,
+    "domesticPriceDon": 5253.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-23",
+    "bid": 30.46,
+    "ask": 30.58,
+    "internationalPrice": 30.58,
+    "domesticPrice": 1343.0,
+    "domesticPriceDon": 5037.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-24",
+    "bid": 30.52,
+    "ask": 30.63,
+    "internationalPrice": 30.63,
+    "domesticPrice": 1347.0,
+    "domesticPriceDon": 5053.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-25",
+    "bid": 30.34,
+    "ask": 30.47,
+    "internationalPrice": 30.47,
+    "domesticPrice": 1342.0,
+    "domesticPriceDon": 5032.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-27",
+    "bid": 30.81,
+    "ask": 30.92,
+    "internationalPrice": 30.92,
+    "domesticPrice": 1357.0,
+    "domesticPriceDon": 5089.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-28",
+    "bid": 31.48,
+    "ask": 31.6,
+    "internationalPrice": 31.6,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5183.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-29",
+    "bid": 32.0,
+    "ask": 32.12,
+    "internationalPrice": 32.12,
+    "domesticPrice": 1412.0,
+    "domesticPriceDon": 5297.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-30",
+    "bid": 31.52,
+    "ask": 31.63,
+    "internationalPrice": 31.63,
+    "domesticPrice": 1400.0,
+    "domesticPriceDon": 5252.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-05-31",
+    "bid": 31.22,
+    "ask": 31.34,
+    "internationalPrice": 31.34,
+    "domesticPrice": 1395.0,
+    "domesticPriceDon": 5232.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-01",
+    "bid": 30.37,
+    "ask": 30.52,
+    "internationalPrice": 30.52,
+    "domesticPrice": 1360.0,
+    "domesticPriceDon": 5098.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-03",
+    "bid": 30.22,
+    "ask": 30.34,
+    "internationalPrice": 30.34,
+    "domesticPrice": 1346.0,
+    "domesticPriceDon": 5047.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-04",
+    "bid": 29.95,
+    "ask": 30.06,
+    "internationalPrice": 30.06,
+    "domesticPrice": 1332.0,
+    "domesticPriceDon": 4996.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-05",
+    "bid": 29.56,
+    "ask": 29.68,
+    "internationalPrice": 29.68,
+    "domesticPrice": 1312.0,
+    "domesticPriceDon": 4918.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-06",
+    "bid": 30.31,
+    "ask": 30.43,
+    "internationalPrice": 30.43,
+    "domesticPrice": 1339.0,
+    "domesticPriceDon": 5020.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-07",
+    "bid": 30.73,
+    "ask": 30.85,
+    "internationalPrice": 30.85,
+    "domesticPrice": 1357.0,
+    "domesticPriceDon": 5088.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-08",
+    "bid": 29.18,
+    "ask": 29.32,
+    "internationalPrice": 29.32,
+    "domesticPrice": 1303.0,
+    "domesticPriceDon": 4887.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-10",
+    "bid": 29.63,
+    "ask": 29.75,
+    "internationalPrice": 29.75,
+    "domesticPrice": 1318.0,
+    "domesticPriceDon": 4941.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-11",
+    "bid": 29.23,
+    "ask": 29.35,
+    "internationalPrice": 29.35,
+    "domesticPrice": 1303.0,
+    "domesticPriceDon": 4886.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-12",
+    "bid": 29.35,
+    "ask": 29.46,
+    "internationalPrice": 29.46,
+    "domesticPrice": 1303.0,
+    "domesticPriceDon": 4887.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-13",
+    "bid": 29.34,
+    "ask": 29.45,
+    "internationalPrice": 29.45,
+    "domesticPrice": 1302.0,
+    "domesticPriceDon": 4882.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-14",
+    "bid": 29.09,
+    "ask": 29.2,
+    "internationalPrice": 29.2,
+    "domesticPrice": 1299.0,
+    "domesticPriceDon": 4870.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-15",
+    "bid": 29.54,
+    "ask": 29.69,
+    "internationalPrice": 29.69,
+    "domesticPrice": 1323.0,
+    "domesticPriceDon": 4961.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-17",
+    "bid": 29.19,
+    "ask": 29.3,
+    "internationalPrice": 29.3,
+    "domesticPrice": 1301.0,
+    "domesticPriceDon": 4880.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-18",
+    "bid": 29.13,
+    "ask": 29.25,
+    "internationalPrice": 29.25,
+    "domesticPrice": 1304.0,
+    "domesticPriceDon": 4889.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-19",
+    "bid": 29.54,
+    "ask": 29.65,
+    "internationalPrice": 29.65,
+    "domesticPrice": 1317.0,
+    "domesticPriceDon": 4938.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-20",
+    "bid": 30.15,
+    "ask": 30.28,
+    "internationalPrice": 30.28,
+    "domesticPrice": 1351.0,
+    "domesticPriceDon": 5066.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-21",
+    "bid": 30.45,
+    "ask": 30.57,
+    "internationalPrice": 30.57,
+    "domesticPrice": 1368.0,
+    "domesticPriceDon": 5129.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-22",
+    "bid": 29.52,
+    "ask": 29.66,
+    "internationalPrice": 29.66,
+    "domesticPrice": 1326.0,
+    "domesticPriceDon": 4974.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-24",
+    "bid": 29.7,
+    "ask": 29.8,
+    "internationalPrice": 29.8,
+    "domesticPrice": 1331.0,
+    "domesticPriceDon": 4991.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-25",
+    "bid": 29.57,
+    "ask": 29.69,
+    "internationalPrice": 29.69,
+    "domesticPrice": 1328.0,
+    "domesticPriceDon": 4979.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-26",
+    "bid": 28.97,
+    "ask": 29.09,
+    "internationalPrice": 29.09,
+    "domesticPrice": 1301.0,
+    "domesticPriceDon": 4881.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-27",
+    "bid": 28.85,
+    "ask": 28.96,
+    "internationalPrice": 28.96,
+    "domesticPrice": 1292.0,
+    "domesticPriceDon": 4845.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-28",
+    "bid": 29.27,
+    "ask": 29.38,
+    "internationalPrice": 29.38,
+    "domesticPrice": 1303.0,
+    "domesticPriceDon": 4888.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-06-29",
+    "bid": 29.12,
+    "ask": 29.26,
+    "internationalPrice": 29.26,
+    "domesticPrice": 1301.0,
+    "domesticPriceDon": 4878.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-01",
+    "bid": 29.21,
+    "ask": 29.33,
+    "internationalPrice": 29.33,
+    "domesticPrice": 1304.0,
+    "domesticPriceDon": 4889.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-02",
+    "bid": 29.35,
+    "ask": 29.46,
+    "internationalPrice": 29.46,
+    "domesticPrice": 1317.0,
+    "domesticPriceDon": 4937.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-03",
+    "bid": 30.09,
+    "ask": 30.2,
+    "internationalPrice": 30.2,
+    "domesticPrice": 1350.0,
+    "domesticPriceDon": 5063.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-04",
+    "bid": 30.42,
+    "ask": 30.53,
+    "internationalPrice": 30.53,
+    "domesticPrice": 1356.0,
+    "domesticPriceDon": 5087.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-05",
+    "bid": 30.56,
+    "ask": 30.68,
+    "internationalPrice": 30.68,
+    "domesticPrice": 1363.0,
+    "domesticPriceDon": 5112.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-06",
+    "bid": 31.21,
+    "ask": 31.34,
+    "internationalPrice": 31.34,
+    "domesticPrice": 1390.0,
+    "domesticPriceDon": 5212.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-08",
+    "bid": 30.93,
+    "ask": 31.03,
+    "internationalPrice": 31.03,
+    "domesticPrice": 1381.0,
+    "domesticPriceDon": 5180.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-09",
+    "bid": 31.0,
+    "ask": 31.11,
+    "internationalPrice": 31.11,
+    "domesticPrice": 1385.0,
+    "domesticPriceDon": 5193.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-10",
+    "bid": 30.97,
+    "ask": 31.09,
+    "internationalPrice": 31.09,
+    "domesticPrice": 1385.0,
+    "domesticPriceDon": 5194.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-11",
+    "bid": 31.0,
+    "ask": 31.11,
+    "internationalPrice": 31.11,
+    "domesticPrice": 1380.0,
+    "domesticPriceDon": 5176.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-12",
+    "bid": 30.85,
+    "ask": 31.0,
+    "internationalPrice": 31.0,
+    "domesticPrice": 1372.0,
+    "domesticPriceDon": 5143.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-13",
+    "bid": 30.77,
+    "ask": 30.92,
+    "internationalPrice": 30.92,
+    "domesticPrice": 1370.0,
+    "domesticPriceDon": 5136.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-15",
+    "bid": 30.71,
+    "ask": 30.82,
+    "internationalPrice": 30.82,
+    "domesticPrice": 1370.0,
+    "domesticPriceDon": 5138.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-16",
+    "bid": 30.73,
+    "ask": 30.89,
+    "internationalPrice": 30.89,
+    "domesticPrice": 1376.0,
+    "domesticPriceDon": 5160.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-17",
+    "bid": 30.95,
+    "ask": 31.1,
+    "internationalPrice": 31.1,
+    "domesticPrice": 1379.0,
+    "domesticPriceDon": 5169.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-18",
+    "bid": 30.47,
+    "ask": 30.62,
+    "internationalPrice": 30.62,
+    "domesticPrice": 1363.0,
+    "domesticPriceDon": 5112.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-19",
+    "bid": 29.34,
+    "ask": 29.45,
+    "internationalPrice": 29.45,
+    "domesticPrice": 1316.0,
+    "domesticPriceDon": 4935.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-20",
+    "bid": 29.26,
+    "ask": 29.41,
+    "internationalPrice": 29.41,
+    "domesticPrice": 1316.0,
+    "domesticPriceDon": 4936.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-22",
+    "bid": 29.1,
+    "ask": 29.21,
+    "internationalPrice": 29.21,
+    "domesticPrice": 1305.0,
+    "domesticPriceDon": 4894.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-23",
+    "bid": 28.94,
+    "ask": 29.09,
+    "internationalPrice": 29.09,
+    "domesticPrice": 1298.0,
+    "domesticPriceDon": 4867.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-24",
+    "bid": 29.2,
+    "ask": 29.32,
+    "internationalPrice": 29.32,
+    "domesticPrice": 1306.0,
+    "domesticPriceDon": 4899.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-25",
+    "bid": 28.0,
+    "ask": 28.11,
+    "internationalPrice": 28.11,
+    "domesticPrice": 1250.0,
+    "domesticPriceDon": 4689.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-26",
+    "bid": 27.78,
+    "ask": 27.89,
+    "internationalPrice": 27.89,
+    "domesticPrice": 1244.0,
+    "domesticPriceDon": 4664.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-27",
+    "bid": 27.88,
+    "ask": 28.04,
+    "internationalPrice": 28.04,
+    "domesticPrice": 1250.0,
+    "domesticPriceDon": 4688.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-29",
+    "bid": 28.04,
+    "ask": 28.18,
+    "internationalPrice": 28.18,
+    "domesticPrice": 1256.0,
+    "domesticPriceDon": 4708.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-30",
+    "bid": 27.86,
+    "ask": 27.98,
+    "internationalPrice": 27.98,
+    "domesticPrice": 1247.0,
+    "domesticPriceDon": 4674.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-07-31",
+    "bid": 28.59,
+    "ask": 28.69,
+    "internationalPrice": 28.69,
+    "domesticPrice": 1270.0,
+    "domesticPriceDon": 4762.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-01",
+    "bid": 28.79,
+    "ask": 28.89,
+    "internationalPrice": 28.89,
+    "domesticPrice": 1271.0,
+    "domesticPriceDon": 4768.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-02",
+    "bid": 28.89,
+    "ask": 29.01,
+    "internationalPrice": 29.01,
+    "domesticPrice": 1275.0,
+    "domesticPriceDon": 4783.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-03",
+    "bid": 28.54,
+    "ask": 28.69,
+    "internationalPrice": 28.69,
+    "domesticPrice": 1255.0,
+    "domesticPriceDon": 4706.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-05",
+    "bid": 27.79,
+    "ask": 27.92,
+    "internationalPrice": 27.92,
+    "domesticPrice": 1226.0,
+    "domesticPriceDon": 4598.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-06",
+    "bid": 26.95,
+    "ask": 27.07,
+    "internationalPrice": 27.07,
+    "domesticPrice": 1199.0,
+    "domesticPriceDon": 4498.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-07",
+    "bid": 26.92,
+    "ask": 27.04,
+    "internationalPrice": 27.04,
+    "domesticPrice": 1196.0,
+    "domesticPriceDon": 4484.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-08",
+    "bid": 26.86,
+    "ask": 26.97,
+    "internationalPrice": 26.97,
+    "domesticPrice": 1194.0,
+    "domesticPriceDon": 4476.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-09",
+    "bid": 27.54,
+    "ask": 27.65,
+    "internationalPrice": 27.65,
+    "domesticPrice": 1214.0,
+    "domesticPriceDon": 4553.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-10",
+    "bid": 27.45,
+    "ask": 27.59,
+    "internationalPrice": 27.59,
+    "domesticPrice": 1213.0,
+    "domesticPriceDon": 4550.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-12",
+    "bid": 27.82,
+    "ask": 27.96,
+    "internationalPrice": 27.96,
+    "domesticPrice": 1234.0,
+    "domesticPriceDon": 4627.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-13",
+    "bid": 27.76,
+    "ask": 27.87,
+    "internationalPrice": 27.87,
+    "domesticPrice": 1229.0,
+    "domesticPriceDon": 4609.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-14",
+    "bid": 27.9,
+    "ask": 28.01,
+    "internationalPrice": 28.01,
+    "domesticPrice": 1222.0,
+    "domesticPriceDon": 4584.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-15",
+    "bid": 28.04,
+    "ask": 28.16,
+    "internationalPrice": 28.16,
+    "domesticPrice": 1230.0,
+    "domesticPriceDon": 4614.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-16",
+    "bid": 28.22,
+    "ask": 28.38,
+    "internationalPrice": 28.38,
+    "domesticPrice": 1239.0,
+    "domesticPriceDon": 4648.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-17",
+    "bid": 29.01,
+    "ask": 29.16,
+    "internationalPrice": 29.16,
+    "domesticPrice": 1268.0,
+    "domesticPriceDon": 4754.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-19",
+    "bid": 28.93,
+    "ask": 29.08,
+    "internationalPrice": 29.08,
+    "domesticPrice": 1251.0,
+    "domesticPriceDon": 4692.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-20",
+    "bid": 29.67,
+    "ask": 29.78,
+    "internationalPrice": 29.78,
+    "domesticPrice": 1277.0,
+    "domesticPriceDon": 4789.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-21",
+    "bid": 29.47,
+    "ask": 29.63,
+    "internationalPrice": 29.63,
+    "domesticPrice": 1277.0,
+    "domesticPriceDon": 4789.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-22",
+    "bid": 29.46,
+    "ask": 29.6,
+    "internationalPrice": 29.6,
+    "domesticPrice": 1274.0,
+    "domesticPriceDon": 4778.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-23",
+    "bid": 29.39,
+    "ask": 29.55,
+    "internationalPrice": 29.55,
+    "domesticPrice": 1272.0,
+    "domesticPriceDon": 4770.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-24",
+    "bid": 29.81,
+    "ask": 29.96,
+    "internationalPrice": 29.96,
+    "domesticPrice": 1278.0,
+    "domesticPriceDon": 4793.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-26",
+    "bid": 30.13,
+    "ask": 30.26,
+    "internationalPrice": 30.26,
+    "domesticPrice": 1291.0,
+    "domesticPriceDon": 4840.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-27",
+    "bid": 29.93,
+    "ask": 30.07,
+    "internationalPrice": 30.07,
+    "domesticPrice": 1290.0,
+    "domesticPriceDon": 4839.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-28",
+    "bid": 29.52,
+    "ask": 29.63,
+    "internationalPrice": 29.63,
+    "domesticPrice": 1273.0,
+    "domesticPriceDon": 4773.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-29",
+    "bid": 29.46,
+    "ask": 29.62,
+    "internationalPrice": 29.62,
+    "domesticPrice": 1273.0,
+    "domesticPriceDon": 4772.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-30",
+    "bid": 29.52,
+    "ask": 29.62,
+    "internationalPrice": 29.62,
+    "domesticPrice": 1272.0,
+    "domesticPriceDon": 4770.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-08-31",
+    "bid": 28.85,
+    "ask": 28.97,
+    "internationalPrice": 28.97,
+    "domesticPrice": 1248.0,
+    "domesticPriceDon": 4679.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-02",
+    "bid": 28.65,
+    "ask": 28.77,
+    "internationalPrice": 28.77,
+    "domesticPrice": 1239.0,
+    "domesticPriceDon": 4648.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-03",
+    "bid": 28.45,
+    "ask": 28.57,
+    "internationalPrice": 28.57,
+    "domesticPrice": 1232.0,
+    "domesticPriceDon": 4621.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-04",
+    "bid": 27.76,
+    "ask": 27.91,
+    "internationalPrice": 27.91,
+    "domesticPrice": 1205.0,
+    "domesticPriceDon": 4520.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-05",
+    "bid": 28.7,
+    "ask": 28.82,
+    "internationalPrice": 28.82,
+    "domesticPrice": 1239.0,
+    "domesticPriceDon": 4645.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-06",
+    "bid": 28.79,
+    "ask": 28.9,
+    "internationalPrice": 28.9,
+    "domesticPrice": 1236.0,
+    "domesticPriceDon": 4635.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-07",
+    "bid": 27.92,
+    "ask": 28.07,
+    "internationalPrice": 28.07,
+    "domesticPrice": 1210.0,
+    "domesticPriceDon": 4539.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-09",
+    "bid": 28.1,
+    "ask": 28.21,
+    "internationalPrice": 28.21,
+    "domesticPrice": 1223.0,
+    "domesticPriceDon": 4587.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-10",
+    "bid": 28.32,
+    "ask": 28.48,
+    "internationalPrice": 28.48,
+    "domesticPrice": 1232.0,
+    "domesticPriceDon": 4620.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-11",
+    "bid": 28.77,
+    "ask": 28.91,
+    "internationalPrice": 28.91,
+    "domesticPrice": 1246.0,
+    "domesticPriceDon": 4674.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-12",
+    "bid": 28.79,
+    "ask": 28.93,
+    "internationalPrice": 28.93,
+    "domesticPrice": 1249.0,
+    "domesticPriceDon": 4684.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-13",
+    "bid": 30.12,
+    "ask": 30.27,
+    "internationalPrice": 30.27,
+    "domesticPrice": 1293.0,
+    "domesticPriceDon": 4850.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-14",
+    "bid": 30.65,
+    "ask": 30.8,
+    "internationalPrice": 30.8,
+    "domesticPrice": 1319.0,
+    "domesticPriceDon": 4946.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-16",
+    "bid": 30.93,
+    "ask": 31.04,
+    "internationalPrice": 31.04,
+    "domesticPrice": 1318.0,
+    "domesticPriceDon": 4941.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-17",
+    "bid": 30.78,
+    "ask": 30.89,
+    "internationalPrice": 30.89,
+    "domesticPrice": 1310.0,
+    "domesticPriceDon": 4911.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-18",
+    "bid": 30.57,
+    "ask": 30.73,
+    "internationalPrice": 30.73,
+    "domesticPrice": 1309.0,
+    "domesticPriceDon": 4909.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-19",
+    "bid": 31.11,
+    "ask": 31.25,
+    "internationalPrice": 31.25,
+    "domesticPrice": 1336.0,
+    "domesticPriceDon": 5009.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-20",
+    "bid": 31.26,
+    "ask": 31.37,
+    "internationalPrice": 31.37,
+    "domesticPrice": 1347.0,
+    "domesticPriceDon": 5051.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-21",
+    "bid": 31.12,
+    "ask": 31.27,
+    "internationalPrice": 31.27,
+    "domesticPrice": 1342.0,
+    "domesticPriceDon": 5031.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-23",
+    "bid": 30.39,
+    "ask": 30.55,
+    "internationalPrice": 30.55,
+    "domesticPrice": 1316.0,
+    "domesticPriceDon": 4936.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-24",
+    "bid": 30.9,
+    "ask": 31.05,
+    "internationalPrice": 31.05,
+    "domesticPrice": 1335.0,
+    "domesticPriceDon": 5005.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-25",
+    "bid": 31.84,
+    "ask": 31.99,
+    "internationalPrice": 31.99,
+    "domesticPrice": 1370.0,
+    "domesticPriceDon": 5136.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-26",
+    "bid": 32.22,
+    "ask": 32.34,
+    "internationalPrice": 32.34,
+    "domesticPrice": 1384.0,
+    "domesticPriceDon": 5189.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-27",
+    "bid": 31.78,
+    "ask": 31.93,
+    "internationalPrice": 31.93,
+    "domesticPrice": 1349.0,
+    "domesticPriceDon": 5060.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-28",
+    "bid": 31.62,
+    "ask": 31.77,
+    "internationalPrice": 31.77,
+    "domesticPrice": 1341.0,
+    "domesticPriceDon": 5030.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-09-30",
+    "bid": 31.51,
+    "ask": 31.62,
+    "internationalPrice": 31.62,
+    "domesticPrice": 1334.0,
+    "domesticPriceDon": 5003.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-01",
+    "bid": 31.38,
+    "ask": 31.49,
+    "internationalPrice": 31.49,
+    "domesticPrice": 1339.0,
+    "domesticPriceDon": 5021.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-02",
+    "bid": 31.44,
+    "ask": 31.59,
+    "internationalPrice": 31.59,
+    "domesticPrice": 1342.0,
+    "domesticPriceDon": 5031.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-03",
+    "bid": 31.48,
+    "ask": 31.64,
+    "internationalPrice": 31.64,
+    "domesticPrice": 1356.0,
+    "domesticPriceDon": 5086.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-04",
+    "bid": 32.02,
+    "ask": 32.14,
+    "internationalPrice": 32.14,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5184.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-05",
+    "bid": 32.16,
+    "ask": 32.32,
+    "internationalPrice": 32.32,
+    "domesticPrice": 1401.0,
+    "domesticPriceDon": 5254.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-07",
+    "bid": 31.94,
+    "ask": 32.05,
+    "internationalPrice": 32.05,
+    "domesticPrice": 1389.0,
+    "domesticPriceDon": 5210.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-08",
+    "bid": 31.21,
+    "ask": 31.33,
+    "internationalPrice": 31.33,
+    "domesticPrice": 1359.0,
+    "domesticPriceDon": 5097.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-09",
+    "bid": 30.62,
+    "ask": 30.76,
+    "internationalPrice": 30.76,
+    "domesticPrice": 1331.0,
+    "domesticPriceDon": 4991.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-10",
+    "bid": 30.5,
+    "ask": 30.64,
+    "internationalPrice": 30.64,
+    "domesticPrice": 1331.0,
+    "domesticPriceDon": 4991.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-11",
+    "bid": 31.12,
+    "ask": 31.24,
+    "internationalPrice": 31.24,
+    "domesticPrice": 1356.0,
+    "domesticPriceDon": 5084.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-12",
+    "bid": 31.53,
+    "ask": 31.64,
+    "internationalPrice": 31.64,
+    "domesticPrice": 1374.0,
+    "domesticPriceDon": 5153.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-14",
+    "bid": 31.45,
+    "ask": 31.55,
+    "internationalPrice": 31.55,
+    "domesticPrice": 1379.0,
+    "domesticPriceDon": 5169.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-15",
+    "bid": 31.18,
+    "ask": 31.29,
+    "internationalPrice": 31.29,
+    "domesticPrice": 1370.0,
+    "domesticPriceDon": 5139.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-16",
+    "bid": 31.85,
+    "ask": 31.99,
+    "internationalPrice": 31.99,
+    "domesticPrice": 1404.0,
+    "domesticPriceDon": 5263.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-17",
+    "bid": 31.61,
+    "ask": 31.75,
+    "internationalPrice": 31.75,
+    "domesticPrice": 1401.0,
+    "domesticPriceDon": 5255.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-18",
+    "bid": 31.97,
+    "ask": 32.13,
+    "internationalPrice": 32.13,
+    "domesticPrice": 1418.0,
+    "domesticPriceDon": 5318.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-19",
+    "bid": 33.65,
+    "ask": 33.91,
+    "internationalPrice": 33.91,
+    "domesticPrice": 1495.0,
+    "domesticPriceDon": 5608.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-21",
+    "bid": 34.0,
+    "ask": 34.15,
+    "internationalPrice": 34.15,
+    "domesticPrice": 1513.0,
+    "domesticPriceDon": 5673.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-22",
+    "bid": 34.24,
+    "ask": 34.35,
+    "internationalPrice": 34.35,
+    "domesticPrice": 1523.0,
+    "domesticPriceDon": 5711.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-23",
+    "bid": 34.65,
+    "ask": 34.77,
+    "internationalPrice": 34.77,
+    "domesticPrice": 1547.0,
+    "domesticPriceDon": 5801.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-24",
+    "bid": 34.22,
+    "ask": 34.36,
+    "internationalPrice": 34.36,
+    "domesticPrice": 1524.0,
+    "domesticPriceDon": 5715.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-25",
+    "bid": 33.2,
+    "ask": 33.32,
+    "internationalPrice": 33.32,
+    "domesticPrice": 1489.0,
+    "domesticPriceDon": 5585.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-26",
+    "bid": 33.7,
+    "ask": 33.85,
+    "internationalPrice": 33.85,
+    "domesticPrice": 1513.0,
+    "domesticPriceDon": 5675.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-28",
+    "bid": 33.47,
+    "ask": 33.61,
+    "internationalPrice": 33.61,
+    "domesticPrice": 1497.0,
+    "domesticPriceDon": 5612.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-29",
+    "bid": 34.11,
+    "ask": 34.25,
+    "internationalPrice": 34.25,
+    "domesticPrice": 1527.0,
+    "domesticPriceDon": 5726.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-30",
+    "bid": 34.16,
+    "ask": 34.28,
+    "internationalPrice": 34.28,
+    "domesticPrice": 1517.0,
+    "domesticPriceDon": 5688.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-10-31",
+    "bid": 33.52,
+    "ask": 33.63,
+    "internationalPrice": 33.63,
+    "domesticPrice": 1492.0,
+    "domesticPriceDon": 5596.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-01",
+    "bid": 32.81,
+    "ask": 32.97,
+    "internationalPrice": 32.97,
+    "domesticPrice": 1463.0,
+    "domesticPriceDon": 5485.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-02",
+    "bid": 32.43,
+    "ask": 32.58,
+    "internationalPrice": 32.58,
+    "domesticPrice": 1449.0,
+    "domesticPriceDon": 5433.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-04",
+    "bid": 32.65,
+    "ask": 32.8,
+    "internationalPrice": 32.8,
+    "domesticPrice": 1452.0,
+    "domesticPriceDon": 5447.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-05",
+    "bid": 32.61,
+    "ask": 32.76,
+    "internationalPrice": 32.76,
+    "domesticPrice": 1453.0,
+    "domesticPriceDon": 5449.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-06",
+    "bid": 32.27,
+    "ask": 32.42,
+    "internationalPrice": 32.42,
+    "domesticPrice": 1456.0,
+    "domesticPriceDon": 5458.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-07",
+    "bid": 31.03,
+    "ask": 31.18,
+    "internationalPrice": 31.18,
+    "domesticPrice": 1398.0,
+    "domesticPriceDon": 5241.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-08",
+    "bid": 31.45,
+    "ask": 31.57,
+    "internationalPrice": 31.57,
+    "domesticPrice": 1411.0,
+    "domesticPriceDon": 5292.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-09",
+    "bid": 31.29,
+    "ask": 31.41,
+    "internationalPrice": 31.41,
+    "domesticPrice": 1415.0,
+    "domesticPriceDon": 5306.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-11",
+    "bid": 31.28,
+    "ask": 31.43,
+    "internationalPrice": 31.43,
+    "domesticPrice": 1411.0,
+    "domesticPriceDon": 5293.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-12",
+    "bid": 30.37,
+    "ask": 30.48,
+    "internationalPrice": 30.48,
+    "domesticPrice": 1379.0,
+    "domesticPriceDon": 5173.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-13",
+    "bid": 30.87,
+    "ask": 31.01,
+    "internationalPrice": 31.01,
+    "domesticPrice": 1397.0,
+    "domesticPriceDon": 5239.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-14",
+    "bid": 29.87,
+    "ask": 29.99,
+    "internationalPrice": 29.99,
+    "domesticPrice": 1356.0,
+    "domesticPriceDon": 5086.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-15",
+    "bid": 30.44,
+    "ask": 30.55,
+    "internationalPrice": 30.55,
+    "domesticPrice": 1371.0,
+    "domesticPriceDon": 5141.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-16",
+    "bid": 30.22,
+    "ask": 30.35,
+    "internationalPrice": 30.35,
+    "domesticPrice": 1365.0,
+    "domesticPriceDon": 5118.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-18",
+    "bid": 30.62,
+    "ask": 30.78,
+    "internationalPrice": 30.78,
+    "domesticPrice": 1386.0,
+    "domesticPriceDon": 5196.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-19",
+    "bid": 31.32,
+    "ask": 31.47,
+    "internationalPrice": 31.47,
+    "domesticPrice": 1413.0,
+    "domesticPriceDon": 5297.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-20",
+    "bid": 30.92,
+    "ask": 31.07,
+    "internationalPrice": 31.07,
+    "domesticPrice": 1396.0,
+    "domesticPriceDon": 5234.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-21",
+    "bid": 31.19,
+    "ask": 31.33,
+    "internationalPrice": 31.33,
+    "domesticPrice": 1409.0,
+    "domesticPriceDon": 5285.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-22",
+    "bid": 31.35,
+    "ask": 31.46,
+    "internationalPrice": 31.46,
+    "domesticPrice": 1421.0,
+    "domesticPriceDon": 5329.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-23",
+    "bid": 31.31,
+    "ask": 31.43,
+    "internationalPrice": 31.43,
+    "domesticPrice": 1422.0,
+    "domesticPriceDon": 5333.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-25",
+    "bid": 30.76,
+    "ask": 30.9,
+    "internationalPrice": 30.9,
+    "domesticPrice": 1393.0,
+    "domesticPriceDon": 5225.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-26",
+    "bid": 30.2,
+    "ask": 30.36,
+    "internationalPrice": 30.36,
+    "domesticPrice": 1368.0,
+    "domesticPriceDon": 5129.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-27",
+    "bid": 30.56,
+    "ask": 30.72,
+    "internationalPrice": 30.72,
+    "domesticPrice": 1378.0,
+    "domesticPriceDon": 5168.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-28",
+    "bid": 30.02,
+    "ask": 30.17,
+    "internationalPrice": 30.17,
+    "domesticPrice": 1355.0,
+    "domesticPriceDon": 5082.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-29",
+    "bid": 30.64,
+    "ask": 30.76,
+    "internationalPrice": 30.76,
+    "domesticPrice": 1381.0,
+    "domesticPriceDon": 5178.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-11-30",
+    "bid": 30.6,
+    "ask": 30.75,
+    "internationalPrice": 30.75,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5182.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-02",
+    "bid": 30.19,
+    "ask": 30.3,
+    "internationalPrice": 30.3,
+    "domesticPrice": 1370.0,
+    "domesticPriceDon": 5137.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-03",
+    "bid": 30.95,
+    "ask": 31.09,
+    "internationalPrice": 31.09,
+    "domesticPrice": 1401.0,
+    "domesticPriceDon": 5256.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-04",
+    "bid": 30.87,
+    "ask": 31.01,
+    "internationalPrice": 31.01,
+    "domesticPrice": 1414.0,
+    "domesticPriceDon": 5302.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-05",
+    "bid": 31.27,
+    "ask": 31.38,
+    "internationalPrice": 31.38,
+    "domesticPrice": 1430.0,
+    "domesticPriceDon": 5364.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-06",
+    "bid": 31.34,
+    "ask": 31.48,
+    "internationalPrice": 31.48,
+    "domesticPrice": 1439.0,
+    "domesticPriceDon": 5394.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-07",
+    "bid": 30.97,
+    "ask": 31.09,
+    "internationalPrice": 31.09,
+    "domesticPrice": 1427.0,
+    "domesticPriceDon": 5350.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-09",
+    "bid": 31.32,
+    "ask": 31.44,
+    "internationalPrice": 31.44,
+    "domesticPrice": 1451.0,
+    "domesticPriceDon": 5441.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-10",
+    "bid": 31.81,
+    "ask": 31.93,
+    "internationalPrice": 31.93,
+    "domesticPrice": 1469.0,
+    "domesticPriceDon": 5511.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-11",
+    "bid": 31.72,
+    "ask": 31.96,
+    "internationalPrice": 31.96,
+    "domesticPrice": 1476.0,
+    "domesticPriceDon": 5536.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-12",
+    "bid": 32.22,
+    "ask": 32.42,
+    "internationalPrice": 32.42,
+    "domesticPrice": 1494.0,
+    "domesticPriceDon": 5602.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-13",
+    "bid": 30.81,
+    "ask": 30.93,
+    "internationalPrice": 30.93,
+    "domesticPrice": 1428.0,
+    "domesticPriceDon": 5356.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-14",
+    "bid": 30.56,
+    "ask": 30.68,
+    "internationalPrice": 30.68,
+    "domesticPrice": 1418.0,
+    "domesticPriceDon": 5319.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-16",
+    "bid": 30.61,
+    "ask": 30.76,
+    "internationalPrice": 30.76,
+    "domesticPrice": 1421.0,
+    "domesticPriceDon": 5328.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-17",
+    "bid": 30.27,
+    "ask": 30.38,
+    "internationalPrice": 30.38,
+    "domesticPrice": 1406.0,
+    "domesticPriceDon": 5272.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-18",
+    "bid": 30.37,
+    "ask": 30.52,
+    "internationalPrice": 30.52,
+    "domesticPrice": 1412.0,
+    "domesticPriceDon": 5296.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-19",
+    "bid": 29.56,
+    "ask": 29.71,
+    "internationalPrice": 29.71,
+    "domesticPrice": 1384.0,
+    "domesticPriceDon": 5190.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-20",
+    "bid": 28.96,
+    "ask": 29.08,
+    "internationalPrice": 29.08,
+    "domesticPrice": 1357.0,
+    "domesticPriceDon": 5087.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-21",
+    "bid": 29.52,
+    "ask": 29.66,
+    "internationalPrice": 29.66,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5184.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-23",
+    "bid": 29.73,
+    "ask": 29.88,
+    "internationalPrice": 29.88,
+    "domesticPrice": 1397.0,
+    "domesticPriceDon": 5237.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-24",
+    "bid": 29.61,
+    "ask": 29.76,
+    "internationalPrice": 29.76,
+    "domesticPrice": 1399.0,
+    "domesticPriceDon": 5248.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-25",
+    "bid": 29.61,
+    "ask": 29.76,
+    "internationalPrice": 29.76,
+    "domesticPrice": 1396.0,
+    "domesticPriceDon": 5236.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-26",
+    "bid": 29.61,
+    "ask": 29.72,
+    "internationalPrice": 29.72,
+    "domesticPrice": 1403.0,
+    "domesticPriceDon": 5262.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-27",
+    "bid": 29.68,
+    "ask": 29.82,
+    "internationalPrice": 29.82,
+    "domesticPrice": 1417.0,
+    "domesticPriceDon": 5313.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-28",
+    "bid": 29.37,
+    "ask": 29.49,
+    "internationalPrice": 29.49,
+    "domesticPrice": 1400.0,
+    "domesticPriceDon": 5248.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-30",
+    "bid": 29.36,
+    "ask": 29.47,
+    "internationalPrice": 29.47,
+    "domesticPrice": 1397.0,
+    "domesticPriceDon": 5239.0
+  },
+  {
+    "type": "Ag",
+    "date": "2024-12-31",
+    "bid": 28.93,
+    "ask": 29.08,
+    "internationalPrice": 29.08,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5184.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-01",
+    "bid": 28.87,
+    "ask": 29.03,
+    "internationalPrice": 29.03,
+    "domesticPrice": 1382.0,
+    "domesticPriceDon": 5183.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-02",
+    "bid": 29.28,
+    "ask": 29.39,
+    "internationalPrice": 29.39,
+    "domesticPrice": 1385.0,
+    "domesticPriceDon": 5195.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-03",
+    "bid": 29.61,
+    "ask": 29.72,
+    "internationalPrice": 29.72,
+    "domesticPrice": 1408.0,
+    "domesticPriceDon": 5281.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-04",
+    "bid": 29.62,
+    "ask": 29.75,
+    "internationalPrice": 29.75,
+    "domesticPrice": 1406.0,
+    "domesticPriceDon": 5274.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-06",
+    "bid": 29.75,
+    "ask": 29.9,
+    "internationalPrice": 29.9,
+    "domesticPrice": 1410.0,
+    "domesticPriceDon": 5286.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-07",
+    "bid": 30.19,
+    "ask": 30.33,
+    "internationalPrice": 30.33,
+    "domesticPrice": 1410.0,
+    "domesticPriceDon": 5289.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-08",
+    "bid": 30.09,
+    "ask": 30.24,
+    "internationalPrice": 30.24,
+    "domesticPrice": 1421.0,
+    "domesticPriceDon": 5329.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-09",
+    "bid": 30.23,
+    "ask": 30.38,
+    "internationalPrice": 30.38,
+    "domesticPrice": 1429.0,
+    "domesticPriceDon": 5360.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-10",
+    "bid": 30.28,
+    "ask": 30.39,
+    "internationalPrice": 30.39,
+    "domesticPrice": 1434.0,
+    "domesticPriceDon": 5378.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-11",
+    "bid": 30.4,
+    "ask": 30.53,
+    "internationalPrice": 30.53,
+    "domesticPrice": 1451.0,
+    "domesticPriceDon": 5441.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-13",
+    "bid": 30.27,
+    "ask": 30.42,
+    "internationalPrice": 30.42,
+    "domesticPrice": 1439.0,
+    "domesticPriceDon": 5397.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-14",
+    "bid": 29.72,
+    "ask": 29.89,
+    "internationalPrice": 29.89,
+    "domesticPrice": 1404.0,
+    "domesticPriceDon": 5266.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-15",
+    "bid": 30.03,
+    "ask": 30.14,
+    "internationalPrice": 30.14,
+    "domesticPrice": 1417.0,
+    "domesticPriceDon": 5313.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-16",
+    "bid": 30.8,
+    "ask": 30.92,
+    "internationalPrice": 30.92,
+    "domesticPrice": 1450.0,
+    "domesticPriceDon": 5439.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-17",
+    "bid": 30.54,
+    "ask": 30.7,
+    "internationalPrice": 30.7,
+    "domesticPrice": 1440.0,
+    "domesticPriceDon": 5398.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-18",
+    "bid": 30.34,
+    "ask": 30.47,
+    "internationalPrice": 30.47,
+    "domesticPrice": 1431.0,
+    "domesticPriceDon": 5367.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-20",
+    "bid": 30.35,
+    "ask": 30.5,
+    "internationalPrice": 30.5,
+    "domesticPrice": 1423.0,
+    "domesticPriceDon": 5336.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-21",
+    "bid": 30.42,
+    "ask": 30.53,
+    "internationalPrice": 30.53,
+    "domesticPrice": 1416.0,
+    "domesticPriceDon": 5308.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-22",
+    "bid": 30.86,
+    "ask": 30.97,
+    "internationalPrice": 30.97,
+    "domesticPrice": 1428.0,
+    "domesticPriceDon": 5357.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-23",
+    "bid": 30.54,
+    "ask": 30.65,
+    "internationalPrice": 30.65,
+    "domesticPrice": 1420.0,
+    "domesticPriceDon": 5325.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-24",
+    "bid": 30.9,
+    "ask": 31.02,
+    "internationalPrice": 31.02,
+    "domesticPrice": 1426.0,
+    "domesticPriceDon": 5347.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-25",
+    "bid": 30.61,
+    "ask": 30.72,
+    "internationalPrice": 30.72,
+    "domesticPrice": 1414.0,
+    "domesticPriceDon": 5304.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-27",
+    "bid": 30.29,
+    "ask": 30.44,
+    "internationalPrice": 30.44,
+    "domesticPrice": 1405.0,
+    "domesticPriceDon": 5267.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-28",
+    "bid": 30.0,
+    "ask": 30.15,
+    "internationalPrice": 30.15,
+    "domesticPrice": 1405.0,
+    "domesticPriceDon": 5267.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-29",
+    "bid": 30.46,
+    "ask": 30.62,
+    "internationalPrice": 30.62,
+    "domesticPrice": 1422.0,
+    "domesticPriceDon": 5332.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-30",
+    "bid": 31.06,
+    "ask": 31.18,
+    "internationalPrice": 31.18,
+    "domesticPrice": 1447.0,
+    "domesticPriceDon": 5427.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-01-31",
+    "bid": 31.57,
+    "ask": 31.73,
+    "internationalPrice": 31.73,
+    "domesticPrice": 1480.0,
+    "domesticPriceDon": 5550.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-01",
+    "bid": 31.3,
+    "ask": 31.42,
+    "internationalPrice": 31.42,
+    "domesticPrice": 1475.0,
+    "domesticPriceDon": 5530.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-03",
+    "bid": 31.12,
+    "ask": 31.24,
+    "internationalPrice": 31.24,
+    "domesticPrice": 1474.0,
+    "domesticPriceDon": 5527.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-04",
+    "bid": 31.64,
+    "ask": 31.76,
+    "internationalPrice": 31.76,
+    "domesticPrice": 1490.0,
+    "domesticPriceDon": 5586.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-05",
+    "bid": 32.43,
+    "ask": 32.55,
+    "internationalPrice": 32.55,
+    "domesticPrice": 1514.0,
+    "domesticPriceDon": 5678.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-06",
+    "bid": 32.02,
+    "ask": 32.15,
+    "internationalPrice": 32.15,
+    "domesticPrice": 1500.0,
+    "domesticPriceDon": 5626.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-07",
+    "bid": 32.34,
+    "ask": 32.45,
+    "internationalPrice": 32.45,
+    "domesticPrice": 1506.0,
+    "domesticPriceDon": 5649.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-08",
+    "bid": 31.81,
+    "ask": 31.94,
+    "internationalPrice": 31.94,
+    "domesticPrice": 1498.0,
+    "domesticPriceDon": 5616.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-10",
+    "bid": 32.18,
+    "ask": 32.34,
+    "internationalPrice": 32.34,
+    "domesticPrice": 1511.0,
+    "domesticPriceDon": 5665.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-11",
+    "bid": 31.69,
+    "ask": 31.84,
+    "internationalPrice": 31.84,
+    "domesticPrice": 1488.0,
+    "domesticPriceDon": 5581.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-12",
+    "bid": 31.79,
+    "ask": 31.9,
+    "internationalPrice": 31.9,
+    "domesticPrice": 1492.0,
+    "domesticPriceDon": 5594.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-13",
+    "bid": 32.24,
+    "ask": 32.35,
+    "internationalPrice": 32.35,
+    "domesticPrice": 1510.0,
+    "domesticPriceDon": 5663.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-14",
+    "bid": 33.18,
+    "ask": 33.31,
+    "internationalPrice": 33.31,
+    "domesticPrice": 1543.0,
+    "domesticPriceDon": 5788.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-15",
+    "bid": 32.13,
+    "ask": 32.27,
+    "internationalPrice": 32.27,
+    "domesticPrice": 1499.0,
+    "domesticPriceDon": 5620.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-17",
+    "bid": 32.33,
+    "ask": 32.47,
+    "internationalPrice": 32.47,
+    "domesticPrice": 1508.0,
+    "domesticPriceDon": 5654.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-18",
+    "bid": 32.47,
+    "ask": 32.62,
+    "internationalPrice": 32.62,
+    "domesticPrice": 1512.0,
+    "domesticPriceDon": 5671.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-19",
+    "bid": 32.9,
+    "ask": 33.05,
+    "internationalPrice": 33.05,
+    "domesticPrice": 1533.0,
+    "domesticPriceDon": 5748.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-20",
+    "bid": 33.02,
+    "ask": 33.17,
+    "internationalPrice": 33.17,
+    "domesticPrice": 1537.0,
+    "domesticPriceDon": 5763.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-21",
+    "bid": 32.75,
+    "ask": 32.88,
+    "internationalPrice": 32.88,
+    "domesticPrice": 1518.0,
+    "domesticPriceDon": 5693.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-22",
+    "bid": 32.54,
+    "ask": 32.68,
+    "internationalPrice": 32.68,
+    "domesticPrice": 1509.0,
+    "domesticPriceDon": 5658.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-24",
+    "bid": 32.61,
+    "ask": 32.72,
+    "internationalPrice": 32.72,
+    "domesticPrice": 1502.0,
+    "domesticPriceDon": 5633.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-25",
+    "bid": 32.22,
+    "ask": 32.34,
+    "internationalPrice": 32.34,
+    "domesticPrice": 1492.0,
+    "domesticPriceDon": 5593.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-26",
+    "bid": 31.9,
+    "ask": 32.01,
+    "internationalPrice": 32.01,
+    "domesticPrice": 1475.0,
+    "domesticPriceDon": 5531.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-27",
+    "bid": 31.64,
+    "ask": 31.76,
+    "internationalPrice": 31.76,
+    "domesticPrice": 1476.0,
+    "domesticPriceDon": 5534.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-02-28",
+    "bid": 31.07,
+    "ask": 31.2,
+    "internationalPrice": 31.2,
+    "domesticPrice": 1466.0,
+    "domesticPriceDon": 5496.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-01",
+    "bid": 31.15,
+    "ask": 31.26,
+    "internationalPrice": 31.26,
+    "domesticPrice": 1471.0,
+    "domesticPriceDon": 5515.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-03",
+    "bid": 31.34,
+    "ask": 31.46,
+    "internationalPrice": 31.46,
+    "domesticPrice": 1479.0,
+    "domesticPriceDon": 5545.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-04",
+    "bid": 31.76,
+    "ask": 31.88,
+    "internationalPrice": 31.88,
+    "domesticPrice": 1498.0,
+    "domesticPriceDon": 5617.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-05",
+    "bid": 32.33,
+    "ask": 32.45,
+    "internationalPrice": 32.45,
+    "domesticPrice": 1513.0,
+    "domesticPriceDon": 5673.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-06",
+    "bid": 32.49,
+    "ask": 32.61,
+    "internationalPrice": 32.61,
+    "domesticPrice": 1517.0,
+    "domesticPriceDon": 5687.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-07",
+    "bid": 32.63,
+    "ask": 32.74,
+    "internationalPrice": 32.74,
+    "domesticPrice": 1522.0,
+    "domesticPriceDon": 5707.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-08",
+    "bid": 32.52,
+    "ask": 32.65,
+    "internationalPrice": 32.65,
+    "domesticPrice": 1524.0,
+    "domesticPriceDon": 5716.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-10",
+    "bid": 32.36,
+    "ask": 32.48,
+    "internationalPrice": 32.48,
+    "domesticPrice": 1521.0,
+    "domesticPriceDon": 5703.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-11",
+    "bid": 32.4,
+    "ask": 32.53,
+    "internationalPrice": 32.53,
+    "domesticPrice": 1521.0,
+    "domesticPriceDon": 5702.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-12",
+    "bid": 33.02,
+    "ask": 33.15,
+    "internationalPrice": 33.15,
+    "domesticPrice": 1546.0,
+    "domesticPriceDon": 5798.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-13",
+    "bid": 33.02,
+    "ask": 33.17,
+    "internationalPrice": 33.17,
+    "domesticPrice": 1553.0,
+    "domesticPriceDon": 5825.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-14",
+    "bid": 33.97,
+    "ask": 34.13,
+    "internationalPrice": 34.13,
+    "domesticPrice": 1598.0,
+    "domesticPriceDon": 5993.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-15",
+    "bid": 33.77,
+    "ask": 33.93,
+    "internationalPrice": 33.93,
+    "domesticPrice": 1584.0,
+    "domesticPriceDon": 5942.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-17",
+    "bid": 33.75,
+    "ask": 33.86,
+    "internationalPrice": 33.86,
+    "domesticPrice": 1579.0,
+    "domesticPriceDon": 5921.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-18",
+    "bid": 34.11,
+    "ask": 34.22,
+    "internationalPrice": 34.22,
+    "domesticPrice": 1595.0,
+    "domesticPriceDon": 5983.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-19",
+    "bid": 33.68,
+    "ask": 33.81,
+    "internationalPrice": 33.81,
+    "domesticPrice": 1585.0,
+    "domesticPriceDon": 5943.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-20",
+    "bid": 33.52,
+    "ask": 33.68,
+    "internationalPrice": 33.68,
+    "domesticPrice": 1588.0,
+    "domesticPriceDon": 5954.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-21",
+    "bid": 33.06,
+    "ask": 33.17,
+    "internationalPrice": 33.17,
+    "domesticPrice": 1560.0,
+    "domesticPriceDon": 5849.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-22",
+    "bid": 33.04,
+    "ask": 33.19,
+    "internationalPrice": 33.19,
+    "domesticPrice": 1564.0,
+    "domesticPriceDon": 5863.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-24",
+    "bid": 33.22,
+    "ask": 33.37,
+    "internationalPrice": 33.37,
+    "domesticPrice": 1575.0,
+    "domesticPriceDon": 5905.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-25",
+    "bid": 33.27,
+    "ask": 33.41,
+    "internationalPrice": 33.41,
+    "domesticPrice": 1579.0,
+    "domesticPriceDon": 5922.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-26",
+    "bid": 33.63,
+    "ask": 33.75,
+    "internationalPrice": 33.75,
+    "domesticPrice": 1591.0,
+    "domesticPriceDon": 5968.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-27",
+    "bid": 33.72,
+    "ask": 33.87,
+    "internationalPrice": 33.87,
+    "domesticPrice": 1597.0,
+    "domesticPriceDon": 5987.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-28",
+    "bid": 34.49,
+    "ask": 34.61,
+    "internationalPrice": 34.61,
+    "domesticPrice": 1634.0,
+    "domesticPriceDon": 6126.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-29",
+    "bid": 34.11,
+    "ask": 34.26,
+    "internationalPrice": 34.26,
+    "domesticPrice": 1621.0,
+    "domesticPriceDon": 6080.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-03-31",
+    "bid": 34.2,
+    "ask": 34.36,
+    "internationalPrice": 34.36,
+    "domesticPrice": 1629.0,
+    "domesticPriceDon": 6108.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-01",
+    "bid": 34.0,
+    "ask": 34.14,
+    "internationalPrice": 34.14,
+    "domesticPrice": 1616.0,
+    "domesticPriceDon": 6061.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-02",
+    "bid": 34.0,
+    "ask": 34.12,
+    "internationalPrice": 34.12,
+    "domesticPrice": 1607.0,
+    "domesticPriceDon": 6027.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-03",
+    "bid": 33.06,
+    "ask": 33.2,
+    "internationalPrice": 33.2,
+    "domesticPrice": 1558.0,
+    "domesticPriceDon": 5843.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-04",
+    "bid": 31.38,
+    "ask": 31.51,
+    "internationalPrice": 31.51,
+    "domesticPrice": 1466.0,
+    "domesticPriceDon": 5497.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-05",
+    "bid": 29.55,
+    "ask": 29.71,
+    "internationalPrice": 29.71,
+    "domesticPrice": 1396.0,
+    "domesticPriceDon": 5235.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-07",
+    "bid": 30.28,
+    "ask": 30.4,
+    "internationalPrice": 30.4,
+    "domesticPrice": 1433.0,
+    "domesticPriceDon": 5373.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-08",
+    "bid": 30.27,
+    "ask": 30.39,
+    "internationalPrice": 30.39,
+    "domesticPrice": 1447.0,
+    "domesticPriceDon": 5424.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-09",
+    "bid": 30.37,
+    "ask": 30.51,
+    "internationalPrice": 30.51,
+    "domesticPrice": 1452.0,
+    "domesticPriceDon": 5443.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-10",
+    "bid": 30.88,
+    "ask": 31.02,
+    "internationalPrice": 31.02,
+    "domesticPrice": 1463.0,
+    "domesticPriceDon": 5486.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-11",
+    "bid": 31.34,
+    "ask": 31.48,
+    "internationalPrice": 31.48,
+    "domesticPrice": 1451.0,
+    "domesticPriceDon": 5443.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-12",
+    "bid": 32.25,
+    "ask": 32.41,
+    "internationalPrice": 32.41,
+    "domesticPrice": 1483.0,
+    "domesticPriceDon": 5563.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-14",
+    "bid": 32.29,
+    "ask": 32.44,
+    "internationalPrice": 32.44,
+    "domesticPrice": 1481.0,
+    "domesticPriceDon": 5555.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-15",
+    "bid": 32.27,
+    "ask": 32.42,
+    "internationalPrice": 32.42,
+    "domesticPrice": 1493.0,
+    "domesticPriceDon": 5598.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-16",
+    "bid": 32.88,
+    "ask": 33.02,
+    "internationalPrice": 33.02,
+    "domesticPrice": 1511.0,
+    "domesticPriceDon": 5667.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-17",
+    "bid": 32.43,
+    "ask": 32.55,
+    "internationalPrice": 32.55,
+    "domesticPrice": 1485.0,
+    "domesticPriceDon": 5569.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-18",
+    "bid": 32.59,
+    "ask": 32.74,
+    "internationalPrice": 32.74,
+    "domesticPrice": 1503.0,
+    "domesticPriceDon": 5635.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-19",
+    "bid": 32.59,
+    "ask": 32.74,
+    "internationalPrice": 32.74,
+    "domesticPrice": 1500.0,
+    "domesticPriceDon": 5624.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-21",
+    "bid": 32.81,
+    "ask": 32.97,
+    "internationalPrice": 32.97,
+    "domesticPrice": 1505.0,
+    "domesticPriceDon": 5643.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-22",
+    "bid": 32.33,
+    "ask": 32.48,
+    "internationalPrice": 32.48,
+    "domesticPrice": 1490.0,
+    "domesticPriceDon": 5589.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-23",
+    "bid": 32.88,
+    "ask": 33.04,
+    "internationalPrice": 33.04,
+    "domesticPrice": 1516.0,
+    "domesticPriceDon": 5683.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-24",
+    "bid": 33.34,
+    "ask": 33.49,
+    "internationalPrice": 33.49,
+    "domesticPrice": 1548.0,
+    "domesticPriceDon": 5804.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-25",
+    "bid": 33.4,
+    "ask": 33.55,
+    "internationalPrice": 33.55,
+    "domesticPrice": 1553.0,
+    "domesticPriceDon": 5823.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-26",
+    "bid": 33.08,
+    "ask": 33.23,
+    "internationalPrice": 33.23,
+    "domesticPrice": 1539.0,
+    "domesticPriceDon": 5771.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-28",
+    "bid": 32.9,
+    "ask": 33.06,
+    "internationalPrice": 33.06,
+    "domesticPrice": 1537.0,
+    "domesticPriceDon": 5762.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-29",
+    "bid": 33.22,
+    "ask": 33.37,
+    "internationalPrice": 33.37,
+    "domesticPrice": 1540.0,
+    "domesticPriceDon": 5775.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-04-30",
+    "bid": 32.4,
+    "ask": 32.53,
+    "internationalPrice": 32.53,
+    "domesticPrice": 1489.0,
+    "domesticPriceDon": 5582.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-01",
+    "bid": 32.25,
+    "ask": 32.39,
+    "internationalPrice": 32.39,
+    "domesticPrice": 1488.0,
+    "domesticPriceDon": 5578.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-02",
+    "bid": 32.49,
+    "ask": 32.6,
+    "internationalPrice": 32.6,
+    "domesticPrice": 1478.0,
+    "domesticPriceDon": 5541.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-03",
+    "bid": 31.97,
+    "ask": 32.13,
+    "internationalPrice": 32.13,
+    "domesticPrice": 1449.0,
+    "domesticPriceDon": 5434.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-05",
+    "bid": 32.38,
+    "ask": 32.53,
+    "internationalPrice": 32.53,
+    "domesticPrice": 1450.0,
+    "domesticPriceDon": 5437.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-06",
+    "bid": 33.02,
+    "ask": 33.15,
+    "internationalPrice": 33.15,
+    "domesticPrice": 1478.0,
+    "domesticPriceDon": 5542.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-07",
+    "bid": 32.88,
+    "ask": 33.0,
+    "internationalPrice": 33.0,
+    "domesticPrice": 1479.0,
+    "domesticPriceDon": 5546.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-08",
+    "bid": 32.34,
+    "ask": 32.46,
+    "internationalPrice": 32.46,
+    "domesticPrice": 1464.0,
+    "domesticPriceDon": 5488.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-09",
+    "bid": 32.56,
+    "ask": 32.7,
+    "internationalPrice": 32.7,
+    "domesticPrice": 1473.0,
+    "domesticPriceDon": 5523.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-10",
+    "bid": 32.7,
+    "ask": 32.85,
+    "internationalPrice": 32.85,
+    "domesticPrice": 1477.0,
+    "domesticPriceDon": 5538.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-12",
+    "bid": 32.27,
+    "ask": 32.42,
+    "internationalPrice": 32.42,
+    "domesticPrice": 1481.0,
+    "domesticPriceDon": 5555.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-13",
+    "bid": 33.11,
+    "ask": 33.27,
+    "internationalPrice": 33.27,
+    "domesticPrice": 1526.0,
+    "domesticPriceDon": 5723.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-14",
+    "bid": 32.81,
+    "ask": 32.94,
+    "internationalPrice": 32.94,
+    "domesticPrice": 1480.0,
+    "domesticPriceDon": 5549.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-15",
+    "bid": 31.89,
+    "ask": 32.03,
+    "internationalPrice": 32.03,
+    "domesticPrice": 1441.0,
+    "domesticPriceDon": 5404.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-16",
+    "bid": 32.24,
+    "ask": 32.39,
+    "internationalPrice": 32.39,
+    "domesticPrice": 1455.0,
+    "domesticPriceDon": 5457.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-17",
+    "bid": 32.25,
+    "ask": 32.41,
+    "internationalPrice": 32.41,
+    "domesticPrice": 1460.0,
+    "domesticPriceDon": 5475.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-19",
+    "bid": 32.58,
+    "ask": 32.73,
+    "internationalPrice": 32.73,
+    "domesticPrice": 1464.0,
+    "domesticPriceDon": 5490.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-20",
+    "bid": 32.36,
+    "ask": 32.51,
+    "internationalPrice": 32.51,
+    "domesticPrice": 1457.0,
+    "domesticPriceDon": 5464.0
+  },
+  {
+    "type": "Ag",
+    "date": "2025-05-21",
+    "bid": 33.15,
+    "ask": 33.27,
+    "internationalPrice": 33.27,
+    "domesticPrice": 1487.0,
+    "domesticPriceDon": 5576.0
+  }
+]
